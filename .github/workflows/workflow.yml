@@ -1,0 +1,40 @@
+name: test
+
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v2
+      - name: install deps
+        run: sudo apt-get update && sudo apt-get install snapd sqlite3
+      - name: install newsboat
+        run: sudo snap install newsboat
+      - name: ver
+        run: newsboat -v
+      - name: Run newsboat
+        run: newsboat -u newsboat/urls -C newsboat/config -c cache.db -x reload
+      - name: Run liveboat
+        run: ./bin/liveboat --template-path templates/default --config-file config.toml --debug
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add ./build
+          if [-z "$(git status --porcelain)"]; then
+            echo "::set-output name=push::false"
+          else
+            git commit -m "Add changes" -a
+            echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

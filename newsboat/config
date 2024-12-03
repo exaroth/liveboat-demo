@@ -1,0 +1,92 @@
+# ----------------------------------------------------------------------
+# file:    ~/.config/newsbeuter/config
+# author:  moparx     - http://moparx.com/configs
+# date:    05/08/2013 - 18:12 EDT
+# vim: set ai et fenc=utf-8 ft=conf nu si sts=0 sw=4 ts=8 tw=0 :
+# ----------------------------------------------------------------------
+
+auto-reload no
+browser w3m
+cleanup-on-quit yes
+feed-sort-order title-dec
+notify-always yes
+notify-format "nbeuter: unread %n items/%f feeds"
+notify-program notify-send
+notify-xterm yes
+notify-screen yes
+refresh-on-startup no
+reload-time 20
+reload-threads 2
+prepopulate-query-feeds yes
+#show-read-articles no
+show-read-feeds no
+confirm-mark-all-feeds-read yes
+confirm-mark-feed-read no
+keep-articles-days 120
+player mpg123
+max-downloads 4
+
+# binds ----------------------------------------------------------------
+
+# unbind-key t
+unbind-key R
+bind-key \ reload-all
+# bind-key "RIGHT" select-tag
+bind-key "SPACE" open
+
+
+# hide articles matching: ---------------------------------------------
+
+ignore-article "*" "title =~ \"Sponsor\""
+ignore-article "*" "title =~ \"Advertisement\""
+ignore-mode "display"
+
+# unbind keys
+# unbind-key ENTER
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+unbind-key b
+unbind-key ^F
+unbind-key ^B
+unbind-key r
+
+# bind keys - vim style
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+bind-key b bookmark
+bind-key ^F pagedown
+bind-key ^B pageup
+bind-key r reload-all 
+
+
+# Macro
+
+# formatting and colorization ------------------------------------------
+
+articlelist-format "%4i %f %D  %?T?|%-17T| ?%t"
+
+highlight feedlist    "^  *[0-9]+  *N  "                    color156 default
+highlight articlelist "^  *[0-9]+  *N  "                    color156 default
+
+highlight article     "(^Feed:.*|^Title:.*|^Author:.*)"     color75  default
+highlight article     "(^Link:.*|^Date:.*)"                 color75  default
+highlight article     "^Podcast Download URL:.*"            color71  default
+highlight article     "^Links:"                             white    color240 underline
+highlight article     "\\[[0-9][0-9]*\\]"                   color72  default  bold
+highlight article     "\\[image [0-9][0-9]*\\]"             color72  default  bold
+highlight article     "\\[embedded flash: [0-9][0-9]*\\]"   color72  default  bold
+highlight article     ":.*\\(link\\)$"                      color74  default
+highlight article     ":.*\\(image\\)$"                     color74  default
+highlight article     ":.*\\(embedded flash\\)$"            color74  default
+
+color listnormal                                            white    default
+color listfocus                                             default  color240
+color info                                                  default  color240
+macro l set browser "mpv --vo=null --no-audio-display $(yt-dlp --get-url --extract-audio %u)" ; open-in-browser
+macro v set browser "mpv %u"; open-in-browser
+macro , set browser "w3m %u"; open-in-browser
+macro . set browser "firefox %u"; open-in-browser
