@@ -1,0 +1,81 @@
+{
+  "id": "46aP2QbqUqBrWfYqAibo8xS24qkvbDNgWZUrxgZ6XNcyUn6fFxkgS1aSWJWwPwaqFp34erWr8NxVvd6jro8uiaPvDUjw",
+  "title": "top scoring links : kubernetes",
+  "displayTitle": "Reddit - Kubernetes",
+  "url": "https://www.reddit.com/r/kubernetes/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/kubernetes/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "Kubernetes on premise: overkill or good solution in this situation?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h59jmg/kubernetes_on_premise_overkill_or_good_solution/",
+      "date": 1733183125,
+      "author": "/u/SpicySpider72",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Just to inform, only my boss and I have knowledge about Docker and Kubernetes at our company (I&#39;m new to both technologies, so please bear with me)</p> <p>I work in the energy industry and I&#39;ve been put in charge of a project for a SCADA. The situation is this:</p> <ul> <li>It&#39;s going to be disconnected from the internet.</li> <li>There&#39;s a central SCADA server running Proxmox for specific VMs. One is a Kubernetes master VM to control the workers (if that&#39;s how it works).</li> <li>There&#39;s gonna be hundreds of micro industrial computers (MIC) running any Linux distro of our choice for Kubernetes workers. Each MIC has access to a closed network to read data from sensors, devices and other PLCs using our containerized software. It&#39;s made this way because our client requires store and forward in case of loss of communication between the local MIC and the SCADA server.</li> <li>There&#39;s a fixed number of MICs running on site, there won&#39;t be a need to autoscale those since the tasks each MIC has to do don&#39;t depend on how many clients are connected at once. That&#39;ll depend on the central SCADA server, which is already capable of handling thousands of clients, which is much more than enough.</li> <li>Not every MIC has to use the same software. For example, MIC 1 may use software A, B and C, but MIC 2 may use software A, C and E instead.</li> </ul> <p>Is Kubernetes a good solution in this situation or would it be too complicated to implement? Docker swarm was considered, but given how more widely used Kubernetes is, my boss isn&#39;t interested in using &quot;declining software&quot;...</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/SpicySpider72\"> /u/SpicySpider72 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h59jmg/kubernetes_on_premise_overkill_or_good_solution/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h59jmg/kubernetes_on_premise_overkill_or_good_solution/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Cyber Monday 2024 | Linux Foundation Education",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h5fjsm/cyber_monday_2024_linux_foundation_education/",
+      "date": 1733201258,
+      "author": "/u/dshurupov",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/kubernetes/comments/1h5fjsm/cyber_monday_2024_linux_foundation_education/\"> <img src=\"https://external-preview.redd.it/17Uaw4nrILhhnkVVm8dfkXcaxYZ80KGNGBfVbE6drik.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=208f2f0a9daa6dd62b769de78a81387ad96a8baa\" alt=\"Cyber Monday 2024 | Linux Foundation Education\" title=\"Cyber Monday 2024 | Linux Foundation Education\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Cyber Week discounts on LF Education are available throughout Dec 2-11. You can get 50% off for regular Kubernetes/Cloud Native exams and 60% off for bundles.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dshurupov\"> /u/dshurupov </a> <br/> <span><a href=\"https://training.linuxfoundation.org/cyber-monday-2024/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5fjsm/cyber_monday_2024_linux_foundation_education/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "How to expose non TCP ports in Minikube (>1024)",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h5iykm/how_to_expose_non_tcp_ports_in_minikube_1024/",
+      "date": 1733214871,
+      "author": "/u/icordoba",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello,</p> <p>for a proof of concept project I need to expose several TCP ports in some minikube clusters. These services have nothing to do with http or https (they are gRPC, ...). They are higher ports than 1024. What is the recommended approach to expose them so they can be accessed from outside the cluster? Thanks.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/icordoba\"> /u/icordoba </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5iykm/how_to_expose_non_tcp_ports_in_minikube_1024/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5iykm/how_to_expose_non_tcp_ports_in_minikube_1024/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Mastering Kubernetes: From Monitoring to Automation",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h5l5u8/mastering_kubernetes_from_monitoring_to_automation/",
+      "date": 1733224675,
+      "author": "/u/Rainnis",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/kubernetes/comments/1h5l5u8/mastering_kubernetes_from_monitoring_to_automation/\"> <img src=\"https://external-preview.redd.it/JoRI24vBXW-nuk0jGFfS2ZypjR8uvtUj5-toUhn34W8.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5e1a30f528c3aaaeec3536e80065fcfef1a6d744\" alt=\"Mastering Kubernetes: From Monitoring to Automation \" title=\"Mastering Kubernetes: From Monitoring to Automation \" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Rainnis\"> /u/Rainnis </a> <br/> <span><a href=\"https://youtu.be/HHETsDLAlt0?si=_D4vWE-dRc2Rwuwd\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5l5u8/mastering_kubernetes_from_monitoring_to_automation/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Optimize the Kubernetes dev experience by creating silos",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h5lwbg/optimize_the_kubernetes_dev_experience_by/",
+      "date": 1733227505,
+      "author": "/u/danielepolencic",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><strong>Michael Levan</strong> explains how specialized teams and smart abstractions can lead to better outcomes. Drawing from cognitive science and his experience in platform engineering, Michael presents practical strategies for building effective engineering organizations.</p> <p>You will learn:</p> <ul> <li>Why <strong>specialized teams (or &quot;silos&quot;) can improve productivity</strong> and why the real enemy is ego, not specialization.</li> <li>How to use <strong>Internal Developer Platforms (IDPs) and abstractions to empower teams</strong> without requiring everyone to be a Kubernetes expert.</li> <li>How to <strong>balance specialization and collaboration</strong> using platform engineering practices and smart abstractions</li> <li>Practical strategies for <strong>managing cognitive load in engineering teams</strong> and why not everyone needs to know YAML.</li> </ul> <p>Watch it here: <a href=\"https://ku.bz/qlZPfM-zr\">https://ku.bz/qlZPfM-zr</a></p> <p>Listen on: - Apple Podcast <a href=\"https://kube.fm/apple\">https://kube.fm/apple</a> - Spotify <a href=\"https://kube.fm/spotify\">https://kube.fm/spotify</a> - Amazon Music <a href=\"https://kube.fm/amazon\">https://kube.fm/amazon</a> - Overcast <a href=\"https://kube.fm/overcast\">https://kube.fm/overcast</a> - Pocket casts <a href=\"https://kube.fm/pocket-casts\">https://kube.fm/pocket-casts</a> - Deezer <a href=\"https://kube.fm/deezer\">https://kube.fm/deezer</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/danielepolencic\"> /u/danielepolencic </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5lwbg/optimize_the_kubernetes_dev_experience_by/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5lwbg/optimize_the_kubernetes_dev_experience_by/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Cerbos PDP - open source RBAC ABAC (how to deploy in Kubernetes)",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h5vkev/cerbos_pdp_open_source_rbac_abac_how_to_deploy_in/",
+      "date": 1733253652,
+      "author": "/u/diggVSredditt",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey kubernetes people! I wanted to share our <strong>open source authorization solution - Cerbos PDP</strong> here, since it can be <strong>deployed in Kubernetes</strong> (guide and docs <a href=\"https://www.cerbos.dev/ecosystem/kubernetes\">https://www.cerbos.dev/ecosystem/kubernetes</a> ) and might be relevant if you’re looking to implement authorization in your applications.Here’s our repo: <a href=\"https://github.com/cerbos/cerbos\">https://github.com/cerbos/cerbos</a> (we just hit 3333+ stars).<strong>Here are some of Cerbos PDP’s key capabilities:</strong></p> <ul> <li><strong>Infinitely scalable RBAC and ABAC.</strong> Users can author role-based or attributed-based access control policies. As well as define an unlimited number of roles, user permissions, and access control policies without affecting performance.</li> <li><strong>Decoupled authorization decision point</strong> that extracts complex access control logic into centrally managed and versioned policies. Cerbos also provides a framework to comprehensively test and deploy policies. It reduces code complexity, bugs, security vulnerabilities, and multiple if/then/else conditions.</li> <li><strong>A plug-and-play &amp; language-agnostic</strong> solution that works with any authentication/identity provider (Okta/Auth0, Active Directory, Entra ID, etc.) and seamlessly integrates into your existing infrastructure. Comes with SDKs for <a href=\"https://www.cerbos.dev/features-benefits-and-use-cases/ecosystem\">all popular languages</a>, and example implementations in modern frameworks.</li> <li><strong>Authorize anywhere</strong>. Cerbos’ stateless design enables it to be run anywhere in your own infrastructure: in the cloud, across clouds, on-premise, at the edge, or directly on end user devices. Cerbos is optimized for sub-millisecond evaluation without having to synchronize data.</li> <li><strong>Centralized audit logs of all authorization requests</strong> help compliance with ISO27001, SOC2, and HIPAA requirements through real-time change logs for auditing access controls.</li> </ul> <p>Please let me know if you have any feedback.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/diggVSredditt\"> /u/diggVSredditt </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5vkev/cerbos_pdp_open_source_rbac_abac_how_to_deploy_in/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h5vkev/cerbos_pdp_open_source_rbac_abac_how_to_deploy_in/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}
