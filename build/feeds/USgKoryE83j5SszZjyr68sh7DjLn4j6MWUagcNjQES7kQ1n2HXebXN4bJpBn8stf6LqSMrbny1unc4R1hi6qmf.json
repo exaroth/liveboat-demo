@@ -1,0 +1,81 @@
+{
+  "id": "USgKoryE83j5SszZjyr68sh7DjLn4j6MWUagcNjQES7kQ1n2HXebXN4bJpBn8stf6LqSMrbny1unc4R1hi6qmf",
+  "title": "top scoring links : golang",
+  "displayTitle": "Reddit - Go",
+  "url": "https://www.reddit.com/r/golang/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/golang/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "Anyone doing AoC",
+      "url": "https://www.reddit.com/r/golang/comments/1h56k80/anyone_doing_aoc/",
+      "date": 1733175459,
+      "author": "/u/scy_2k",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>EDIT: AoC is advent of code</p> <p>Title pretty much says it all. Obv using go, no frameworks or libs. </p> <p>I’m pretty new to go and decided to use it for this years AoC and put my solutions up on github.</p> <p>Anyone else doing it and has a repo they’re willing to share?</p> <p>Edit: My repo so far <a href=\"https://github.com/scyence2k/AoC2024\">https://github.com/scyence2k/AoC2024</a> (day 2 is unfinished). I know the solutions aren&#39;t great but any feedback is welcome</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/scy_2k\"> /u/scy_2k </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h56k80/anyone_doing_aoc/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h56k80/anyone_doing_aoc/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "WireGuard at Modal: Static IPs for Serverless Containers",
+      "url": "https://www.reddit.com/r/golang/comments/1h58l9d/wireguard_at_modal_static_ips_for_serverless/",
+      "date": 1733180589,
+      "author": "/u/thundergolfer",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h58l9d/wireguard_at_modal_static_ips_for_serverless/\"> <img src=\"https://external-preview.redd.it/jaHdpKagePmmA7-jBbcfmL5clJD07pf4PX01qNhqIQk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fadc522f7e15c92aa5a76b4fae9cdf3ae6f87b0e\" alt=\"WireGuard at Modal: Static IPs for Serverless Containers\" title=\"WireGuard at Modal: Static IPs for Serverless Containers\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/thundergolfer\"> /u/thundergolfer </a> <br/> <span><a href=\"https://modal.com/blog/vprox\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h58l9d/wireguard_at_modal_static_ips_for_serverless/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Struggling to understand range based for loop behavior for a struct with slice",
+      "url": "https://www.reddit.com/r/golang/comments/1h599j9/struggling_to_understand_range_based_for_loop/",
+      "date": 1733182368,
+      "author": "/u/coffee-enjoyer1",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I am having a hard time understanding how range based for loops interact with structs that have slice fields. This was hard for me to figure out as it was a language misconception for me. I am relatively new in Go.</p> <p>Consider this example with a struct and slice of this struct struct:</p> <pre><code>type MyStruct struct { identifier int64 content []int } mySlice := make([]MyStruct, 0) // here, added some elements to `mySlice` </code></pre> <p>later, when interacting with this using a range based for loop such as:</p> <pre><code>for _, elem := range mySlice { elem.content = append(elem.content, 10) } </code></pre> <p>Why is this not modifying the original <code>elem.content</code> ? Since slices are &quot;reference types&quot;, i was expecting this to modify the original slice. I understand that normally range based for loops create copies, but I am confused as to why <code>elem</code> is a deep copy and not a shallow copy(?). This was totally unexpected for me.</p> <p>I guess my confusion also stems from the fact that when I assign one struct to another struct, the primitive variables are deep copied, but if there are any slice variables within the struct, they are shallow copied (slice descriptors are copied). I had another bug related to this in my code so I had to write a custom copier myself that does the deep copying work. I am confused because assignment seems to be different in behavior (i.e., does shallow copy) than this range based for loop behavior (i.e., does deep copy?). Am I missing something?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coffee-enjoyer1\"> /u/coffee-enjoyer1 </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h599j9/struggling_to_understand_range_based_for_loop/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h599j9/struggling_to_understand_range_based_for_loop/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Awful ways to create Pipelines with Go",
+      "url": "https://www.reddit.com/r/golang/comments/1h5di7o/awful_ways_to_create_pipelines_with_go/",
+      "date": 1733194575,
+      "author": "/u/Poxate",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Poxate\"> /u/Poxate </a> <br/> <span><a href=\"https://www.poxate.com/blog/awful-ways-to-create-pipelines-with-go/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h5di7o/awful_ways_to_create_pipelines_with_go/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "How are you guys dealing with pgx pgtype boilerplate?",
+      "url": "https://www.reddit.com/r/golang/comments/1h5q7ng/how_are_you_guys_dealing_with_pgx_pgtype/",
+      "date": 1733240260,
+      "author": "/u/Used_Frosting6770",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m interested to know what sort of patterns or abstractions you guys are using to deal with the boilerplate. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Used_Frosting6770\"> /u/Used_Frosting6770 </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h5q7ng/how_are_you_guys_dealing_with_pgx_pgtype/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h5q7ng/how_are_you_guys_dealing_with_pgx_pgtype/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Cerbos PDP - Open source authorization solution (SDK for Go)",
+      "url": "https://www.reddit.com/r/golang/comments/1h5v36y/cerbos_pdp_open_source_authorization_solution_sdk/",
+      "date": 1733252485,
+      "author": "/u/morphAB",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey! In case anyone here is thinking about implementing authorization in your Go lang apps - I wanted to share our OSS solution - Cerbos PDP. </p> <p>(We just hit 3k+ stars) <a href=\"https://github.com/cerbos/cerbos\">https://github.com/cerbos/cerbos</a> and here’s our SDK + guide for implementing authorization in Go <a href=\"https://www.cerbos.dev/ecosystem/go\">https://www.cerbos.dev/ecosystem/go</a> </p> <p><strong>Here are some of Cerbos PDP’s key capabilities and updates:</strong></p> <ul> <li><strong>Infinitely scalable RBAC and ABAC.</strong> Users can author role-based or attributed-based access control policies. As well as define an unlimited number of roles, user permissions, and access control policies without affecting performance.</li> <li><strong>Decoupled authorization decision point</strong> that extracts complex access control logic into centrally managed and versioned policies. Cerbos also provides a framework to comprehensively test and deploy policies. It reduces code complexity, bugs, security vulnerabilities, and multiple if/then/else conditions.</li> <li><strong>A plug-and-play &amp; language-agnostic</strong> solution that works with any authentication/identity provider (Okta/Auth0, Active Directory, Entra ID, etc.) and seamlessly integrates into your existing infrastructure. </li> <li><strong>Authorize anywhere</strong>. Cerbos’ stateless design enables it to be run anywhere in your own infrastructure: in the cloud, across clouds, on-premise, at the edge, or directly on end user devices. Cerbos is optimized for sub-millisecond evaluation without having to synchronize data.</li> <li><strong>Centralized audit logs of all authorization requests</strong> help compliance with ISO27001, SOC2, and HIPAA requirements through real-time change logs for auditing access controls. </li> </ul> <p>PS. We just added an update that I think you’ll find valuable - The Cerbos server and the cerbosctl utility can now be installed on Nix environments using the new flake, and Go developers can now run Cerbos in-process using the new cerbos.Serve function from v0.39.0. This is useful for cases where running an external process is impossible or for running tests</p> <p>Let me know what you think, if you have a moment.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/morphAB\"> /u/morphAB </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h5v36y/cerbos_pdp_open_source_authorization_solution_sdk/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h5v36y/cerbos_pdp_open_source_authorization_solution_sdk/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}

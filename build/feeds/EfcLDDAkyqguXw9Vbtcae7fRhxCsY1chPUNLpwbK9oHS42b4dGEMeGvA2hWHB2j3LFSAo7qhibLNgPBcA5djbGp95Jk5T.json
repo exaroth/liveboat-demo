@@ -1,0 +1,81 @@
+{
+  "id": "EfcLDDAkyqguXw9Vbtcae7fRhxCsY1chPUNLpwbK9oHS42b4dGEMeGvA2hWHB2j3LFSAo7qhibLNgPBcA5djbGp95Jk5T",
+  "title": "top scoring links : programming",
+  "displayTitle": "Reddit - Programming",
+  "url": "https://www.reddit.com/r/programming/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/programming/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "How Freenet handles consistency in a highly distributed system (with interactive illustrations)",
+      "url": "https://www.reddit.com/r/programming/comments/1h5c3zr/how_freenet_handles_consistency_in_a_highly/",
+      "date": 1733190352,
+      "author": "/u/sanity",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sanity\"> /u/sanity </a> <br/> <span><a href=\"https://freenet.org/news/summary-delta-sync/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5c3zr/how_freenet_handles_consistency_in_a_highly/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Legacy Safety: The Wrocław C++ Meeting",
+      "url": "https://www.reddit.com/r/programming/comments/1h5hf3z/legacy_safety_the_wroc%C5%82aw_c_meeting/",
+      "date": 1733208145,
+      "author": "/u/Alexander_Selkirk",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Alexander_Selkirk\"> /u/Alexander_Selkirk </a> <br/> <span><a href=\"https://cor3ntin.github.io/posts/profiles/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5hf3z/legacy_safety_the_wrocław_c_meeting/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "SQL best practices – don’t compare count(*) with 0",
+      "url": "https://www.reddit.com/r/programming/comments/1h5m7w6/sql_best_practices_dont_compare_count_with_0/",
+      "date": 1733228673,
+      "author": "/u/oweillnet",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oweillnet\"> /u/oweillnet </a> <br/> <span><a href=\"https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5m7w6/sql_best_practices_dont_compare_count_with_0/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Company claims 1,000 percent price hike drove it from VMware to open source rival",
+      "url": "https://www.reddit.com/r/programming/comments/1h5ma46/company_claims_1000_percent_price_hike_drove_it/",
+      "date": 1733228885,
+      "author": "/u/oweillnet",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/oweillnet\"> /u/oweillnet </a> <br/> <span><a href=\"https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5ma46/company_claims_1000_percent_price_hike_drove_it/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why pipes sometimes get \"stuck\": buffering",
+      "url": "https://www.reddit.com/r/programming/comments/1h5qys7/why_pipes_sometimes_get_stuck_buffering/",
+      "date": 1733242176,
+      "author": "/u/stackoverflooooooow",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/stackoverflooooooow\"> /u/stackoverflooooooow </a> <br/> <span><a href=\"https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5qys7/why_pipes_sometimes_get_stuck_buffering/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Making a trading Gameboy: A pocket exchange and algo trading platform",
+      "url": "https://www.reddit.com/r/programming/comments/1h5t3c3/making_a_trading_gameboy_a_pocket_exchange_and/",
+      "date": 1733247559,
+      "author": "/u/j1897OS",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/j1897OS\"> /u/j1897OS </a> <br/> <span><a href=\"https://questdb.io/blog/making-a-trading-gameboy/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h5t3c3/making_a_trading_gameboy_a_pocket_exchange_and/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}

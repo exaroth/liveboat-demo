@@ -1,0 +1,81 @@
+{
+  "id": "2Qhhdda6Qnbf8RCfUPd4nB9sSt2WDQfEpF7H3gCnZZ4AsfbGMy3RmrCa6gigGY6TkbrrJn4wmHXXNYcVj1bK",
+  "title": "top scoring links : rust",
+  "displayTitle": "Reddit - Rust",
+  "url": "https://www.reddit.com/r/rust/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "This Month in @compiler-errors (rustc contributions) - November",
+      "url": "https://www.reddit.com/r/rust/comments/1h557p9/this_month_in_compilererrors_rustc_contributions/",
+      "date": 1733172177,
+      "author": "/u/compiler-errors",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/compiler-errors\"> /u/compiler-errors </a> <br/> <span><a href=\"https://hackmd.io/@compiler-errors/errs-november\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h557p9/this_month_in_compilererrors_rustc_contributions/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "What is best way to learn rust in 2024 and how would you learn rust if starting out today?",
+      "url": "https://www.reddit.com/r/rust/comments/1h55zqa/what_is_best_way_to_learn_rust_in_2024_and_how/",
+      "date": 1733174073,
+      "author": "/u/anasshad",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey all, I am looking to start out with rust. Rust has been fascinating me for a long time now. I am a JavaScript dev mostly working on full stack web3 projects. So, how would you go about learning rust of you started today. Looking for some practical advice. Personally, I learn better by building something. So that&#39;s the kind of approach that I prefer. Thanks in advance.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/anasshad\"> /u/anasshad </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h55zqa/what_is_best_way_to_learn_rust_in_2024_and_how/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h55zqa/what_is_best_way_to_learn_rust_in_2024_and_how/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Implementing async APIs for microcontroller peripherals",
+      "url": "https://www.reddit.com/r/rust/comments/1h56vsv/implementing_async_apis_for_microcontroller/",
+      "date": 1733176256,
+      "author": "/u/jbeaurivage",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jbeaurivage\"> /u/jbeaurivage </a> <br/> <span><a href=\"https://beaurivage.io/atsamd-hal-async/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h56vsv/implementing_async_apis_for_microcontroller/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "I was doing AoC and was wondering why there is a clippy rule for manual_range_contains? Why does it think this is more readable or has any performance benefits? (spoiler just in case)",
+      "url": "https://www.reddit.com/r/rust/comments/1h5byqt/i_was_doing_aoc_and_was_wondering_why_there_is_a/",
+      "date": 1733189924,
+      "author": "/u/Attometre",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p><a href=\"https://preview.redd.it/c4wwa703fj4e1.png?width=776&amp;format=png&amp;auto=webp&amp;s=f6cc8f78c6596d81f1af7e8a71d4bd3b0ac21fd0\">https://preview.redd.it/c4wwa703fj4e1.png?width=776&amp;format=png&amp;auto=webp&amp;s=f6cc8f78c6596d81f1af7e8a71d4bd3b0ac21fd0</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Attometre\"> /u/Attometre </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h5byqt/i_was_doing_aoc_and_was_wondering_why_there_is_a/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h5byqt/i_was_doing_aoc_and_was_wondering_why_there_is_a/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Is TypeScript + Rust a good stack?",
+      "url": "https://www.reddit.com/r/rust/comments/1h5hpnp/is_typescript_rust_a_good_stack/",
+      "date": 1733209365,
+      "author": "/u/alex_sakuta",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Currently, I only work in TypeScript but I am very fond of learning low level optimizations and working in more type safe languages rather than using high level languages.</p> <p>I will be learning rust regardless of any comments, but I was curious, what is the general opinion regarding this?</p> <p>Using Typescript for frontend (before anyone says just use javascript, I don&#39;t want to) and Rust for backend?</p> <p>What I&#39;m assuming would work is: - Rust backend and Typescript frontend. - Rust everything and TypeScript integration to frontend for the rust application compiled using wasm.</p> <p>I just don&#39;t wanna use js or look at a js file.</p> <p>I understand it will also require the knowledge and use of wasm, correct?</p> <p>Thoughts please.</p> <p>Edit:</p> <p>Asking for personal learning and not for any special project.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/alex_sakuta\"> /u/alex_sakuta </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h5hpnp/is_typescript_rust_a_good_stack/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h5hpnp/is_typescript_rust_a_good_stack/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "1 Weeks into Rust and I feel amazing",
+      "url": "https://www.reddit.com/r/rust/comments/1h5p4v6/1_weeks_into_rust_and_i_feel_amazing/",
+      "date": 1733237508,
+      "author": "/u/Equivalent-Record907",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi, I&#39;m Codimo a 13 year old developer from Nepal. Im learning from <a href=\"https://projects.100xdevs.com/tracks/rust-bootcamp/Rust-Bootcamp-1\">Here</a>. Im currently doing Jargon: Heap vs Stack. I&#39;m kinda familiar with the basic syntax. Can anyone tell me what can I do after completing this cohort. Advice are welcomed too and what stack do you recommend me to go for after rust like I want to do rust for around 3 to 4 years master it completely then learn a new stack that goes along with Rust for web3 and stuff. Im thinking to go with solidity and stuff. Thanks</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Equivalent-Record907\"> /u/Equivalent-Record907 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h5p4v6/1_weeks_into_rust_and_i_feel_amazing/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h5p4v6/1_weeks_into_rust_and_i_feel_amazing/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}
