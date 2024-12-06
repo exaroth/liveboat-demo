@@ -6,18 +6,6 @@
   "feedLink": "https://www.youtube.com/channel/UC5AQEUAwCh1sGDvkQtkDWUQ",
   "items": [
     {
-      "title": "Theo learns what Tears in Heaven is about",
-      "url": "https://www.youtube.com/watch?v=vUAoU1LFOf0",
-      "date": 1732111263,
-      "author": "Theo Von",
-      "unread": true,
-      "desc": "",
-      "content": "#theovon #thispastweekend #stavros #stavroshalkias #comedians #ericclapton #tearsinheaven",
-      "flags": null,
-      "enclosureUrl": "https://www.youtube.com/v/vUAoU1LFOf0?version=3",
-      "enclosureMime": ""
-    },
-    {
       "title": "Would you rather w/ Riley Mao",
       "url": "https://www.youtube.com/watch?v=pkzeDggTktg",
       "date": 1732229243,
@@ -183,6 +171,18 @@
       "content": "#shorts #theovon #thispastweekend #comedy #podcast",
       "flags": null,
       "enclosureUrl": "https://www.youtube.com/v/Xm1Cdzhi6Lg?version=3",
+      "enclosureMime": ""
+    },
+    {
+      "title": "MrBeast drank for the first time w/ Logan Paul",
+      "url": "https://www.youtube.com/watch?v=j4n7XRtZjtM",
+      "date": 1733505867,
+      "author": "Theo Von",
+      "unread": true,
+      "desc": "",
+      "content": "#theovon #thispastweekend #mrbeast #mrbeastshorts #loganpaul #soberlife",
+      "flags": null,
+      "enclosureUrl": "https://www.youtube.com/v/j4n7XRtZjtM?version=3",
       "enclosureMime": ""
     }
   ]

@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Pop!_OS Rust-based Desktop Environment Cosmic Alpha 4 released",
-      "url": "https://www.reddit.com/r/rust/comments/1h7dp82/pop_os_rustbased_desktop_environment_cosmic_alpha/",
-      "date": 1733417556,
-      "author": "/u/arashinoshizukesa",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/arashinoshizukesa\"> /u/arashinoshizukesa </a> <br/> <span><a href=\"https://blog.system76.com/post/cosmic-alpha-4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7dp82/pop_os_rustbased_desktop_environment_cosmic_alpha/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Boa JavaScript engine v0.20 released",
       "url": "https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/",
       "date": 1733424122,
@@ -49,6 +37,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve published a few crates on <a href=\"http://crates.io\">crates.io</a> that I don&#39;t really think anyone but me really would have any interest in, and I&#39;ve searched far and wide for anything that uses a part of my crate. Yet when looking at my download statistics, I have around 4000 lifetime downloads that spike at each version.</p> <p>Is there some sort of LLM content scraper/backup/research project that just periodically downloads crates? Do people try out new crates from the &quot;new releases&quot; page? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wowisthatreal\"> /u/wowisthatreal </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "This Week in Rust #576",
+      "url": "https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/",
+      "date": 1733431384,
+      "author": "/u/cdmistman",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cdmistman\"> /u/cdmistman </a> <br/> <span><a href=\"https://this-week-in-rust.org/blog/2024/12/04/this-week-in-rust-576\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
