@@ -37,7 +37,6 @@ jobs:
           git add ./docs
           let ts=$(date +"%s")
           git commit -m "Feed rebuild @ ${ts}" -a
-          GIT_SEQUENCE_EDITOR="sed -i -re 's/^pick /e /'" git rebase -i HEAD~4
         shell: bash
       - name: Push changes
         uses: ad-m/github-push-action@master
