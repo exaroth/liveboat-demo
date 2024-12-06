@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Gerust: project generator for Rust backend projects",
-      "url": "https://www.reddit.com/r/rust/comments/1h77a9w/gerust_project_generator_for_rust_backend_projects/",
-      "date": 1733398952,
-      "author": "/u/mainmatter_",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>We just announced Gerust, a project generator for Rust backend projects: <a href=\"https://gerust.rs\">https://gerust.rs</a></p> <p>Gerust takes care of the accidental complexity so you can stay focused on what matters. It builds on top of <a href=\"https://github.com/tokio-rs/axum\">axum</a> and <a href=\"https://github.com/launchbadge/sqlx\">SQLx</a> – proven crates that are widely used in the Rust ecosystem. While taking inspiration from other frameworks, we didn’t just copy those but critically analyzed what makes sense in Rust and what doesn’t.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mainmatter_\"> /u/mainmatter_ </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h77a9w/gerust_project_generator_for_rust_backend_projects/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h77a9w/gerust_project_generator_for_rust_backend_projects/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Pop!_OS Rust-based Desktop Environment Cosmic Alpha 4 released",
       "url": "https://www.reddit.com/r/rust/comments/1h7dp82/pop_os_rustbased_desktop_environment_cosmic_alpha/",
       "date": 1733417556,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I solved day 5&#39;s advent of code problem with a rust program.</p> <p>There I mainly used <span class=\"md-spoiler-text\">Vec::sort_by, a HashSet::&lt;(i32, i32)&gt; plus some recursive depth first search</span> to solve it.</p> <p>At first I didn&#39;t bother checking how big/small the numbers is in my input so I just used an i32 to store them.</p> <p>After getting the right answer I was curious to see how much faster the code would be with the &quot;right&quot; datatype so I changed the numbers to u8. Then the code ran ~50% slower! I tried with i8, i16, u16 all with about the same performance as using u8. Changing to u32 didn&#39;t make a difference compared to i32, and using u64/i64 made it 73% slower.</p> <p>I don&#39;t know the x86_64 instructions, but I&#39;ve assumed the cost of widening the types would be free on a superscalar architecture even if it needed special instructions to do so. What else could cause the slowdown? Worse hashing performance?</p> <p>---- Edit after comments:</p> <p>The code is here: <a href=\"https://pastebin.com/y0xVWHfs\">https://pastebin.com/y0xVWHfs</a></p> <p>It uses these crates:<br/> aoc-runner = &quot;0.3.0&quot;<br/> aoc-runner-derive = &quot;0.3.0&quot;</p> <p>but one could just include the input file and add a main that calls input_generator with it, followed by calling solve_part2 with the result from input_generator.</p> <p>I&#39;ve benchmarked it with cargo-aoc bench, it compiles the code in release mode when benchmarking. It only benchmarks the solve_part2 function, not the input_generator call.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ClimberSeb\"> /u/ClimberSeb </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Rustc Trait System Refactor Initiative Update: Stabilizing `-Znext-solver=coherence` | Inside Rust Blog",
+      "url": "https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/",
+      "date": 1733480161,
+      "author": "/u/slanterns",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/slanterns\"> /u/slanterns </a> <br/> <span><a href=\"https://blog.rust-lang.org/inside-rust/2024/12/04/trait-system-refactor-initiative.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -42,18 +42,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Monitoring and Resource utilisation",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7hz02/monitoring_and_resource_utilisation/",
-      "date": 1733428104,
-      "author": "/u/fizzysplit",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Please suggest a lightweight tool to monitor CPU and memory utilisation on a per namespace basis.<br/> Edit: This is an on-prem kubernetes deployment. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fizzysplit\"> /u/fizzysplit </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7hz02/monitoring_and_resource_utilisation/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7hz02/monitoring_and_resource_utilisation/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "How do I achieve maximum density for bursty websites?",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
       "date": 1733432115,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks,</p> <p>What the title says really...</p> <p>I&#39;ve recently put this together after extracting it from various forms of an embedded lib I&#39;ve used on personal projects over the last few months, with a view to using it to help me on a paid project I&#39;m involved with.</p> <p>I&#39;m looking for feedback and opinions mainly, but I also think a lot of people may find it useful, particularly if you find kubebuilder&#39;s approach frustrating (as I do)</p> <p>The full details and an example are in the <a href=\"https://github.com/comradequinn/kapi/blob/main/README.md\">README</a> and the lib itself is <a href=\"https://github.com/comradequinn/kapi\">here</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/comrade-quinn\"> /u/comrade-quinn </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Weekly: Share your victories thread",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/",
+      "date": 1733482809,
+      "author": "/u/gctaylor",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Got something working? Figure something out? Make progress that you are excited about? Share here!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gctaylor\"> /u/gctaylor </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

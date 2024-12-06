@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/golang/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Building BLE Applications with Go",
-      "url": "https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/",
-      "date": 1733397330,
-      "author": "/u/bleuio",
-      "unread": true,
-      "desc": "",
-      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/\"> <img src=\"https://external-preview.redd.it/w_b5_Y8HOftB1B2W5rubBuS8ZCQ2o0l22bGM27QP6tI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73d5c81b1b6557fb000670a6d8172e90648915f4\" alt=\"Building BLE Applications with Go \" title=\"Building BLE Applications with Go \" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bleuio\"> /u/bleuio </a> <br/> <span><a href=\"https://www.bleuio.com/blog/building-ble-applications-with-bleuio-and-go/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/\">[comments]</a></span> </td></tr></table>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Desktop Applications",
       "url": "https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/",
       "date": 1733409586,
@@ -61,6 +49,18 @@
       "unread": true,
       "desc": "",
       "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\"> <img src=\"https://external-preview.redd.it/_59Nwz4qwk2TxmiNHif5Zxt8nt1zuXEYXd9npdKB1XY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2948fbfe9b275def2fd8b5ad0b0e91327345ba\" alt=\"What's Missing From Golang Generics?\" title=\"What's Missing From Golang Generics?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nick_at_dolt\"> /u/nick_at_dolt </a> <br/> <span><a href=\"https://www.dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Final Year Project Idea",
+      "url": "https://www.reddit.com/r/golang/comments/1h7vwpg/final_year_project_idea/",
+      "date": 1733469547,
+      "author": "/u/noobgopher",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I’m currently in the final year of my B.Tech in Computer Science and Engineering. I’m looking for project ideas that integrate Machine Learning, Golang, and Web Development. Specifically, I’m interested in full-stack machine learning projects.</p> <p>I would appreciate your suggestions!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/noobgopher\"> /u/noobgopher </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7vwpg/final_year_project_idea/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7vwpg/final_year_project_idea/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
