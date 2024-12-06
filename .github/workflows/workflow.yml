@@ -28,6 +28,7 @@ jobs:
           if echo $(git log --oneline -1) | grep -q "Feed rebuild @"; then
               git reset --soft HEAD~1
               git stash
+              rm -Rf docs & mkdir docs
           fi
         shell: bash
       - name: Run newsboat
