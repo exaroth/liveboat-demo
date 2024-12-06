@@ -1,10 +1,10 @@
 title = "Liveboat Demo"
 site_path = "/liveboat-demo/"
 show_read_articles = true
-newsboat_urls_file = "config/newsboat-urls"
-newsboat_cache_file = "cache.db"
+newsboat_urls_file = "./config/newsboat-urls"
+newsboat_cache_file = "./cache.db"
 time_threshold = 40
-build_dir = "docs"
+build_dir = "./docs"
 template_name = "default"
 remote_url = ""
 exclude_tags = []
