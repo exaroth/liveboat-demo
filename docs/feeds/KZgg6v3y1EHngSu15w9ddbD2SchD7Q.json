@@ -24,7 +24,7 @@
       "author": "iskrataa",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 234</p>\n<p># Comments: 83</p>\n",
+      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 235</p>\n<p># Comments: 83</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -36,7 +36,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1204</p>\n<p># Comments: 396</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1205</p>\n<p># Comments: 396</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -96,7 +96,7 @@
       "author": "burcs",
       "unread": true,
       "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 337</p>\n<p># Comments: 141</p>\n",
+      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 338</p>\n<p># Comments: 141</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -120,7 +120,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 479</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 480</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -198,30 +198,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Launching the 2024 State of Rust Survey | Rust Blog",
-      "url": "https://www.reddit.com/r/rust/comments/1h764gf/launching_the_2024_state_of_rust_survey_rust_blog/",
-      "date": 1733394210,
-      "author": "/u/Kobzol",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kobzol\"> /u/Kobzol </a> <br/> <span><a href=\"https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h764gf/launching_the_2024_state_of_rust_survey_rust_blog/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "I've put together a list of the top 15 most-watched Rust talks of 2024 so far. Let me know what you think!",
-      "url": "https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/",
-      "date": 1733395076,
-      "author": "/u/TechTalksWeekly",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello <a href=\"/r/Rust\">r/Rust</a>! I&#39;ve recently put together a list of the top 15 most-watched Rust talks of 2024 so far. I recently <a href=\"https://www.linkedin.com/posts/tech-talks-weekly_rust-eurorust-activity-7266016758849748992-tZwy\">shared</a> it on my LinkedIn profile where I received great feedback, so I decided to cross-post it here:</p> <p><strong>1. &quot;Filesystem in Rust - Kent Overstreet&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=WiPp9YEBV0Q\"><strong>https://youtube.com/watch?v=WiPp9YEBV0Q</strong></a> <strong>⸱ +101k views ⸱ 09 Jul 2024 ⸱ 00h 35m 16s</strong></p> <p><strong>2. &quot;Jon Gjengset - Towards Impeccable Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=qfknfCsICUM\"><strong>https://youtube.com/watch?v=qfknfCsICUM</strong></a> <strong>⸱ +31k views ⸱ 03 Apr 2024 ⸱ 00h 55m 59s</strong></p> <p><strong>3. &quot;Chris Biscardi - Bevy: A case study in ergonomic Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=CnoDOc6ML0Y\"><strong>https://youtube.com/watch?v=CnoDOc6ML0Y</strong></a> <strong>⸱ +16k views ⸱ 11 Apr 2024 ⸱ 00h 54m 25s</strong></p> <p><strong>4. &quot;Nicholas Matsakis - Rust 2024 and beyond&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=04gTQmLETFI\"><strong>https://youtube.com/watch?v=04gTQmLETFI</strong></a> <strong>⸱ +14k views ⸱ 05 Apr 2024 ⸱ 00h 33m 48s</strong></p> <p><strong>5. &quot;Through the Fire and the Flames - Jon Gjengset | EuroRust 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=8-KLX1PGg8Q\"><strong>https://youtube.com/watch?v=8-KLX1PGg8Q</strong></a> <strong>⸱ +13k views ⸱ 01 Nov 2024 ⸱ 00h 31m 09s</strong></p> <p><strong>6. &quot;Rainer Stropek - Memory Management in Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=5yy64sy2oSM\"><strong>https://youtube.com/watch?v=5yy64sy2oSM</strong></a> <strong>⸱ +12k views ⸱ 26 Jan 2024 ⸱ 00h 59m 48s</strong></p> <p><strong>7. &quot;Luca Palmieri - Pavex: re-imaging API development in Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=cMea6IMRk2s\"><strong>https://youtube.com/watch?v=cMea6IMRk2s</strong></a> <strong>⸱ +10k views ⸱ 04 Apr 2024 ⸱ 00h 49m 53s</strong></p> <p><strong>8. &quot;Ben Wishovich - Full Stack Rust - Building Rust Websites with Leptos&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=JJV5crU405s\"><strong>https://youtube.com/watch?v=JJV5crU405s</strong></a> <strong>⸱ +10k views ⸱ 11 Apr 2024 ⸱ 00h 44m 54s</strong></p> <p><strong>9. &quot;Lars Bergstrom - Beyond Safety and Speed: How Rust Fuels Team Productivity&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=QrrH2lcl9ew\"><strong>https://youtube.com/watch?v=QrrH2lcl9ew</strong></a> <strong>⸱ +10k views ⸱ 03 Apr 2024 ⸱ 00h 22m 19s</strong></p> <p><strong>10. &quot;Carl Kadie - 9 Rules for Creating (...) Data Structures - Rust Linz&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=09vg_GMftE8\"><strong>https://youtube.com/watch?v=09vg_GMftE8</strong></a> <strong>⸱ +9k views ⸱ 26 Jan 2024 ⸱ 00h 34m 42s</strong></p> <p><strong>11. &quot;Andre Bogus - Easy Mode Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=33FG6O3qejM\"><strong>https://youtube.com/watch?v=33FG6O3qejM</strong></a> <strong>⸱ +8k views ⸱ 04 Apr 2024 ⸱ 00h 37m 44s</strong></p> <p><strong>12. &quot;Rust Vienna Jan 2024 - Serverless Data Pipelines in Rust by Michele Vigilante&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=PK_FKzgPDWg\"><strong>https://youtube.com/watch?v=PK_FKzgPDWg</strong></a> <strong>⸱ +6k views ⸱ 28 Feb 2024 ⸱ 00h 41m 02s</strong></p> <p><strong>13. &quot;Project Syn - Simon Gerber - Rust Zürisee March 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=N7GMHcX-WdA\"><strong>https://youtube.com/watch?v=N7GMHcX-WdA</strong></a> <strong>⸱ +5k views ⸱ 11 Mar 2024 ⸱ 00h 29m 50s</strong></p> <p><strong>14. &quot;Massimiliano Mantione - Object Oriented Programming, and Rust - Rust Linz&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=XkCHjuF5Qps\"><strong>https://youtube.com/watch?v=XkCHjuF5Qps</strong></a> <strong>⸱ +5k views ⸱ 26 Jan 2024 ⸱ 00h 27m 38s</strong></p> <p><strong>15. &quot;Diplomat - Idiomatic Multi-Language APIs - Robert Bastian - Rust Zürisee March 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=q5gh-XX1_Ws\"><strong>https://youtube.com/watch?v=q5gh-XX1_Ws</strong></a> <strong>⸱ +5k views ⸱ 17 Mar 2024 ⸱ 00h 15m 33s</strong></p> <p>I built this list as a part of <a href=\"https://techtalksweekly.io/\">Tech Talks Weekly</a> which is a free weekly email with all the recently uploaded talks from software engineering conferences. Consider subscribing if this sounds useful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TechTalksWeekly\"> /u/TechTalksWeekly </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Building BLE Applications with Go",
       "url": "https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/",
       "date": 1733397330,
@@ -252,7 +228,7 @@
       "author": "greyface-",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 110</p>\n<p># Comments: 26</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 112</p>\n<p># Comments: 26</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -348,7 +324,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 165</p>\n<p># Comments: 45</p>\n",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 168</p>\n<p># Comments: 45</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -396,7 +372,7 @@
       "author": "yarapavan",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/\">https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330055\">https://news.ycombinator.com/item?id=42330055</a></p>\n<p>Points: 347</p>\n<p># Comments: 103</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/\">https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330055\">https://news.ycombinator.com/item?id=42330055</a></p>\n<p>Points: 348</p>\n<p># Comments: 104</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -480,7 +456,19 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 679</p>\n<p># Comments: 991</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 684</p>\n<p># Comments: 999</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Boa JavaScript engine v0.20 released",
+      "url": "https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/",
+      "date": 1733424122,
+      "author": "/u/Jayflux1",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We have released Boa v0.20: </p> <p><a href=\"https://boajs.dev/blog/2024/12/05/boa-release-020\">https://boajs.dev/blog/2024/12/05/boa-release-020</a></p> <p>In this release, we have made continuing progress on Temporal and other TC39 upcoming specifications, performance optimizations and requested runtime features.</p> <p>Our <a href=\"https://boajs.dev/benchmarks\">benchmarks </a>are showing we&#39;re moving in the right direction and conformance to the specification is also increasing. Check out the full release post or the <a href=\"https://github.com/boa-dev/boa/blob/v0.20/CHANGELOG.md\">changelog</a> for more information!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jayflux1\"> /u/Jayflux1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -516,7 +504,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 261</p>\n<p># Comments: 36</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 268</p>\n<p># Comments: 36</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -528,7 +516,7 @@
       "author": "kcsaba2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 147</p>\n<p># Comments: 58</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 148</p>\n<p># Comments: 60</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -624,7 +612,7 @@
       "author": "tolerable",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 199</p>\n<p># Comments: 169</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 199</p>\n<p># Comments: 171</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -636,7 +624,7 @@
       "author": "afyzendo",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b\">https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333243\">https://news.ycombinator.com/item?id=42333243</a></p>\n<p>Points: 100</p>\n<p># Comments: 21</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b\">https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333243\">https://news.ycombinator.com/item?id=42333243</a></p>\n<p>Points: 101</p>\n<p># Comments: 22</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -672,7 +660,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 263</p>\n<p># Comments: 151</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 265</p>\n<p># Comments: 156</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -684,7 +672,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 425</p>\n<p># Comments: 236</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 439</p>\n<p># Comments: 255</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -696,7 +684,7 @@
       "author": "crummy",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://litdb.dev/\">https://litdb.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334379\">https://news.ycombinator.com/item?id=42334379</a></p>\n<p>Points: 81</p>\n<p># Comments: 55</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://litdb.dev/\">https://litdb.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334379\">https://news.ycombinator.com/item?id=42334379</a></p>\n<p>Points: 83</p>\n<p># Comments: 55</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -708,7 +696,7 @@
       "author": "benshumaker",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://bit.kevinslin.com/p/lossless-log-aggregation\">https://bit.kevinslin.com/p/lossless-log-aggregation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334568\">https://news.ycombinator.com/item?id=42334568</a></p>\n<p>Points: 79</p>\n<p># Comments: 44</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://bit.kevinslin.com/p/lossless-log-aggregation\">https://bit.kevinslin.com/p/lossless-log-aggregation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334568\">https://news.ycombinator.com/item?id=42334568</a></p>\n<p>Points: 80</p>\n<p># Comments: 45</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -720,7 +708,7 @@
       "author": "LarsDu88",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 205</p>\n<p># Comments: 147</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 209</p>\n<p># Comments: 151</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -744,7 +732,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 173</p>\n<p># Comments: 40</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 176</p>\n<p># Comments: 41</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -768,7 +756,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 244</p>\n<p># Comments: 208</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 249</p>\n<p># Comments: 212</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -793,6 +781,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>So, one thing I have noticed happen very frequently is that people pick up fiber or fasthttp to be their http framework of choice because fiber is so much more performant* than stdlib. Even though fiber docs itself say not to choose fiber unless you have really really good reasons (because most middlewares aren&#39;t compatibile with it, it doesn&#39;t implement the full http spec etc), people still pick it. In vast, vast, vast majority of usecases, the web framework&#39;s performance doesn&#39;t matter except in whiteroom benchmarks. You add one db call, one network request, hell one json parsing operation of a decent payload size, and the web framework&#39;s impact becomes infinetisimally small.</p> <p>But anyway, I came across this video recently: <a href=\"https://youtu.be/iPnMPnelWOE?si=QUpd3N5KD9LQ2foM\">https://youtu.be/iPnMPnelWOE?si=QUpd3N5KD9LQ2foM</a> and wanted to share it here. In the benchmarks that invovle json parsing and interacting with postgres, stdlib performs the best (and the difference is in the order of microseconds, it doesn&#39;t matter), and even in barebones test, stdlib performs better until 15k RPS. 15k RPS is very very high, I guarantee you that if one of your webservers has to meet 15k rps, there&#39;s many other things you have to worry about before the framework choice.</p> <p>If you want to choose something other than stdlib for the sake of ergonomics, that is 100% valid and I am not against it. But don&#39;t make that choice in the name of performance unless you have a very specific kind of traffic.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cant-find-user-name\"> /u/cant-find-user-name </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7wbai/performance_comparison_of_various_golang_web/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7wbai/performance_comparison_of_various_golang_web/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why is u32/i32 faster than u8?",
+      "url": "https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/",
+      "date": 1733473272,
+      "author": "/u/ClimberSeb",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I solved day 5&#39;s advent of code problem with a rust program.</p> <p>There I mainly used <span class=\"md-spoiler-text\">Vec::sort_by, a HashSet::&lt;(i32, i32)&gt; plus some recursive depth first search</span> to solve it.</p> <p>At first I didn&#39;t bother checking how big/small the numbers is in my input so I just used an i32 to store them.</p> <p>After getting the right answer I was curious to see how much faster the code would be with the &quot;right&quot; datatype so I changed the numbers to u8. Then the code ran ~50% slower! I tried with i8, i16, u16 all with about the same performance as using u8. Changing to u32 didn&#39;t make a difference compared to i32, and using u64/i64 made it 73% slower.</p> <p>I don&#39;t know the x86_64 instructions, but I&#39;ve assumed the cost of widening the types would be free on a superscalar architecture even if it needed special instructions to do so. What else could cause the slowdown? Worse hashing performance?</p> <p>---- Edit after comments:</p> <p>The code is here: <a href=\"https://pastebin.com/y0xVWHfs\">https://pastebin.com/y0xVWHfs</a></p> <p>It uses these crates:<br/> aoc-runner = &quot;0.3.0&quot;<br/> aoc-runner-derive = &quot;0.3.0&quot;</p> <p>but one could just include the input file and add a main that calls input_generator with it, followed by calling solve_part2 with the result from input_generator.</p> <p>I&#39;ve benchmarked it with cargo-aoc bench, it compiles the code in release mode when benchmarking. It only benchmarks the solve_part2 function, not the input_generator call.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ClimberSeb\"> /u/ClimberSeb </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

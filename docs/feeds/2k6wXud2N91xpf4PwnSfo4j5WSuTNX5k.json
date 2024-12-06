@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Intel Compute Runtime 24.45.31740.9 Released Ahead Of The Arc B580 \"Battlemage\" Launch",
-      "url": "https://www.phoronix.com/news/Intel-Compute-24.45.31740.9",
-      "date": 1733311498,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "The Intel Compute Runtime 24.45.31740.9 is out as the newest monthly-ish update to this open-source GPU compute stack used on Linux and Windows for the OpenCL and Level Zero support. This Compute Runtime 24.45.31740.9 is also the last update ahead of next week's Battlemage availability with the Arc B580 graphics card...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "New Linux Patches Cleanup Code For Running x86 32-bit Kernels On x86_64 CPUs",
       "url": "https://www.phoronix.com/news/Linux-Cleanup-x86-On-x86_64",
       "date": 1733312257,
@@ -877,6 +865,18 @@
       "unread": true,
       "desc": "",
       "content": "The use of lead in gasoline \"might have harmed the mental health of a generation,\" reports USA Today.\n\n\nGen X bears an extra burden of conditions such as depression, anxiety, ADHD and neurotic behavior because of the leaded gasoline they were exposed to as children, according to a study published Wednesday in the peer-reviewed Journal of Child Psychology and Psychiatry. Leaded gas was banned in the United States in 1996, but the study said years of exposure during development made them particularly vulnerable. \n\nLead gas peaked from the mid-1960s through the mid-1970s, and children born during that era would later develop some of the highest rates of mental health symptoms, the study said. The study also linked leaded gas to \"disadvantageous\" traits, such as struggling to concentrate, stay on task or organizing thoughts. \"I tend to think of Generation X as 'generation lead,'\" said Aaron Reuben, a study co-author and assistant professor of clinical neuropsychology at the University of Virginia. \"We know they were exposed to it more and we're estimating they have gone on to have higher rates of internalizing conditions like anxiety, depression and symptoms of attention deficit hyperactivity disorder....\" \n\nResearchers linked the lead exposure to an estimated 151 million \"excess mental disorders\" in the United States over the 75-year period. The estimates should be \"considered a floor\" because it relies mainly on gas and not exposure from lead in paint and pipes, Reuben said... Those born between 1966 and 1986 generally had higher mental illness levels linked to lead exposure with the rates peaking for those born between 1966 and 1970, the study said. Those rates coincided with the peak use of lead in gas from the mid-1960s through the mid-1970s... The study said the peak lead use coincided with increased demand for psychiatric care and higher rates of juvenile delinquency.\n \n Today there's routine blood screenings for high levels of lead, study co-author Reuben says. But in the 1960s, 1970s, and 1980s, \"folks were walking around with an average blood lead value that today would trigger clinical follow-up.\"<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=75+Years+of+Lead+in+Gasoline+Caused+150+Million+Mental+Health+Disorders%2C+Study+Finds%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F2356209%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F2356209%2F75-years-of-lead-in-gasoline-caused-150-million-mental-health-disorders-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://news.slashdot.org/story/24/12/05/2356209/75-years-of-lead-in-gasoline-caused-150-million-mental-health-disorders-study-finds?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23543021&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "MGLRU Sees New Performance Optimizations For Linux",
+      "url": "https://www.phoronix.com/news/MGLRU-New-Performance-Opts",
+      "date": 1733483999,
+      "author": "Michael Larabel",
+      "unread": true,
+      "desc": "",
+      "content": "It's been a while since there have been any new advancements or performance optimizations to talk about for Multi-Gen LRU (MGLRU) that was upstreamed to the Linux kernel two years ago as a very exciting kernel innovation. But that's changing now with some fresh performance optimizations being worked on for the MGLRU code...",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

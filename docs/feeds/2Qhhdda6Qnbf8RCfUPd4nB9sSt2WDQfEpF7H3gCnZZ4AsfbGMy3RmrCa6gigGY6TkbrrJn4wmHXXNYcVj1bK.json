@@ -6,30 +6,6 @@
   "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Launching the 2024 State of Rust Survey | Rust Blog",
-      "url": "https://www.reddit.com/r/rust/comments/1h764gf/launching_the_2024_state_of_rust_survey_rust_blog/",
-      "date": 1733394210,
-      "author": "/u/Kobzol",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kobzol\"> /u/Kobzol </a> <br/> <span><a href=\"https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h764gf/launching_the_2024_state_of_rust_survey_rust_blog/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "I've put together a list of the top 15 most-watched Rust talks of 2024 so far. Let me know what you think!",
-      "url": "https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/",
-      "date": 1733395076,
-      "author": "/u/TechTalksWeekly",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello <a href=\"/r/Rust\">r/Rust</a>! I&#39;ve recently put together a list of the top 15 most-watched Rust talks of 2024 so far. I recently <a href=\"https://www.linkedin.com/posts/tech-talks-weekly_rust-eurorust-activity-7266016758849748992-tZwy\">shared</a> it on my LinkedIn profile where I received great feedback, so I decided to cross-post it here:</p> <p><strong>1. &quot;Filesystem in Rust - Kent Overstreet&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=WiPp9YEBV0Q\"><strong>https://youtube.com/watch?v=WiPp9YEBV0Q</strong></a> <strong>⸱ +101k views ⸱ 09 Jul 2024 ⸱ 00h 35m 16s</strong></p> <p><strong>2. &quot;Jon Gjengset - Towards Impeccable Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=qfknfCsICUM\"><strong>https://youtube.com/watch?v=qfknfCsICUM</strong></a> <strong>⸱ +31k views ⸱ 03 Apr 2024 ⸱ 00h 55m 59s</strong></p> <p><strong>3. &quot;Chris Biscardi - Bevy: A case study in ergonomic Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=CnoDOc6ML0Y\"><strong>https://youtube.com/watch?v=CnoDOc6ML0Y</strong></a> <strong>⸱ +16k views ⸱ 11 Apr 2024 ⸱ 00h 54m 25s</strong></p> <p><strong>4. &quot;Nicholas Matsakis - Rust 2024 and beyond&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=04gTQmLETFI\"><strong>https://youtube.com/watch?v=04gTQmLETFI</strong></a> <strong>⸱ +14k views ⸱ 05 Apr 2024 ⸱ 00h 33m 48s</strong></p> <p><strong>5. &quot;Through the Fire and the Flames - Jon Gjengset | EuroRust 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=8-KLX1PGg8Q\"><strong>https://youtube.com/watch?v=8-KLX1PGg8Q</strong></a> <strong>⸱ +13k views ⸱ 01 Nov 2024 ⸱ 00h 31m 09s</strong></p> <p><strong>6. &quot;Rainer Stropek - Memory Management in Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=5yy64sy2oSM\"><strong>https://youtube.com/watch?v=5yy64sy2oSM</strong></a> <strong>⸱ +12k views ⸱ 26 Jan 2024 ⸱ 00h 59m 48s</strong></p> <p><strong>7. &quot;Luca Palmieri - Pavex: re-imaging API development in Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=cMea6IMRk2s\"><strong>https://youtube.com/watch?v=cMea6IMRk2s</strong></a> <strong>⸱ +10k views ⸱ 04 Apr 2024 ⸱ 00h 49m 53s</strong></p> <p><strong>8. &quot;Ben Wishovich - Full Stack Rust - Building Rust Websites with Leptos&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=JJV5crU405s\"><strong>https://youtube.com/watch?v=JJV5crU405s</strong></a> <strong>⸱ +10k views ⸱ 11 Apr 2024 ⸱ 00h 44m 54s</strong></p> <p><strong>9. &quot;Lars Bergstrom - Beyond Safety and Speed: How Rust Fuels Team Productivity&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=QrrH2lcl9ew\"><strong>https://youtube.com/watch?v=QrrH2lcl9ew</strong></a> <strong>⸱ +10k views ⸱ 03 Apr 2024 ⸱ 00h 22m 19s</strong></p> <p><strong>10. &quot;Carl Kadie - 9 Rules for Creating (...) Data Structures - Rust Linz&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=09vg_GMftE8\"><strong>https://youtube.com/watch?v=09vg_GMftE8</strong></a> <strong>⸱ +9k views ⸱ 26 Jan 2024 ⸱ 00h 34m 42s</strong></p> <p><strong>11. &quot;Andre Bogus - Easy Mode Rust&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=33FG6O3qejM\"><strong>https://youtube.com/watch?v=33FG6O3qejM</strong></a> <strong>⸱ +8k views ⸱ 04 Apr 2024 ⸱ 00h 37m 44s</strong></p> <p><strong>12. &quot;Rust Vienna Jan 2024 - Serverless Data Pipelines in Rust by Michele Vigilante&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=PK_FKzgPDWg\"><strong>https://youtube.com/watch?v=PK_FKzgPDWg</strong></a> <strong>⸱ +6k views ⸱ 28 Feb 2024 ⸱ 00h 41m 02s</strong></p> <p><strong>13. &quot;Project Syn - Simon Gerber - Rust Zürisee March 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=N7GMHcX-WdA\"><strong>https://youtube.com/watch?v=N7GMHcX-WdA</strong></a> <strong>⸱ +5k views ⸱ 11 Mar 2024 ⸱ 00h 29m 50s</strong></p> <p><strong>14. &quot;Massimiliano Mantione - Object Oriented Programming, and Rust - Rust Linz&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=XkCHjuF5Qps\"><strong>https://youtube.com/watch?v=XkCHjuF5Qps</strong></a> <strong>⸱ +5k views ⸱ 26 Jan 2024 ⸱ 00h 27m 38s</strong></p> <p><strong>15. &quot;Diplomat - Idiomatic Multi-Language APIs - Robert Bastian - Rust Zürisee March 2024&quot; ⸱</strong> <a href=\"https://youtube.com/watch?v=q5gh-XX1_Ws\"><strong>https://youtube.com/watch?v=q5gh-XX1_Ws</strong></a> <strong>⸱ +5k views ⸱ 17 Mar 2024 ⸱ 00h 15m 33s</strong></p> <p>I built this list as a part of <a href=\"https://techtalksweekly.io/\">Tech Talks Weekly</a> which is a free weekly email with all the recently uploaded talks from software engineering conferences. Consider subscribing if this sounds useful.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TechTalksWeekly\"> /u/TechTalksWeekly </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h76bmv/ive_put_together_a_list_of_the_top_15_mostwatched/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Gerust: project generator for Rust backend projects",
       "url": "https://www.reddit.com/r/rust/comments/1h77a9w/gerust_project_generator_for_rust_backend_projects/",
       "date": 1733398952,
@@ -54,6 +30,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Boa JavaScript engine v0.20 released",
+      "url": "https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/",
+      "date": 1733424122,
+      "author": "/u/Jayflux1",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We have released Boa v0.20: </p> <p><a href=\"https://boajs.dev/blog/2024/12/05/boa-release-020\">https://boajs.dev/blog/2024/12/05/boa-release-020</a></p> <p>In this release, we have made continuing progress on Temporal and other TC39 upcoming specifications, performance optimizations and requested runtime features.</p> <p>Our <a href=\"https://boajs.dev/benchmarks\">benchmarks </a>are showing we&#39;re moving in the right direction and conformance to the specification is also increasing. Check out the full release post or the <a href=\"https://github.com/boa-dev/boa/blob/v0.20/CHANGELOG.md\">changelog</a> for more information!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jayflux1\"> /u/Jayflux1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "I spent 2 years rebuilding my algorithmic trading platform in Rust. I have no regrets.",
       "url": "https://www.reddit.com/r/rust/comments/1h7gkpf/i_spent_2_years_rebuilding_my_algorithmic_trading/",
       "date": 1733424621,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve published a few crates on <a href=\"http://crates.io\">crates.io</a> that I don&#39;t really think anyone but me really would have any interest in, and I&#39;ve searched far and wide for anything that uses a part of my crate. Yet when looking at my download statistics, I have around 4000 lifetime downloads that spike at each version.</p> <p>Is there some sort of LLM content scraper/backup/research project that just periodically downloads crates? Do people try out new crates from the &quot;new releases&quot; page? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wowisthatreal\"> /u/wowisthatreal </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why is u32/i32 faster than u8?",
+      "url": "https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/",
+      "date": 1733473272,
+      "author": "/u/ClimberSeb",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I solved day 5&#39;s advent of code problem with a rust program.</p> <p>There I mainly used <span class=\"md-spoiler-text\">Vec::sort_by, a HashSet::&lt;(i32, i32)&gt; plus some recursive depth first search</span> to solve it.</p> <p>At first I didn&#39;t bother checking how big/small the numbers is in my input so I just used an i32 to store them.</p> <p>After getting the right answer I was curious to see how much faster the code would be with the &quot;right&quot; datatype so I changed the numbers to u8. Then the code ran ~50% slower! I tried with i8, i16, u16 all with about the same performance as using u8. Changing to u32 didn&#39;t make a difference compared to i32, and using u64/i64 made it 73% slower.</p> <p>I don&#39;t know the x86_64 instructions, but I&#39;ve assumed the cost of widening the types would be free on a superscalar architecture even if it needed special instructions to do so. What else could cause the slowdown? Worse hashing performance?</p> <p>---- Edit after comments:</p> <p>The code is here: <a href=\"https://pastebin.com/y0xVWHfs\">https://pastebin.com/y0xVWHfs</a></p> <p>It uses these crates:<br/> aoc-runner = &quot;0.3.0&quot;<br/> aoc-runner-derive = &quot;0.3.0&quot;</p> <p>but one could just include the input file and add a main that calls input_generator with it, followed by calling solve_part2 with the result from input_generator.</p> <p>I&#39;ve benchmarked it with cargo-aoc bench, it compiles the code in release mode when benchmarking. It only benchmarks the solve_part2 function, not the input_generator call.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ClimberSeb\"> /u/ClimberSeb </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
