@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/kubernetes/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "How often do you clean your cloud resources? (to optimize cost) or do you clean only when someone shouts from the finance team 😂",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h74xyc/how_often_do_you_clean_your_cloud_resources_to/",
-      "date": 1733388941,
-      "author": "/u/moneyppt",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>tell the truth. no one&#39;s gonna know 😀</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/moneyppt\"> /u/moneyppt </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h74xyc/how_often_do_you_clean_your_cloud_resources_to/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h74xyc/how_often_do_you_clean_your_cloud_resources_to/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Project Capsule has completed its CNCF Sandbox onboarding",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/",
       "date": 1733405782,
@@ -25,6 +13,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>A few hours ago <a href=\"https://github.com/projectcapsule/capsule\">Project Capsule</a> completed the CNCF Sandbox onboarding process: although it&#39;s just a formal step, as maintainers we completed all the required tasks and the project is official part of the CNCF.</p> <p>Project Capsule started as a project to empower Kubernetes clusters with Multi-Tenancy, thanks to effortful of maintainers, it&#39;s placing itself as a framework to build Multi-Tenant platforms, along with a set of <a href=\"https://github.com/projectcapsule?q=addon&amp;type=all&amp;language=&amp;sort=\">addons</a> to play well with other CNCF projects. Capsule counts my first contributions as an Open Source developer, and this small step to the community makes me very proud.</p> <p>Notable Project Capsule adopters are the American Department of Defense (DoD), ASML, NVIDIA, TomTom, WarGaming, Bedag, PITS, and many others.</p> <p>I&#39;d be happy to answer any kind of questions about Multi Tenancy, or Capsule itself.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dariotranchitella\"> /u/dariotranchitella </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Wanting to migrate from Flyway GHAs to K8s operator. What other options are there?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/",
+      "date": 1733421253,
+      "author": "/u/DopeyMcDouble",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello all. My team is wanting to move away from Flyway GHAs and looking into K8s operators that can achieve this process. The following are options that we have looked into:</p> <ul> <li>SchemaHero</li> <li>Atlas</li> </ul> <p>Atlas is our pick but I am not a fan of the freemium service as well as them changing their features down the road. SchemaHero does not support SQL files which is a big bummer which I would have gone to them in a heart-beat.</p> <p>If you are all not using K8s operators, I would like to hear what packages you have used to circumvent this process. Thanks for reading.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DopeyMcDouble\"> /u/DopeyMcDouble </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -172,6 +172,18 @@
       "flags": null,
       "enclosureUrl": "https://www.youtube.com/v/74G7Pwnaj_U?version=3",
       "enclosureMime": ""
+    },
+    {
+      "title": "ChatLoopBackOff - Episode 38 (Copacetic)",
+      "url": "https://www.youtube.com/watch?v=8eBaDvNQckY",
+      "date": 1733474865,
+      "author": "CNCF [Cloud Native Computing Foundation]",
+      "unread": true,
+      "desc": "",
+      "content": "Copacetic, also known as \"Copa,\" is an open-source project designed to streamline container security by addressing vulnerabilities directly within container images. The tool is primarily a command-line interface (CLI) application that allows users to patch container image vulnerabilities based on scanning results from tools like Trivy. The main advantage is that it enables patching without the need to rebuild the entire container image, offering a faster and more efficient approach to securing containers. Join CNCF Ambassador Oluebube Princess Egbuna as she explores Copa for the first time!",
+      "flags": null,
+      "enclosureUrl": "https://www.youtube.com/v/8eBaDvNQckY?version=3",
+      "enclosureMime": ""
     }
   ]
 }

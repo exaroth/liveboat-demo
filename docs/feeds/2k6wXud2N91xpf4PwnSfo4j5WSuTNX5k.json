@@ -6,30 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Intel ANV Driver Improves Vulkan Image Compression Going Back To Tigerlake",
-      "url": "https://www.phoronix.com/news/Intel-Vulkan-Image-Compress",
-      "date": 1733308669,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "Merged for Mesa 25.0 yesterday to the Intel \"ANV\" open-source Vulkan Linux driver is enabling more storage compression on Tigerlake graphics hardware and newer...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "SDL Introducing Async I/O APIs - Backed By IO_uring On Linux",
-      "url": "https://www.phoronix.com/news/SDL3-Async-IO-APIs",
-      "date": 1733309129,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "Longtime Linux game porter Ryan Gordon has introduced initial asynchronous I/O APIs for the in-development SDL3 library. On Linux these async I/O APIs allow making use of the modern kernel IO_uring functionality...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "VTE-Based Linux Terminals Now Support A Nice Feature Led By Windows Terminal",
       "url": "https://www.phoronix.com/news/VTE-Terminals-Progress-Indicate",
       "date": 1733310224,
@@ -193,18 +169,6 @@
       "unread": true,
       "desc": "",
       "content": "The DRM Panic infrastructure has been in the Linux kernel for several releases now and allows for a kernel-based experience similar to Windows' \"Blue Screen of Death as well as more recently allowing QR code kernel error messages and other features. The Intel kernel DRM driver has seen some patches for enabling DRM Panic support...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Ask Bruce Perens Your Questions About How He Hopes to Get Open Source Developers Paid",
-      "url": "https://news.slashdot.org/story/24/12/04/0426220/ask-bruce-perens-your-questions-about-how-he-hopes-to-get-open-source-developers-paid?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "date": 1733355240,
-      "author": "EditorDavid",
-      "unread": true,
-      "desc": "",
-      "content": "Bruce Perens wrote the original Open Source definition back in 1997, and then co-founded the Open Source Initiative with Eric Raymond in 1998. But after resigning from the group in 2020, Perens is now diligently developing an alternative he calls \"Post Open\" to \"meet goals that Open Source fails at today\" &mdash; even providing a way to pay developers for their work. \n\nTo make it all happen, he envisions software developers owning (and controlling) a not-for-profit corporation developing a body of software called \"the Post Open Collection\" and collecting its licensing fees to distribute among developers. The hope? To \"make it possible for an individual developer to stay at home and code all day, and make their living that way without having to build a company.\" \n\n\nThe not-for-profit entity &mdash; besides actually enforcing its licensing &mdash; could also:\n\n\nProvide tech support, servicing all Post-Open software through one entity.Improve security by providing developers with cryptographic-hardware-backed authentication guaranteeing secure software chain-of-custody.Handle onerous legal requirements like compliance with the EU Cyber Resilience Act \"on behalf of all developers in the Post Open Collection\".Compensate documentation writers.Fund lobbying on behalf of developers, along with advocacy for their software's privacy-preserving features.\n\n\"We've started to build the team,\" Perens said in a recent interview, announcing weeks ago that attorneys are already discussing the structure of the future organization and its proposed license. \n\nBut what do you think? Perens has agreed to answer questions from Slashdot readers... \n\nHe's also Slashdot reader #3,872. (And Perens is also an amateur radio operator, currently on the board of M17 &mdash; a community of open source developers and radio enthusiasts &mdash; and in general support of Open Source and Amateur Radio projects through his non-profit HamOpen.org.) But more importantly, Perens \"was the person to announce 'Open Source' to the world,\" according to his official site. Now's your chance to ask him about his next new big idea... \n\nAsk as many questions as you'd like, but please, one per comment. We'll pick the very best questions &mdash; and forward them on to Bruce Perens himself to answer!<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Ask+Bruce+Perens+Your+Questions+About+How+He+Hopes+to+Get+Open+Source+Developers+Paid%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F04%2F0426220%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F04%2F0426220%2Fask-bruce-perens-your-questions-about-how-he-hopes-to-get-open-source-developers-paid%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://news.slashdot.org/story/24/12/04/0426220/ask-bruce-perens-your-questions-about-how-he-hopes-to-get-open-source-developers-paid?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23540933&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -786,7 +750,7 @@
       "enclosureMime": ""
     },
     {
-      "title": "Zopa, the UK neobank, snaps up $85M at a $1B+ valuation, eschewing the IPO route",
+      "title": "Zopa, the UK neobank, snaps up $87M at a $1B+ valuation, eschewing the IPO route",
       "url": "https://techcrunch.com/2024/12/05/zopa-the-uk-neobank-snaps-up-85m-at-a-1b-valuation-eschewing-the-ipo-route/",
       "date": 1733443527,
       "author": "Ingrid Lunden",
@@ -913,6 +877,18 @@
       "unread": true,
       "desc": "",
       "content": "<p>Ride-hail giant Uber and Chinese autonomous vehicle technology company WeRide have launched a commercial robotaxi service in Abu Dhabi. The launch marks Uber’s first international autonomous vehicle offering.  Uber has been snatching up partnerships with autonomous vehicle companies across sectors, including ride-hail, delivery, and trucking. Other partners include Wayve, Serve Robotics, Aurora Innovation, Waabi, and [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "75 Years of Lead in Gasoline Caused 150 Million Mental Health Disorders, Study Finds",
+      "url": "https://news.slashdot.org/story/24/12/05/2356209/75-years-of-lead-in-gasoline-caused-150-million-mental-health-disorders-study-finds?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "date": 1733474040,
+      "author": "EditorDavid",
+      "unread": true,
+      "desc": "",
+      "content": "The use of lead in gasoline \"might have harmed the mental health of a generation,\" reports USA Today.\n\n\nGen X bears an extra burden of conditions such as depression, anxiety, ADHD and neurotic behavior because of the leaded gasoline they were exposed to as children, according to a study published Wednesday in the peer-reviewed Journal of Child Psychology and Psychiatry. Leaded gas was banned in the United States in 1996, but the study said years of exposure during development made them particularly vulnerable. \n\nLead gas peaked from the mid-1960s through the mid-1970s, and children born during that era would later develop some of the highest rates of mental health symptoms, the study said. The study also linked leaded gas to \"disadvantageous\" traits, such as struggling to concentrate, stay on task or organizing thoughts. \"I tend to think of Generation X as 'generation lead,'\" said Aaron Reuben, a study co-author and assistant professor of clinical neuropsychology at the University of Virginia. \"We know they were exposed to it more and we're estimating they have gone on to have higher rates of internalizing conditions like anxiety, depression and symptoms of attention deficit hyperactivity disorder....\" \n\nResearchers linked the lead exposure to an estimated 151 million \"excess mental disorders\" in the United States over the 75-year period. The estimates should be \"considered a floor\" because it relies mainly on gas and not exposure from lead in paint and pipes, Reuben said... Those born between 1966 and 1986 generally had higher mental illness levels linked to lead exposure with the rates peaking for those born between 1966 and 1970, the study said. Those rates coincided with the peak use of lead in gas from the mid-1960s through the mid-1970s... The study said the peak lead use coincided with increased demand for psychiatric care and higher rates of juvenile delinquency.\n \n Today there's routine blood screenings for high levels of lead, study co-author Reuben says. But in the 1960s, 1970s, and 1980s, \"folks were walking around with an average blood lead value that today would trigger clinical follow-up.\"<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=75+Years+of+Lead+in+Gasoline+Caused+150+Million+Mental+Health+Disorders%2C+Study+Finds%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F2356209%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F2356209%2F75-years-of-lead-in-gasoline-caused-150-million-mental-health-disorders-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://news.slashdot.org/story/24/12/05/2356209/75-years-of-lead-in-gasoline-caused-150-million-mental-health-disorders-study-finds?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23543021&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

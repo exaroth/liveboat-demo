@@ -48,7 +48,7 @@
       "author": "koch",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 891</p>\n<p># Comments: 97</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 893</p>\n<p># Comments: 97</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -180,7 +180,7 @@
       "author": "LiamPowell",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://600f3559.prunt-docs.pages.dev/\">https://600f3559.prunt-docs.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314905\">https://news.ycombinator.com/item?id=42314905</a></p>\n<p>Points: 114</p>\n<p># Comments: 32</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://600f3559.prunt-docs.pages.dev/\">https://600f3559.prunt-docs.pages.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314905\">https://news.ycombinator.com/item?id=42314905</a></p>\n<p>Points: 115</p>\n<p># Comments: 32</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -192,7 +192,7 @@
       "author": "iskrataa",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 233</p>\n<p># Comments: 83</p>\n",
+      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 234</p>\n<p># Comments: 83</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -216,7 +216,7 @@
       "author": "burcs",
       "unread": true,
       "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 333</p>\n<p># Comments: 141</p>\n",
+      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 337</p>\n<p># Comments: 141</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +228,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 164</p>\n<p># Comments: 43</p>\n",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 165</p>\n<p># Comments: 45</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -240,7 +240,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 252</p>\n<p># Comments: 34</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 261</p>\n<p># Comments: 36</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -30,18 +30,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Example app with SAML support, built with Go + net/http + SSOReady",
-      "url": "https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/",
-      "date": 1733426929,
-      "author": "/u/Asleep_Beyond1371",
-      "unread": true,
-      "desc": "",
-      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\"> <img src=\"https://external-preview.redd.it/HK4riNmOY7SfP4w_qxXUGvcAMwJ_gx8NVPCSJ9ZSiHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d7179be5d1286b75919ec2db720f59a298e4d26\" alt=\"Example app with SAML support, built with Go + net/http + SSOReady\" title=\"Example app with SAML support, built with Go + net/http + SSOReady\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Asleep_Beyond1371\"> /u/Asleep_Beyond1371 </a> <br/> <span><a href=\"https://github.com/ssoready/ssoready-example-app-golang-saml\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\">[comments]</a></span> </td></tr></table>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Why Clean Architecture and Over-Engineered Layering Don’t Belong in GoLang",
       "url": "https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/",
       "date": 1733431399,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\"> <img src=\"https://external-preview.redd.it/_59Nwz4qwk2TxmiNHif5Zxt8nt1zuXEYXd9npdKB1XY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2948fbfe9b275def2fd8b5ad0b0e91327345ba\" alt=\"What's Missing From Golang Generics?\" title=\"What's Missing From Golang Generics?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nick_at_dolt\"> /u/nick_at_dolt </a> <br/> <span><a href=\"https://www.dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Performance comparison of various golang web frameworks with stdlib",
+      "url": "https://www.reddit.com/r/golang/comments/1h7wbai/performance_comparison_of_various_golang_web/",
+      "date": 1733471322,
+      "author": "/u/cant-find-user-name",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>So, one thing I have noticed happen very frequently is that people pick up fiber or fasthttp to be their http framework of choice because fiber is so much more performant* than stdlib. Even though fiber docs itself say not to choose fiber unless you have really really good reasons (because most middlewares aren&#39;t compatibile with it, it doesn&#39;t implement the full http spec etc), people still pick it. In vast, vast, vast majority of usecases, the web framework&#39;s performance doesn&#39;t matter except in whiteroom benchmarks. You add one db call, one network request, hell one json parsing operation of a decent payload size, and the web framework&#39;s impact becomes infinetisimally small.</p> <p>But anyway, I came across this video recently: <a href=\"https://youtu.be/iPnMPnelWOE?si=QUpd3N5KD9LQ2foM\">https://youtu.be/iPnMPnelWOE?si=QUpd3N5KD9LQ2foM</a> and wanted to share it here. In the benchmarks that invovle json parsing and interacting with postgres, stdlib performs the best (and the difference is in the order of microseconds, it doesn&#39;t matter), and even in barebones test, stdlib performs better until 15k RPS. 15k RPS is very very high, I guarantee you that if one of your webservers has to meet 15k rps, there&#39;s many other things you have to worry about before the framework choice.</p> <p>If you want to choose something other than stdlib for the sake of ergonomics, that is 100% valid and I am not against it. But don&#39;t make that choice in the name of performance unless you have a very specific kind of traffic.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cant-find-user-name\"> /u/cant-find-user-name </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7wbai/performance_comparison_of_various_golang_web/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7wbai/performance_comparison_of_various_golang_web/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
