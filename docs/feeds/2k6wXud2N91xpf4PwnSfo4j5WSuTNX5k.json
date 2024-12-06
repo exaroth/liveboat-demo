@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "VTE-Based Linux Terminals Now Support A Nice Feature Led By Windows Terminal",
-      "url": "https://www.phoronix.com/news/VTE-Terminals-Progress-Indicate",
-      "date": 1733310224,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "VTE-based terminals on Linux like Ptyxis are now seeing support introduced to better display progress state for long-running processes with a more visually pleasing progress bar. Microsoft's Windows Terminal has already supported this feature while now with systemd beginning to support using these Operating System Command escape sequences, Linux terminal support is on the rise...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Intel Compute Runtime 24.45.31740.9 Released Ahead Of The Arc B580 \"Battlemage\" Launch",
       "url": "https://www.phoronix.com/news/Intel-Compute-24.45.31740.9",
       "date": 1733311498,
