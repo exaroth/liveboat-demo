@@ -36,7 +36,7 @@
       "author": "jarko27",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US\">https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42254156\">https://news.ycombinator.com/item?id=42254156</a></p>\n<p>Points: 815</p>\n<p># Comments: 378</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US\">https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42254156\">https://news.ycombinator.com/item?id=42254156</a></p>\n<p>Points: 815</p>\n<p># Comments: 379</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -61,18 +61,6 @@
       "unread": true,
       "desc": "",
       "content": "\n<p>Article URL: <a href=\"https://github.com/xairy/lights-out\">https://github.com/xairy/lights-out</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42259278\">https://news.ycombinator.com/item?id=42259278</a></p>\n<p>Points: 1038</p>\n<p># Comments: 522</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Hetzner cuts traffic on US VPSs, raises prices",
-      "url": "https://news.ycombinator.com/item?id=42264427",
-      "date": 1732792964,
-      "author": "hyperknot",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Just received by email:<p>We are writing to inform you about important changes to the tariff structure of our Cloud servers (CCX and CPX lines) and our Load balancers at our US locations in Ashburn and Hillsboro.<p>What will change?<p>Starting on 1 December 2024, 01:00 am CET, we will begin charging new prices for newly-created Cloud servers and introduce new amounts for included traffic for Cloud Servers and Load balancers at the US locations in Ashburn (ASH) and Hillsboro (HIL). This also applies to existing Cloud servers and Load balancers that are switched to a different tariff using the “Rescale” function. For any existing Cloud servers and Load balancers you have at these locations, the new prices and the new amounts for included traffic will apply later, starting on 1 February 2025, 01:00 am CET. The price for traffic overage will remain unchanged in the new price structure.<p>What are the new prices and amounts of included traffic?<p>Below, you can see a list of the old and new prices and the included traffic.<p>Product Old price New price Old included traffic New included traffic<p>CPX11 € 3.85 € 4.49 20 TB 1 TB<p>CPX21 € 7.05 € 8.99 20 TB 2 TB<p>CPX31 € 13.10 € 15.99 20 TB 3 TB<p>CPX41 € 24.70 € 29.99 20 TB 4 TB<p>CPX51 € 54.40 € 59.99 20 TB 5 TB<p>CCX13 € 11.99 € 12.99 20 TB 1 TB<p>CCX23 € 23.99 € 25.99 20 TB 2 TB<p>CCX33 € 47.99 € 49.99 30 TB 3 TB<p>CCX43 € 95.99 € 99.99 40 TB 4 TB<p>CCX53 € 191.99 € 199.99 50 TB 6 TB<p>CCX63 € 287.99 € 299.99 60 TB 8 TB<p>LB11 € 5.39 unchanged 20 TB 1 TB<p>LB21 € 16.40 unchanged 20 TB 2 TB<p>LB31 € 32.90 unchanged 20 TB 3 TB<p>All monthly prices are excl. VAT and excl. IPv4 addresses.\nWhy are we making these changes?<p>With the new tariff structure, we want to make conditions for our customers around the world as fair as possible. To do that, we will calculate our prices based on local conditions in Europe, Singapore, and the USA. Until this change, customers who have used fewer resources have covered the costs, in a way, for other customers who have used much more resources. We want to make things more balanced. The new prices will give our customers the best possible price for the resources they use.<p>...</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42264427\">https://news.ycombinator.com/item?id=42264427</a></p>\n<p>Points: 469</p>\n<p># Comments: 685</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +216,7 @@
       "author": "bkudria",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/art-gallery\">https://www.henrikkarlsson.xyz/p/art-gallery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302784\">https://news.ycombinator.com/item?id=42302784</a></p>\n<p>Points: 480</p>\n<p># Comments: 187</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/art-gallery\">https://www.henrikkarlsson.xyz/p/art-gallery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302784\">https://news.ycombinator.com/item?id=42302784</a></p>\n<p>Points: 480</p>\n<p># Comments: 188</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -264,7 +252,7 @@
       "author": "mcfunley",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 814</p>\n<p># Comments: 286</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 816</p>\n<p># Comments: 286</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -276,7 +264,7 @@
       "author": "veesahni",
       "unread": true,
       "desc": "",
-      "content": "\n<p>My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href=\"https://www.armaansahni.com/game/\" rel=\"nofollow\">https://www.armaansahni.com/game/</a><p>He's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href=\"https://www.armaansahni.com/how-i-coded-a-game-using-ai/\" rel=\"nofollow\">https://www.armaansahni.com/how-i-coded-a-game-using-ai/</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312121\">https://news.ycombinator.com/item?id=42312121</a></p>\n<p>Points: 1185</p>\n<p># Comments: 464</p>\n",
+      "content": "\n<p>My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href=\"https://www.armaansahni.com/game/\" rel=\"nofollow\">https://www.armaansahni.com/game/</a><p>He's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href=\"https://www.armaansahni.com/how-i-coded-a-game-using-ai/\" rel=\"nofollow\">https://www.armaansahni.com/how-i-coded-a-game-using-ai/</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312121\">https://news.ycombinator.com/item?id=42312121</a></p>\n<p>Points: 1186</p>\n<p># Comments: 464</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -288,7 +276,7 @@
       "author": "bcardarella",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0\">https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312301\">https://news.ycombinator.com/item?id=42312301</a></p>\n<p>Points: 760</p>\n<p># Comments: 137</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0\">https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312301\">https://news.ycombinator.com/item?id=42312301</a></p>\n<p>Points: 761</p>\n<p># Comments: 137</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -300,7 +288,7 @@
       "author": "walz",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1781</p>\n<p># Comments: 282</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1785</p>\n<p># Comments: 282</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
