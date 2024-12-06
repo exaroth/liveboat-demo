@@ -1,15 +1,13 @@
-https://access.acast.com/rss/theeconomistmorningbriefing/default "~News - Daily Brief" news
-https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg "~News - DW" news
-https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_s5yw0dQk7NtgA "~News - AP" news
-https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ "~News - Wall Street Journal" news
-https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg "~News - Bloomberg " news
-https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ "~News - Reuters " news
-https://www.reddit.com/r/worldnews/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - World News" news
-https://www.reddit.com/r/europe/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - Europe" news
+"query:Dev News - Last 2 days:tags # \"dev\" and age < 2 and unread = \"yes\""
+"query:Tech News - Last 2 days:tags # \"tech\" and age < 2 and unread = \"yes\""
+"query:World News - Last day:tags # \"news\" and age < 1 and unread = \"yes\""
+"query:Podcasts:tags # \"podcast\" and unread = \"yes\""
+"query:Youtube:tags # \"yt\""
 
 https://hnrss.org/best "~HN" dev
 https://hnrss.org/show?points=60 "~HN Show" dev
 https://hnrss.org/frontpage?points=75 "~HN Front" dev
+
 http://rss.slashdot.org/Slashdot/slashdotLinux "~Dev - Slashdot - Linux" dev
 http://rss.slashdot.org/Slashdot/slashdotDevelopers "~Dev - Slashdot - Dev" dev
 http://aphyr.com/posts.atom "~Dev - Aphyr" dev
@@ -46,6 +44,15 @@ https://hackernoon.com/feed "~Tech - HackerNoon" ! tech
 https://www.gamespot.com/feeds/reviews ! tech
 https://www.phoronix.com/rss.php ! tech
 https://spectrum.ieee.org/customfeeds/feed/all-topics/rss ! tech
+
+https://access.acast.com/rss/theeconomistmorningbriefing/default "~News - Daily Brief" news
+https://www.youtube.com/feeds/videos.xml?channel_id=UCknLrEdhRCp1aegoMqRaCZg "~News - DW" news
+https://www.youtube.com/feeds/videos.xml?channel_id=UC52X5wxOL_s5yw0dQk7NtgA "~News - AP" news
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK7tptUDHh-RYDsdxO1-5QQ "~News - Wall Street Journal" news
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIALMKvObZNtJ6AmdCLP7Lg "~News - Bloomberg " news
+https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ "~News - Reuters " news
+https://www.reddit.com/r/worldnews/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - World News" news
+https://www.reddit.com/r/europe/top/.rss?sort=top&t=day&limit=10 "~News - Reddit - Europe" news
 
 https://access.acast.com/rss/c939f8d1-c4bc-478e-8bb9-e5343f9a7ab5/default "~Podcast - HistoryHit" podcast
 https://changelog.com/gotime/feed "~Podcast - Go Time" podcast
@@ -144,10 +151,3 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCgyeJxD05YnoDquRMNBfBqw ! y
 # Frontline
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3ScyryU9Oy9Wse3a8OAmYQ ! yt
 
-
-
-"query:Dev News - Last 2 days:tags # \"dev\" and age < 2 and unread = \"yes\""
-"query:Tech News - Last 2 days:tags # \"tech\" and age < 2 and unread = \"yes\""
-"query:World News - Last day:tags # \"news\" and age < 1 and unread = \"yes\""
-"query:Podcasts:tags # \"podcast\" and unread = \"yes\""
-"query:Youtube:tags # \"yt\""
