@@ -29,6 +29,13 @@ jobs:
         run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
       - name: Run liveboat
         run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml --debug
+      - name: Cleanup last build
+        run: |
+          if echo $(git log --oneline -1) | grep -q "Feed rebuild @"; then
+              git reset --soft HEAD~1
+              git stash
+          fi
+        shell: bash
       - name: Commit files
         id: commit
         run: |
