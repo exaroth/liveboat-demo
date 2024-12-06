@@ -6,30 +6,6 @@
   "feedLink": "https://www.reddit.com/r/linux/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "I built and went beyond Linux From Scratch.",
-      "url": "https://www.reddit.com/r/linux/comments/1h7802d/i_built_and_went_beyond_linux_from_scratch/",
-      "date": 1733401515,
-      "author": "/u/000927kd",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/000927kd\"> /u/000927kd </a> <br/> <span><a href=\"https://i.redd.it/1n8iuvqnw05e1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7802d/i_built_and_went_beyond_linux_from_scratch/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Linus Torvalds - \"Completely Broken\" x86_64 Feature Levels",
-      "url": "https://www.reddit.com/r/linux/comments/1h7894j/linus_torvalds_completely_broken_x86_64_feature/",
-      "date": 1733402382,
-      "author": "/u/GoldBarb",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/GoldBarb\"> /u/GoldBarb </a> <br/> <span><a href=\"https://www.phoronix.com/news/Torvalds-Mind-Fart-x86_64-Level\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7894j/linus_torvalds_completely_broken_x86_64_feature/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Reclaim the internet: Mozilla’s rebrand for the next era of tech",
       "url": "https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/",
       "date": 1733405145,
@@ -37,6 +13,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FryBoyter\"> /u/FryBoyter </a> <br/> <span><a href=\"https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "NVIDIA 565.77 STABLE RELEASED",
+      "url": "https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/",
+      "date": 1733412941,
+      "author": "/u/Blocikinio",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blocikinio\"> /u/Blocikinio </a> <br/> <span><a href=\"https://www.nvidia.com/en-us/drivers/details/237587/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gabriel_3\"> /u/gabriel_3 </a> <br/> <span><a href=\"https://www.kernel.org/category/releases.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ucho/linux_612_confirmed_as_lts_kernel/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Y'all seen the 6.10 bsod.. but did y'all see a BLUE BACKGROUND KERNEL PANIC?",
+      "url": "https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/",
+      "date": 1733473432,
+      "author": "/u/akanezzx",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>That&#39;s isn&#39;t reflection since my screen brightness isn&#39;t bright enough to reflect black to blue. It&#39;s weird too because there&#39;s NO INFORMATION ABOUR THIS ONLINE except the windows bsod and 6.10 bsod. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/akanezzx\"> /u/akanezzx </a> <br/> <span><a href=\"https://i.redd.it/50ujup2iu65e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Ultra-Wideband Wireless Simplifies EV Batteries",
-      "url": "https://spectrum.ieee.org/battery-management-system",
-      "date": 1733317203,
-      "author": "Charles Q. Choi",
-      "unread": true,
-      "desc": "",
-      "content": "<p>The tech would let electric vehicles store more energy and streamline assembly</p>",
-      "flags": null,
-      "enclosureUrl": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTA4MDI4MS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc5Mzc3NDA1OX0.e34vWJlb4vFCTAhlbzW0CqTuBOKQodZnfvddIMsI2BY/image.jpg?width=600",
-      "enclosureMime": ""
-    },
-    {
       "title": "Fedora 42 Looking To Package Intel SGX Software Stack",
       "url": "https://www.phoronix.com/news/Fedora-42-Looks-At-SGX",
       "date": 1733320133,
