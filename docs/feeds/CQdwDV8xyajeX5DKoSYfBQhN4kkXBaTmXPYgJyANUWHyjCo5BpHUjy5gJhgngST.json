@@ -148,6 +148,18 @@
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
+    },
+    {
+      "title": "Linux Preps for Kunpeng ARM Server SoC With High Bandwidth Memory",
+      "url": "https://linux.slashdot.org/story/24/12/06/1812208/linux-preps-for-kunpeng-arm-server-soc-with-high-bandwidth-memory?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "date": 1733510040,
+      "author": "EditorDavid",
+      "unread": true,
+      "desc": "",
+      "content": "An anonymous reader shared this report from Phoronix:\n\n\nNew Linux patches from Huawei engineers are preparing new driver support for controlling High Bandwidth Memory (HBM) with the ARM-based Kunpeng high performance SoC... \n\n[I]t would appear there is a new Kunpeng SoC coming that will feature integrated High Bandwidth Memory (HBM).Unless I missed something, this Kunpeng SoC with HBM memory hasn't been formally announced yet and I haven't been able to find any other references short of pointing to prior kernel patches working on this HBM integration... It will be interesting to see what comes of Huawei Kunpeng SoCs with HBM memory and ultimately how well they perform against other AArch64 server processors as well as the Intel Xeon and AMD EPYC competition.\n<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=+Linux+Preps+for+Kunpeng+ARM+Server+SoC+With+High+Bandwidth+Memory%3A+https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F12%2F06%2F1812208%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F12%2F06%2F1812208%2Flinux-preps-for-kunpeng-arm-server-soc-with-high-bandwidth-memory%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://linux.slashdot.org/story/24/12/06/1812208/linux-preps-for-kunpeng-arm-server-soc-with-high-bandwidth-memory?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
     }
   ]
 }

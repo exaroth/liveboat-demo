@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "NVIDIA vs. AMD GPU Workstation Performance For Blender 4.3",
-      "url": "https://www.phoronix.com/review/blender-43-nvidia-amd",
-      "date": 1733337561,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "With the recent release of Blender 4.3 for this leading open-source 3D modeling software, I've been carrying out some fresh NVIDIA vs. AMD GPU benchmarks for accelerated rendering across several different popular benchmark scenes.",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "OpenAI teases 12 days of mystery product launches starting tomorrow",
       "url": "https://arstechnica.com/ai/2024/12/openai-teases-12-days-of-mystery-product-launches-starting-tomorrow/",
       "date": 1733343332,
@@ -111,18 +99,6 @@
       "content": "<p>A recent study points to one way to make it more accurate </p>",
       "flags": null,
       "enclosureUrl": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTEzNzMwMC9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc0MjM5MTkzMX0.aCtg_055_vdQrbU2oXThjOYTyjepu26ltDvRAMkNirc/image.jpg?width=600",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Elon Musk's xAI Plans Massive Expansion of AI Supercomputer in Memphis",
-      "url": "https://slashdot.org/story/24/12/05/0246248/elon-musks-xai-plans-massive-expansion-of-ai-supercomputer-in-memphis?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "date": 1733402040,
-      "author": "EditorDavid",
-      "unread": true,
-      "desc": "",
-      "content": "An anonymous reader shared this report from Reuters:\nElon Musk's artificial intelligence startup xAI plans to expand its Memphis, Tennessee, supercomputer to house at least one million graphics processing units (GPUs), the Greater Memphis Chamber said on Wednesday, as xAI races to compete against rivals like OpenAI. \nThe move represents a massive expansion for the supercomputer called Colossus, which currently has 100,000 GPUs to train xAI's chatbot called Grok. As part of the expansion, Nvidia, which supplies the GPUs, and Dell and Super Micro, which have assembled the server racks for the computer, will establish operations in Memphis, the chamber said in a statement. \n\nThe Greater Memphis chamber (an economic development organization) called it \"the largest capital investment in the region's history,\" even saying that xAI \"is setting the stage for Memphis to become the global epicenter of artificial intelligence.\" (\"To facilitate this massive undertaking, the Greater Memphis Chamber established an xAI Special Operations Team... This team provides round-the-clock concierge service to the company.\") \n\nReuters calls the supercomputer \"a critical component of advancing Musk's AI efforts, as the billionaire has deepened his rivalry against OpenAI...\" And the Greater Memphis chamber describes the expansion by Nvidia/Dell/Super Micro as \"further solidifying the city's position as the 'Digital Delta'... Memphis has provided the power and velocity necessary for not just xAI to grow and thrive, but making way for other companies as well.\"<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Elon+Musk's+xAI+Plans+Massive+Expansion+of+AI+Supercomputer+in+Memphis%3A+https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F12%2F05%2F0246248%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F24%2F12%2F05%2F0246248%2Felon-musks-xai-plans-massive-expansion-of-ai-supercomputer-in-memphis%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://slashdot.org/story/24/12/05/0246248/elon-musks-xai-plans-massive-expansion-of-ai-supercomputer-in-memphis?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23542009&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
-      "flags": null,
-      "enclosureUrl": "",
       "enclosureMime": ""
     },
     {
@@ -279,18 +255,6 @@
       "content": "\n              <p>Broadcom will no longer take VMware's biggest 2,000 customers directly. Instead, it will work with VMware's 500 biggest customers, giving channel partners the opportunity to participate in deals and provide additional value for VMware customers. The reversal is being viewed as an effort from Broadcom to discourage migrations from VMware, but there's skepticism around how much impact it will truly have.</p>\n<p><a href=\"https://arstechnica.com/information-technology/2024/06/price-hikes-of-over-2x-widely-expected-under-broadcoms-vmware-survey-finds/\">Various customers</a> have lamented the changes that succeeded Broadcom buying VMware about a year ago. Controversial moves have included <a href=\"https://arstechnica.com/information-technology/2024/04/amid-eu-antitrust-qs-broadcom-extends-support-for-some-vmware-perpetual-licenses/\">ending perpetual license</a> sales, bundling VMware products into a smaller number of SKUs, and <a href=\"https://arstechnica.com/information-technology/2024/01/broadcom-killing-vmware-partner-program-could-disrupt-thousands-of-businesses/\">ending VMware's channel partner program</a>. These changes have led some firms to consider reducing their business with VMware.</p>\n<p>This week, for example, UK-headquartered cloud operator Beeks Group said that a <a href=\"1.%09https:/arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/\">1,000 percent increase in VMware costs</a> led to it moving most of its 20,000-plus virtual machines to OpenNebula. And numerous customers that Ars Technica has spoken with in the last year are seriously researching or planning total or partial <a href=\"https://arstechnica.com/information-technology/2024/10/a-year-after-broadcoms-vmware-buy-customers-eye-exit-strategies/\">VMware migrations.</a></p><p><a href=\"https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/\">Read full article</a></p>\n<p><a href=\"https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/#comments\">Comments</a></p>\n\n            ",
       "flags": null,
       "enclosureUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1247615915-1152x648-1733429422.jpg",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Amazon CTO Werner Vogels on fighting misinformation, tech addiction, and small nuclear reactors",
-      "url": "https://techcrunch.com/2024/12/05/amazon-cto-werner-vogels-on-fighting-misinformation-tech-addiction-and-small-nuclear-reactors/",
-      "date": 1733432667,
-      "author": "Frederic Lardinois",
-      "unread": true,
-      "desc": "",
-      "content": "<p>In what has become a bit of an annual tradition, I sat down with Amazon CTO Werner Vogels at AWS re:Invent this week. Another annual tradition now is that Vogels, who joined Amazon in 2004, publishes a series of predictions for the next year. It&#8217;d be easy to think that this year&#8217;s predictions are all [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
       "enclosureMime": ""
     },
     {
@@ -1014,13 +978,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "NATO Considers Watching Undersea Internet Cables with a Fleet Unmanned Boats",
-      "url": "https://tech.slashdot.org/story/24/12/05/0528240/nato-considers-watching-undersea-internet-cables-with-a-fleet-unmanned-boats?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "NATO Considers Watching Undersea Internet Cables with a Fleet of Unmanned Boats",
+      "url": "https://tech.slashdot.org/story/24/12/05/0528240/nato-considers-watching-undersea-internet-cables-with-a-fleet-of-unmanned-boats?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "date": 1733506440,
       "author": "EditorDavid",
       "unread": true,
       "desc": "",
-      "content": "An anonymous reader shared this report from Defense News:\nFollowing a pattern of undersea cable damage across European waters in the last year, with the most recent disruptions happening just weeks ago, top NATO officials have begun envisioning a capability that would allow the alliance to have permanent eyes above and under the waterline. In an interview with Defense News, Admiral Pierre Vandier, the alliance's Norfolk, Virginia-based commander for concepts and transformation, likened the idea to police CCTV cameras installed on street lights in urban trouble spots for recording evidence of crimes. \"The technology is there to make this street-lighting with USVs,\" he said, using the military's shorthand for unmanned surface vessel. Vandier said his team is in the early stages of developing an unmanned surface vessel fleet so that \"NATO can see and monitor daily its environment.\" \n\nThe first step would be to achieve this at a surface level, and then later under water... According to Vandier, the goal is to launch the drone surveillance fleet before the next NATO Summit, which will be held in the Netherlands next June. \n\nThe article notes the U.S. Navy's Task Force 59 (launched in 2021) is already \"dedicated to integrating unmanned systems and AI in the U.S. Navy's 5th Fleet area of operations.\" This prompted Admiral Vandier to say the technology for an unmanned cable-watching fleet \"already exists... everything is known and sold, so it is much more a matter of adoption than technology.\"<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=NATO+Considers+Watching+Undersea+Internet+Cables+with+a+Fleet+Unmanned+Boats%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F05%2F0528240%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F05%2F0528240%2Fnato-considers-watching-undersea-internet-cables-with-a-fleet-unmanned-boats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/05/0528240/nato-considers-watching-undersea-internet-cables-with-a-fleet-unmanned-boats?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23542103&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
+      "content": "An anonymous reader shared this report from Defense News:\nFollowing a pattern of undersea cable damage across European waters in the last year, with the most recent disruptions happening just weeks ago, top NATO officials have begun envisioning a capability that would allow the alliance to have permanent eyes above and under the waterline. In an interview with Defense News, Admiral Pierre Vandier, the alliance's Norfolk, Virginia-based commander for concepts and transformation, likened the idea to police CCTV cameras installed on street lights in urban trouble spots for recording evidence of crimes. \"The technology is there to make this street-lighting with USVs,\" he said, using the military's shorthand for unmanned surface vessel. Vandier said his team is in the early stages of developing an unmanned surface vessel fleet so that \"NATO can see and monitor daily its environment.\" \n\nThe first step would be to achieve this at a surface level, and then later under water... According to Vandier, the goal is to launch the drone surveillance fleet before the next NATO Summit, which will be held in the Netherlands next June. \n\nThe article notes the U.S. Navy's Task Force 59 (launched in 2021) is already \"dedicated to integrating unmanned systems and AI in the U.S. Navy's 5th Fleet area of operations.\" This prompted Admiral Vandier to say the technology for an unmanned cable-watching fleet \"already exists... everything is known and sold, so it is much more a matter of adoption than technology.\"<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=NATO+Considers+Watching+Undersea+Internet+Cables+with+a+Fleet+of+Unmanned+Boats%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F05%2F0528240%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F05%2F0528240%2Fnato-considers-watching-undersea-internet-cables-with-a-fleet-of-unmanned-boats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/05/0528240/nato-considers-watching-undersea-internet-cables-with-a-fleet-of-unmanned-boats?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23542103&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -1045,6 +1009,18 @@
       "unread": true,
       "desc": "",
       "content": "With the Linux 6.13 merge window having ended this past weekend, here's the Phoronix overview of all the interesting feature additions, new hardware support, and other kernel changes coming for Linux 6.13.",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "A16z-backed Toka wants to help US agencies hack into security cameras and other IoT devices",
+      "url": "https://techcrunch.com/2024/12/06/a16z-backed-toka-wants-to-help-us-agencies-hack-into-security-cameras-and-other-iot-devices/",
+      "date": 1733510183,
+      "author": "Charles Rollet",
+      "unread": true,
+      "desc": "",
+      "content": "<p>An Israeli startup specializing in penetrating IoT devices says it's hiring to \"support new business growth\" in the US government market.</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
