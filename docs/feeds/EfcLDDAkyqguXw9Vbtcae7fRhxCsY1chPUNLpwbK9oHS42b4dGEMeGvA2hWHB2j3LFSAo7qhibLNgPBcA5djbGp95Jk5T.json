@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/programming/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Agentic Dev Tools Directory for the Community [Free Listing & Access]",
-      "url": "https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/",
-      "date": 1733422103,
-      "author": "/u/kingai404",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kingai404\"> /u/kingai404 </a> <br/> <span><a href=\"https://directory.composio.dev/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Bjarne Stroustrup: Why you should avoid Linked Lists",
       "url": "https://www.reddit.com/r/programming/comments/1h7ikrt/bjarne_stroustrup_why_you_should_avoid_linked/",
       "date": 1733429614,
@@ -37,6 +25,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spareminuteforworms\"> /u/spareminuteforworms </a> <br/> <span><a href=\"https://github.com/ultralytics/ultralytics/issues/18027\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7jev7/apparent_supply_chain_attack_ultralytics_pypi/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Thinking in Actors - Part 2 - Welcome to a world of ordered thinking",
+      "url": "https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/",
+      "date": 1733438530,
+      "author": "/u/jeremycarterau",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jeremycarterau\"> /u/jeremycarterau </a> <br/> <span><a href=\"https://open.substack.com/pub/jeremycarterau/p/thinking-in-actors-part-2?r=ma4m&amp;utm_campaign=post&amp;utm_medium=web\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

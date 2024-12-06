@@ -138,18 +138,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Agentic Dev Tools Directory for the Community [Free Listing & Access]",
-      "url": "https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/",
-      "date": 1733422103,
-      "author": "/u/kingai404",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kingai404\"> /u/kingai404 </a> <br/> <span><a href=\"https://directory.composio.dev/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "ChatGPT Pro",
       "url": "https://openai.com/index/introducing-chatgpt-pro/",
       "date": 1733422171,
@@ -162,37 +150,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Boa JavaScript engine v0.20 released",
-      "url": "https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/",
-      "date": 1733424122,
-      "author": "/u/Jayflux1",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>We have released Boa v0.20: </p> <p><a href=\"https://boajs.dev/blog/2024/12/05/boa-release-020\">https://boajs.dev/blog/2024/12/05/boa-release-020</a></p> <p>In this release, we have made continuing progress on Temporal and other TC39 upcoming specifications, performance optimizations and requested runtime features.</p> <p>Our <a href=\"https://boajs.dev/benchmarks\">benchmarks </a>are showing we&#39;re moving in the right direction and conformance to the specification is also increasing. Check out the full release post or the <a href=\"https://github.com/boa-dev/boa/blob/v0.20/CHANGELOG.md\">changelog</a> for more information!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jayflux1\"> /u/Jayflux1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "I created nouveau-smi: A nvidia-smi equivalent for Nouveau using Go",
-      "url": "https://www.reddit.com/r/linux/comments/1h7gndg/i_created_nouveausmi_a_nvidiasmi_equivalent_for/",
-      "date": 1733424799,
-      "author": "/u/Fascinating_Destiny",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fascinating_Destiny\"> /u/Fascinating_Destiny </a> <br/> <span><a href=\"https://i.redd.it/bjgr6urqt25e1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7gndg/i_created_nouveausmi_a_nvidiasmi_equivalent_for/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Show HN: Banan-OS, an Unix-like operating system written from scratch",
       "url": "https://github.com/Bananymous/banan-os",
       "date": 1733424854,
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 308</p>\n<p># Comments: 55</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 311</p>\n<p># Comments: 55</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -318,6 +282,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Thinking in Actors - Part 2 - Welcome to a world of ordered thinking",
+      "url": "https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/",
+      "date": 1733438530,
+      "author": "/u/jeremycarterau",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jeremycarterau\"> /u/jeremycarterau </a> <br/> <span><a href=\"https://open.substack.com/pub/jeremycarterau/p/thinking-in-actors-part-2?r=ma4m&amp;utm_campaign=post&amp;utm_medium=web\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Why Open Source UI Design Sucks",
       "url": "https://www.reddit.com/r/programming/comments/1h7muqe/why_open_source_ui_design_sucks/",
       "date": 1733440551,
@@ -336,7 +312,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 375</p>\n<p># Comments: 233</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 381</p>\n<p># Comments: 235</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -349,18 +325,6 @@
       "unread": true,
       "desc": "",
       "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 760</p>\n<p># Comments: 500</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Intel’s board, and an example of when boards and short-termism fail",
-      "url": "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail",
-      "date": 1733445863,
-      "author": "LarsDu88",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 319</p>\n<p># Comments: 232</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -516,7 +480,7 @@
       "author": "jwilk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 119</p>\n<p># Comments: 146</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 124</p>\n<p># Comments: 153</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -540,7 +504,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 150</p>\n<p># Comments: 59</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 156</p>\n<p># Comments: 62</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -570,6 +534,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Sensible SQLite Defaults",
+      "url": "https://briandouglas.ie/sqlite-defaults/",
+      "date": 1733484118,
+      "author": "thunderbong",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://briandouglas.ie/sqlite-defaults/\">https://briandouglas.ie/sqlite-defaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338738\">https://news.ycombinator.com/item?id=42338738</a></p>\n<p>Points: 78</p>\n<p># Comments: 36</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Why Flatpak is a Blessing for Linux Beginners and Everyday Users",
       "url": "https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/",
       "date": 1733484915,
@@ -582,13 +558,37 @@
       "enclosureMime": ""
     },
     {
+      "title": "Canon EOS SDK is now finally available for Linux!",
+      "url": "https://www.reddit.com/r/linux/comments/1h7zxc4/canon_eos_sdk_is_now_finally_available_for_linux/",
+      "date": 1733486902,
+      "author": "/u/maxawake",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>It has always been Kind of hacky to get Canon eos cameras to work on linux. This finally opens the door for great driver and custom Software using the SDK. Go Canon! </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/maxawake\"> /u/maxawake </a> <br/> <span><a href=\"https://i.redd.it/icypcmgjy75e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7zxc4/canon_eos_sdk_is_now_finally_available_for_linux/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Announcing ProSA: Our New Rust Open Source Library for Handling Transactional Flow at Worldline Fintech",
+      "url": "https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/",
+      "date": 1733488653,
+      "author": "/u/reneca",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/reneca\"> /u/reneca </a> <br/> <span><a href=\"https://blog.worldline.tech/2024/11/26/prosa.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Show HN: Prompt Engine – Auto pick LLMs based on your prompts",
       "url": "https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine",
       "date": 1733489148,
       "author": "yoeven",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 69</p>\n<p># Comments: 12</p>\n",
+      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -648,7 +648,7 @@
       "author": "vinni2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 140</p>\n<p># Comments: 207</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 166</p>\n<p># Comments: 266</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -660,7 +660,7 @@
       "author": "bnkty",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 79</p>\n<p># Comments: 21</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 81</p>\n<p># Comments: 22</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -672,7 +672,7 @@
       "author": "raybb",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 152</p>\n<p># Comments: 60</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 162</p>\n<p># Comments: 63</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -684,7 +684,7 @@
       "author": "ohjeez",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 193</p>\n<p># Comments: 42</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 204</p>\n<p># Comments: 45</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -708,7 +708,7 @@
       "author": "belter",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 141</p>\n<p># Comments: 166</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 155</p>\n<p># Comments: 179</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -720,7 +720,7 @@
       "author": "pr337h4m",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 150</p>\n<p># Comments: 54</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 174</p>\n<p># Comments: 67</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -732,7 +732,7 @@
       "author": "amichail",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 122</p>\n<p># Comments: 59</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 164</p>\n<p># Comments: 86</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -744,7 +744,7 @@
       "author": "LorenDB",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 88</p>\n<p># Comments: 31</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 159</p>\n<p># Comments: 67</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
