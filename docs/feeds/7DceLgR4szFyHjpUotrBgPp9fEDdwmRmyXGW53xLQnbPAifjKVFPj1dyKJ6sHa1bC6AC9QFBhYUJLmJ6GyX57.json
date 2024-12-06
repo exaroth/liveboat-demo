@@ -6,30 +6,6 @@
   "feedLink": "https://www.reddit.com/r/linux/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Reclaim the internet: Mozilla’s rebrand for the next era of tech",
-      "url": "https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/",
-      "date": 1733405145,
-      "author": "/u/FryBoyter",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FryBoyter\"> /u/FryBoyter </a> <br/> <span><a href=\"https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "NVIDIA 565.77 STABLE RELEASED",
-      "url": "https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/",
-      "date": 1733412941,
-      "author": "/u/Blocikinio",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blocikinio\"> /u/Blocikinio </a> <br/> <span><a href=\"https://www.nvidia.com/en-us/drivers/details/237587/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "‘Tis the Season for COSMIC Alpha 4!",
       "url": "https://www.reddit.com/r/linux/comments/1h7ciyh/tis_the_season_for_cosmic_alpha_4/",
       "date": 1733414579,
@@ -73,6 +49,30 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>That&#39;s isn&#39;t reflection since my screen brightness isn&#39;t bright enough to reflect black to blue. It&#39;s weird too because there&#39;s NO INFORMATION ABOUR THIS ONLINE except the windows bsod and 6.10 bsod. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/akanezzx\"> /u/akanezzx </a> <br/> <span><a href=\"https://i.redd.it/50ujup2iu65e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why Flatpak is a Blessing for Linux Beginners and Everyday Users",
+      "url": "https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/",
+      "date": 1733484915,
+      "author": "/u/MaleficentTry1316",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I swear by Flatpak. It has made Linux so much more accessible for beginners and casual users who aren&#39;t interested in diving deep into the inner workings of Linux but just want to use their PC without relying on Windows.</p> <p>I get that Flatpak has its downsides, like consuming more storage space in general, but the benefits far outweigh these negatives. Before I started using Flatpak, and was relying on traditional package managers like apt or dnf, I would always run into issues after a while that I had to Google and troubleshoot (of course, that&#39;s part of the IT life). Dependency problems and other headaches were a constant struggle. But ever since I switched to Flatpak, I can reliably expect my PC to just work about 98% of the time.</p> <p>Learning Linux in-depth is great, especially in a VM where you don&#39;t have to worry about losing important data—it&#39;s fun to break things and figure out how to fix them. But if you&#39;re just looking to have a working PC without all the hassle of configuring things or dealing with weird issues, Flatpak is a godsend.</p> <p>Canonical does something similar with Snap, and I fully understand the dislike people have for Snap. However, I think the containerized way of installing software is exactly what non-tech-savvy users need when they want a working PC without the need of using Windows.</p> <p>I’m sure Flatpak has its own downsides if you dig deeper, but for the average user, it’s a massive positive addition to Linux.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MaleficentTry1316\"> /u/MaleficentTry1316 </a> <br/> <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "What do you think about my new Home Server?",
+      "url": "https://www.reddit.com/r/linux/comments/1h814g1/what_do_you_think_about_my_new_home_server/",
+      "date": 1733491009,
+      "author": "/u/La_wand",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/La_wand\"> /u/La_wand </a> <br/> <span><a href=\"https://i.redd.it/e1wpcyb2r75e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h814g1/what_do_you_think_about_my_new_home_server/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

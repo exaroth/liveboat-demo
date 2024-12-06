@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/kubernetes/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Project Capsule has completed its CNCF Sandbox onboarding",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/",
-      "date": 1733405782,
-      "author": "/u/dariotranchitella",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A few hours ago <a href=\"https://github.com/projectcapsule/capsule\">Project Capsule</a> completed the CNCF Sandbox onboarding process: although it&#39;s just a formal step, as maintainers we completed all the required tasks and the project is official part of the CNCF.</p> <p>Project Capsule started as a project to empower Kubernetes clusters with Multi-Tenancy, thanks to effortful of maintainers, it&#39;s placing itself as a framework to build Multi-Tenant platforms, along with a set of <a href=\"https://github.com/projectcapsule?q=addon&amp;type=all&amp;language=&amp;sort=\">addons</a> to play well with other CNCF projects. Capsule counts my first contributions as an Open Source developer, and this small step to the community makes me very proud.</p> <p>Notable Project Capsule adopters are the American Department of Defense (DoD), ASML, NVIDIA, TomTom, WarGaming, Bedag, PITS, and many others.</p> <p>I&#39;d be happy to answer any kind of questions about Multi Tenancy, or Capsule itself.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dariotranchitella\"> /u/dariotranchitella </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Wanting to migrate from Flyway GHAs to K8s operator. What other options are there?",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/",
       "date": 1733421253,
@@ -37,6 +25,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Bit of a follow up from <a href=\"https://www.reddit.com/r/kubernetes/comments/1h34xs6/cannot_seem_to_figure_out_network_issues_in_new/\">my last post</a> where I was chastised (rightfully so, I admit) for relying on ChatGPT 4o too much. I have a vSphere 8 homelab and had built a default Ubuntu Server 24.04 LTS virtual machine (but incorrectly). Then I followed the steps in this blog post:</p> <p><a href=\"https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/\">https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/</a></p> <p>However, I encountered issues because:</p> <ul> <li><strong>MicroK8s was installed in my Ubuntu VM template (it conflicts with full-fledged K8s)</strong></li> <li><strong>The default IP scheme for Calico (192.168.0.0/16) conflicts with my VLAN network where the VMs live: 192.168.2.0/24</strong></li> </ul> <p>(Another issue to look out for is ensure <strong>swap is disabled</strong>, but I had done that properly in the Template)</p> <p>I resolved the issues by completely removing MicroK8s from my template and redeploying the VMs (I used Terraform, but only to spin up the VMs - I did everything for K8s setup manually).</p> <p>And also I had to use (what I would consider more standard and better) a POD CIDR of <a href=\"http://10.244.0.0/16\"><code>10.244.0.0/16</code></a> for Calico:</p> <pre><code>$ root@k8s-node-1:~# kubectl edit ippools apiVersion: crd.projectcalico.org/v1 kind: IPPool metadata: creationTimestamp: &quot;2024-12-05T17:39:09Z&quot; generation: 2 labels: app.kubernetes.io/managed-by: tigera-operator name: default-ipv4-ippool resourceVersion: &quot;233504&quot; uid: 720c9d46-eaaf-471e-9236-4829e8980ade spec: allowedUses: - Workload - Tunnel blockSize: 26 cidr: 10.244.0.0/16 ipipMode: Always natOutgoing: true nodeSelector: all() vxlanMode: Never </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheEndTrend\"> /u/TheEndTrend </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "How do I achieve maximum density for bursty websites?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
+      "date": 1733432115,
+      "author": "/u/assangeleakinglol",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

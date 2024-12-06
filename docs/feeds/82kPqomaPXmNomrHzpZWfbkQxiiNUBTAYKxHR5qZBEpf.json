@@ -6,18 +6,6 @@
   "feedLink": "https://news.ycombinator.com/shownew",
   "items": [
     {
-      "title": "Show HN: Screen Sharing in the Browser",
-      "url": "https://github.com/tonghohin/screen-sharing",
-      "date": 1732842261,
-      "author": "tonghohin",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Seeing all the hype around Bolt.new, I decided to give it a try, and within just 30 minutes, I built a fully functional web app for screen sharing.<p>How It Works:<p>- One user opens a room and receives a unique code.<p>- Participants join by simply entering the code to view the shared screen.<p>After that initial build, I moved the project to Cursor to continue iterating and enhancing its features.<p>Github: <a href=\"https://github.com/tonghohin/screen-sharing\">https://github.com/tonghohin/screen-sharing</a><p>Demo: <a href=\"https://share-your-screen.vercel.app\" rel=\"nofollow\">https://share-your-screen.vercel.app</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42269897\">https://news.ycombinator.com/item?id=42269897</a></p>\n<p>Points: 219</p>\n<p># Comments: 54</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Show HN: Vince – A self hosted alternative to Google Analytics",
       "url": "https://github.com/vinceanalytics/vince",
       "date": 1732848840,
@@ -240,7 +228,19 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 285</p>\n<p># Comments: 39</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 289</p>\n<p># Comments: 39</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles",
+      "url": "https://hackerherald.com/",
+      "date": 1733480554,
+      "author": "MarkMc",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 68</p>\n<p># Comments: 22</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

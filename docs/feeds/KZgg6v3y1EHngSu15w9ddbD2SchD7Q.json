@@ -12,7 +12,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1205</p>\n<p># Comments: 396</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1206</p>\n<p># Comments: 396</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -96,7 +96,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 482</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 484</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -180,31 +180,7 @@
       "author": "greyface-",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 118</p>\n<p># Comments: 27</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Reclaim the internet: Mozilla’s rebrand for the next era of tech",
-      "url": "https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/",
-      "date": 1733405145,
-      "author": "/u/FryBoyter",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/FryBoyter\"> /u/FryBoyter </a> <br/> <span><a href=\"https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h79450/reclaim_the_internet_mozillas_rebrand_for_the/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Project Capsule has completed its CNCF Sandbox onboarding",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/",
-      "date": 1733405782,
-      "author": "/u/dariotranchitella",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>A few hours ago <a href=\"https://github.com/projectcapsule/capsule\">Project Capsule</a> completed the CNCF Sandbox onboarding process: although it&#39;s just a formal step, as maintainers we completed all the required tasks and the project is official part of the CNCF.</p> <p>Project Capsule started as a project to empower Kubernetes clusters with Multi-Tenancy, thanks to effortful of maintainers, it&#39;s placing itself as a framework to build Multi-Tenant platforms, along with a set of <a href=\"https://github.com/projectcapsule?q=addon&amp;type=all&amp;language=&amp;sort=\">addons</a> to play well with other CNCF projects. Capsule counts my first contributions as an Open Source developer, and this small step to the community makes me very proud.</p> <p>Notable Project Capsule adopters are the American Department of Defense (DoD), ASML, NVIDIA, TomTom, WarGaming, Bedag, PITS, and many others.</p> <p>I&#39;d be happy to answer any kind of questions about Multi Tenancy, or Capsule itself.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/dariotranchitella\"> /u/dariotranchitella </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h79blh/project_capsule_has_completed_its_cncf_sandbox/\">[comments]</a></span>",
+      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 120</p>\n<p># Comments: 27</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -258,18 +234,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "NVIDIA 565.77 STABLE RELEASED",
-      "url": "https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/",
-      "date": 1733412941,
-      "author": "/u/Blocikinio",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blocikinio\"> /u/Blocikinio </a> <br/> <span><a href=\"https://www.nvidia.com/en-us/drivers/details/237587/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7bw65/nvidia_56577_stable_released/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Inheritance was invented as a performance hack",
       "url": "https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/",
       "date": 1733414425,
@@ -312,7 +276,7 @@
       "author": "yarapavan",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/\">https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330055\">https://news.ycombinator.com/item?id=42330055</a></p>\n<p>Points: 374</p>\n<p># Comments: 108</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/\">https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330055\">https://news.ycombinator.com/item?id=42330055</a></p>\n<p>Points: 381</p>\n<p># Comments: 109</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -324,7 +288,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/\">https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330491\">https://news.ycombinator.com/item?id=42330491</a></p>\n<p>Points: 191</p>\n<p># Comments: 22</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/\">https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330491\">https://news.ycombinator.com/item?id=42330491</a></p>\n<p>Points: 194</p>\n<p># Comments: 23</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -384,7 +348,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 720</p>\n<p># Comments: 1033</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 732</p>\n<p># Comments: 1048</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -432,7 +396,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 285</p>\n<p># Comments: 39</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 289</p>\n<p># Comments: 39</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -444,7 +408,7 @@
       "author": "kcsaba2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 165</p>\n<p># Comments: 67</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 169</p>\n<p># Comments: 71</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -486,6 +450,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "How do I achieve maximum density for bursty websites?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
+      "date": 1733432115,
+      "author": "/u/assangeleakinglol",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "kapi - a simplified k8s api and controller lib",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/",
       "date": 1733432912,
@@ -516,7 +492,7 @@
       "author": "tolerable",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 219</p>\n<p># Comments: 198</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 225</p>\n<p># Comments: 200</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -528,7 +504,7 @@
       "author": "afyzendo",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b\">https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333243\">https://news.ycombinator.com/item?id=42333243</a></p>\n<p>Points: 106</p>\n<p># Comments: 25</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b\">https://www.tue.nl/en/news-and-events/news-overview/27-11-2024-tue-researchers-get-compact-hard-x-ray-machine-to-work?ct=t%28EMAIL_CAMPAIGN_2024_12_05_12_30&cHash=2698890d84f51932fdab618ea6ad1a4b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333243\">https://news.ycombinator.com/item?id=42333243</a></p>\n<p>Points: 109</p>\n<p># Comments: 25</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -564,7 +540,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 281</p>\n<p># Comments: 171</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 299</p>\n<p># Comments: 178</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -576,7 +552,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 633</p>\n<p># Comments: 393</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 702</p>\n<p># Comments: 439</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -588,7 +564,7 @@
       "author": "crummy",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://litdb.dev/\">https://litdb.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334379\">https://news.ycombinator.com/item?id=42334379</a></p>\n<p>Points: 89</p>\n<p># Comments: 56</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://litdb.dev/\">https://litdb.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334379\">https://news.ycombinator.com/item?id=42334379</a></p>\n<p>Points: 92</p>\n<p># Comments: 56</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -600,7 +576,7 @@
       "author": "benshumaker",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://bit.kevinslin.com/p/lossless-log-aggregation\">https://bit.kevinslin.com/p/lossless-log-aggregation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334568\">https://news.ycombinator.com/item?id=42334568</a></p>\n<p>Points: 86</p>\n<p># Comments: 50</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://bit.kevinslin.com/p/lossless-log-aggregation\">https://bit.kevinslin.com/p/lossless-log-aggregation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334568\">https://news.ycombinator.com/item?id=42334568</a></p>\n<p>Points: 89</p>\n<p># Comments: 55</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -612,7 +588,7 @@
       "author": "LarsDu88",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 236</p>\n<p># Comments: 174</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 242</p>\n<p># Comments: 179</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -636,7 +612,19 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 218</p>\n<p># Comments: 75</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 226</p>\n<p># Comments: 75</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "There Are No More Dogs in Antarctica",
+      "url": "https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html",
+      "date": 1733458299,
+      "author": "thunderbong",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 79</p>\n<p># Comments: 56</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -660,7 +648,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 325</p>\n<p># Comments: 271</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 353</p>\n<p># Comments: 292</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -744,7 +732,7 @@
       "author": "mpweiher",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine\">https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42337980\">https://news.ycombinator.com/item?id=42337980</a></p>\n<p>Points: 179</p>\n<p># Comments: 153</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine\">https://www.iaea.org/newscenter/pressreleases/update-263-iaea-director-general-statement-on-situation-in-ukraine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42337980\">https://news.ycombinator.com/item?id=42337980</a></p>\n<p>Points: 200</p>\n<p># Comments: 188</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -757,6 +745,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/slanterns\"> /u/slanterns </a> <br/> <span><a href=\"https://blog.rust-lang.org/inside-rust/2024/12/04/trait-system-refactor-initiative.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Show HN: Hacker Herald – like HN but with crowdsourced pics and subtitles",
+      "url": "https://hackerherald.com/",
+      "date": 1733480554,
+      "author": "MarkMc",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 68</p>\n<p># Comments: 22</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -786,13 +786,25 @@
       "enclosureMime": ""
     },
     {
-      "title": "Kagi Teams",
-      "url": "https://blog.kagi.com/kagi-teams",
-      "date": 1733486960,
-      "author": "icar",
+      "title": "Why Flatpak is a Blessing for Linux Beginners and Everyday Users",
+      "url": "https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/",
+      "date": 1733484915,
+      "author": "/u/MaleficentTry1316",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://blog.kagi.com/kagi-teams\">https://blog.kagi.com/kagi-teams</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339048\">https://news.ycombinator.com/item?id=42339048</a></p>\n<p>Points: 126</p>\n<p># Comments: 46</p>\n",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I swear by Flatpak. It has made Linux so much more accessible for beginners and casual users who aren&#39;t interested in diving deep into the inner workings of Linux but just want to use their PC without relying on Windows.</p> <p>I get that Flatpak has its downsides, like consuming more storage space in general, but the benefits far outweigh these negatives. Before I started using Flatpak, and was relying on traditional package managers like apt or dnf, I would always run into issues after a while that I had to Google and troubleshoot (of course, that&#39;s part of the IT life). Dependency problems and other headaches were a constant struggle. But ever since I switched to Flatpak, I can reliably expect my PC to just work about 98% of the time.</p> <p>Learning Linux in-depth is great, especially in a VM where you don&#39;t have to worry about losing important data—it&#39;s fun to break things and figure out how to fix them. But if you&#39;re just looking to have a working PC without all the hassle of configuring things or dealing with weird issues, Flatpak is a godsend.</p> <p>Canonical does something similar with Snap, and I fully understand the dislike people have for Snap. However, I think the containerized way of installing software is exactly what non-tech-savvy users need when they want a working PC without the need of using Windows.</p> <p>I’m sure Flatpak has its own downsides if you dig deeper, but for the average user, it’s a massive positive addition to Linux.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/MaleficentTry1316\"> /u/MaleficentTry1316 </a> <br/> <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "What do you think about my new Home Server?",
+      "url": "https://www.reddit.com/r/linux/comments/1h814g1/what_do_you_think_about_my_new_home_server/",
+      "date": 1733491009,
+      "author": "/u/La_wand",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/La_wand\"> /u/La_wand </a> <br/> <span><a href=\"https://i.redd.it/e1wpcyb2r75e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h814g1/what_do_you_think_about_my_new_home_server/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
