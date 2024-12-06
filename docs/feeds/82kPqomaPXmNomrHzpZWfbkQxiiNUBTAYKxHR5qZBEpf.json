@@ -36,7 +36,7 @@
       "author": "koch",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 893</p>\n<p># Comments: 98</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 894</p>\n<p># Comments: 98</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -216,7 +216,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 46</p>\n",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 47</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +228,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 299</p>\n<p># Comments: 43</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 305</p>\n<p># Comments: 44</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -240,7 +240,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 114</p>\n<p># Comments: 40</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 131</p>\n<p># Comments: 48</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

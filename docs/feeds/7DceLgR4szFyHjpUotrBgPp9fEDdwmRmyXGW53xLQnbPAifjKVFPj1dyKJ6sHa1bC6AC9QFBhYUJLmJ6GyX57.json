@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/linux/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "‘Tis the Season for COSMIC Alpha 4!",
-      "url": "https://www.reddit.com/r/linux/comments/1h7ciyh/tis_the_season_for_cosmic_alpha_4/",
-      "date": 1733414579,
-      "author": "/u/ouyawei",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ouyawei\"> /u/ouyawei </a> <br/> <span><a href=\"https://blog.system76.com/post/cosmic-alpha-4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ciyh/tis_the_season_for_cosmic_alpha_4/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "I created nouveau-smi: A nvidia-smi equivalent for Nouveau using Go",
       "url": "https://www.reddit.com/r/linux/comments/1h7gndg/i_created_nouveausmi_a_nvidiasmi_equivalent_for/",
       "date": 1733424799,
@@ -37,6 +25,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gabriel_3\"> /u/gabriel_3 </a> <br/> <span><a href=\"https://www.kernel.org/category/releases.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ucho/linux_612_confirmed_as_lts_kernel/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Y'all seen the 6.10 bsod.. but did y'all see a BLUE BACKGROUND KERNEL PANIC?",
+      "url": "https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/",
+      "date": 1733473432,
+      "author": "/u/akanezzx",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>That&#39;s isn&#39;t reflection since my screen brightness isn&#39;t bright enough to reflect black to blue. It&#39;s weird too because there&#39;s NO INFORMATION ABOUR THIS ONLINE except the windows bsod and 6.10 bsod. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/akanezzx\"> /u/akanezzx </a> <br/> <span><a href=\"https://i.redd.it/50ujup2iu65e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

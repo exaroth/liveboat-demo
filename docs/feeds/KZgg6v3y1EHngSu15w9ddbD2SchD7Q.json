@@ -48,7 +48,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 485</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 490</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -126,18 +126,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "The “simple” 38 step journey to getting an RFC",
-      "url": "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps",
-      "date": 1733399639,
-      "author": "greyface-",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 129</p>\n<p># Comments: 29</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "System Design: What is Service Discovery?",
       "url": "https://blog.algomaster.io/p/service-discovery-in-distributed-systems",
       "date": 1733407022,
@@ -156,19 +144,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 46</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "‘Tis the Season for COSMIC Alpha 4!",
-      "url": "https://www.reddit.com/r/linux/comments/1h7ciyh/tis_the_season_for_cosmic_alpha_4/",
-      "date": 1733414579,
-      "author": "/u/ouyawei",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ouyawei\"> /u/ouyawei </a> <br/> <span><a href=\"https://blog.system76.com/post/cosmic-alpha-4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ciyh/tis_the_season_for_cosmic_alpha_4/\">[comments]</a></span>",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 47</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -181,18 +157,6 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/arashinoshizukesa\"> /u/arashinoshizukesa </a> <br/> <span><a href=\"https://blog.system76.com/post/cosmic-alpha-4\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7dp82/pop_os_rustbased_desktop_environment_cosmic_alpha/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "PaliGemma 2: Powerful Vision-Language Models, Simple Fine-Tuning",
-      "url": "https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/",
-      "date": 1733420800,
-      "author": "meetpateltech",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/\">https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330491\">https://news.ycombinator.com/item?id=42330491</a></p>\n<p>Points: 200</p>\n<p># Comments: 24</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -264,7 +228,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 757</p>\n<p># Comments: 1072</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 766</p>\n<p># Comments: 1089</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -312,19 +276,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 299</p>\n<p># Comments: 43</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "I spent a year building an Android course for the elderly",
-      "url": "https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/",
-      "date": 1733426673,
-      "author": "kcsaba2",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 173</p>\n<p># Comments: 77</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 305</p>\n<p># Comments: 44</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -408,7 +360,7 @@
       "author": "tolerable",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 233</p>\n<p># Comments: 210</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 241</p>\n<p># Comments: 213</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -444,7 +396,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 324</p>\n<p># Comments: 201</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 341</p>\n<p># Comments: 216</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -456,19 +408,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 718</p>\n<p># Comments: 464</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Lossless Log Aggregation – Reduce Log Volume by 99% Without Dropping Data",
-      "url": "https://bit.kevinslin.com/p/lossless-log-aggregation",
-      "date": 1733445098,
-      "author": "benshumaker",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://bit.kevinslin.com/p/lossless-log-aggregation\">https://bit.kevinslin.com/p/lossless-log-aggregation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334568\">https://news.ycombinator.com/item?id=42334568</a></p>\n<p>Points: 101</p>\n<p># Comments: 58</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 745</p>\n<p># Comments: 486</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -480,7 +420,7 @@
       "author": "LarsDu88",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 261</p>\n<p># Comments: 190</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 291</p>\n<p># Comments: 203</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -504,7 +444,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 243</p>\n<p># Comments: 84</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 250</p>\n<p># Comments: 86</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -516,7 +456,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 91</p>\n<p># Comments: 64</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 101</p>\n<p># Comments: 70</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -528,7 +468,7 @@
       "author": "walterbell",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post\">https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336440\">https://news.ycombinator.com/item?id=42336440</a></p>\n<p>Points: 75</p>\n<p># Comments: 56</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post\">https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336440\">https://news.ycombinator.com/item?id=42336440</a></p>\n<p>Points: 79</p>\n<p># Comments: 59</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -552,7 +492,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 413</p>\n<p># Comments: 330</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 449</p>\n<p># Comments: 354</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -606,6 +546,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Y'all seen the 6.10 bsod.. but did y'all see a BLUE BACKGROUND KERNEL PANIC?",
+      "url": "https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/",
+      "date": 1733473432,
+      "author": "/u/akanezzx",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>That&#39;s isn&#39;t reflection since my screen brightness isn&#39;t bright enough to reflect black to blue. It&#39;s weird too because there&#39;s NO INFORMATION ABOUR THIS ONLINE except the windows bsod and 6.10 bsod. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/akanezzx\"> /u/akanezzx </a> <br/> <span><a href=\"https://i.redd.it/50ujup2iu65e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "ChatLoopBackOff - Episode 38 (Copacetic)",
       "url": "https://www.youtube.com/watch?v=8eBaDvNQckY",
       "date": 1733474865,
@@ -630,6 +582,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Debian opens a can of username worms",
+      "url": "https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/",
+      "date": 1733478918,
+      "author": "jwilk",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 86</p>\n<p># Comments: 113</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Rustc Trait System Refactor Initiative Update: Stabilizing `-Znext-solver=coherence` | Inside Rust Blog",
       "url": "https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/",
       "date": 1733480161,
@@ -648,7 +612,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 114</p>\n<p># Comments: 40</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 131</p>\n<p># Comments: 48</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -726,13 +690,37 @@
       "enclosureMime": ""
     },
     {
-      "title": "Mozilla's Announces 'JavaScriptmas' - Daily Coding Challenges with a Chance at Prizes",
-      "url": "https://tech.slashdot.org/story/24/12/04/0138255/mozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "title": "Install postmarketOS on Android phone and use Docker as a home server",
+      "url": "https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/",
+      "date": 1733494997,
+      "author": "raybb",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 83</p>\n<p># Comments: 38</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists",
+      "url": "https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists",
+      "date": 1733496896,
+      "author": "ohjeez",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 118</p>\n<p># Comments: 22</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Mozilla Announces 'JavaScriptmas' - Daily Coding Challenges with a Chance at Prizes",
+      "url": "https://tech.slashdot.org/story/24/12/04/0138255/mozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "date": 1733499240,
       "author": "EditorDavid",
       "unread": true,
       "desc": "",
-      "content": "Mozilla's developer blog is announcing \"JavaScriptmas\".\n\n [F]rom December 1st to December 24th, we will release a fun, daily coding challenge for you to solve on [code-learning platform] Scrimba. Each challenge comes with an introductory screencast called \"scrim\", some starter code, and then it's your turn to fill in the gaps. \n\nJavaScriptmas is about coding, learning, and the chance to win exciting prizes. Two lucky coders will be chosen as winners at the end of JavaScriptmas, and each will win a MacBook Air M3, swag from MDN and Scrimba, and a lifetime Scrimba Pro membership (worth ~$200 per year). The Scrimba membership will give you access to all courses, including the Frontend Developer Career Path based on the MDN curriculum. \nMost of the challenges will evolve around JavaScript algorithms. You will also practice subjects like DOM manipulation, UI design, CSS, accessibility, and even a bit of cyber security. The challenges are a collaborative effort from Scrimba teachers, mentors, and MDN content writers, all with the goal of turning you into a more well-rounded web developer. \nWinners will be chosen randomly from everyone who submits correct solutions. We want JavaScriptmas to be accessible for both beginners and experienced developers alike. That said, the more challenges you solve, the better your chances of winning! To maximize your chances, try to solve all 24 challenges and submit them as both regular entries and social entries. You don't have to submit your solutions on the same day they're published &mdash; the deadline for any submission is midnight UTC on Christmas Eve.<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Mozilla's+Announces+'JavaScriptmas'+-+Daily+Coding+Challenges+with+a+Chance+at+Prizes%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2Fmozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/04/0138255/mozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
+      "content": "Mozilla's developer blog is announcing \"JavaScriptmas\".\n\n [F]rom December 1st to December 24th, we will release a fun, daily coding challenge for you to solve on [code-learning platform] Scrimba. Each challenge comes with an introductory screencast called \"scrim\", some starter code, and then it's your turn to fill in the gaps. \n\nJavaScriptmas is about coding, learning, and the chance to win exciting prizes. Two lucky coders will be chosen as winners at the end of JavaScriptmas, and each will win a MacBook Air M3, swag from MDN and Scrimba, and a lifetime Scrimba Pro membership (worth ~$200 per year). The Scrimba membership will give you access to all courses, including the Frontend Developer Career Path based on the MDN curriculum. \nMost of the challenges will evolve around JavaScript algorithms. You will also practice subjects like DOM manipulation, UI design, CSS, accessibility, and even a bit of cyber security. The challenges are a collaborative effort from Scrimba teachers, mentors, and MDN content writers, all with the goal of turning you into a more well-rounded web developer. \nWinners will be chosen randomly from everyone who submits correct solutions. We want JavaScriptmas to be accessible for both beginners and experienced developers alike. That said, the more challenges you solve, the better your chances of winning! To maximize your chances, try to solve all 24 challenges and submit them as both regular entries and social entries. You don't have to submit your solutions on the same day they're published &mdash; the deadline for any submission is midnight UTC on Christmas Eve.<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Mozilla+Announces+'JavaScriptmas'+-+Daily+Coding+Challenges+with+a+Chance+at+Prizes%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2Fmozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/04/0138255/mozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
