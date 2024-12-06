@@ -6,13 +6,13 @@
   "feedLink": "https://www.reddit.com/r/golang/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Desktop Applications",
-      "url": "https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/",
-      "date": 1733409586,
-      "author": "/u/duckduckgeek",
+      "title": "Example app with SAML support, built with Go + net/http + SSOReady",
+      "url": "https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/",
+      "date": 1733426929,
+      "author": "/u/Asleep_Beyond1371",
       "unread": true,
       "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, fellow Gophers. I am seeking some guidance. I have an idea for a desktop app dealing with AI. My question is this:</p> <p><strong>What GUI toolkit would you recommend?</strong></p> <p>Or!</p> <p><strong>If you recommend Wails, what JS framework would you recommend?</strong></p> <p>A note on the JS framework recommendation: My day job is PHP (Symfony/Twig Templates) and my side project(s) is/are Go/Templ/HTMX. So, I use SSR and templates for the view rather than a React-like pattern. </p> <p>I am fine with learning a toolkit like Fyne, and I would prefer to steer clear of JS if at all possible, but I have no experience doing GUI dev in Go. If it truly is easier to pick up a specific JS framework, or if it is comparable to using something like Fyne, please do not let that stop you from making an honest recommendation. I just ask that if you are going to recommend a JS framework for Wails that you give at least a reason why you would choose that framework over the others.</p> <p>TIA! Happy coding!</p> <p>Edit: clarification</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/duckduckgeek\"> /u/duckduckgeek </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/\">[comments]</a></span>",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\"> <img src=\"https://external-preview.redd.it/HK4riNmOY7SfP4w_qxXUGvcAMwJ_gx8NVPCSJ9ZSiHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d7179be5d1286b75919ec2db720f59a298e4d26\" alt=\"Example app with SAML support, built with Go + net/http + SSOReady\" title=\"Example app with SAML support, built with Go + net/http + SSOReady\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Asleep_Beyond1371\"> /u/Asleep_Beyond1371 </a> <br/> <span><a href=\"https://github.com/ssoready/ssoready-example-app-golang-saml\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\">[comments]</a></span> </td></tr></table>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
