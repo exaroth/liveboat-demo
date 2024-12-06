@@ -27,6 +27,7 @@ jobs:
       - name: Cleanup last build
         run: |
           echo $(git log)
+          echo $(git show HEAD)
           if echo $(git log --oneline -1) | grep -q "Feed rebuild @"; then
               git reset --soft HEAD~1
               git stash
