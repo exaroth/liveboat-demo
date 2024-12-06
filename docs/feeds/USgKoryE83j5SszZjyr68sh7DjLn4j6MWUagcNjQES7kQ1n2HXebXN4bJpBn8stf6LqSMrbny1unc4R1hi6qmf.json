@@ -1,0 +1,81 @@
+{
+  "id": "USgKoryE83j5SszZjyr68sh7DjLn4j6MWUagcNjQES7kQ1n2HXebXN4bJpBn8stf6LqSMrbny1unc4R1hi6qmf",
+  "title": "top scoring links : golang",
+  "displayTitle": "Reddit - Go",
+  "url": "https://www.reddit.com/r/golang/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/golang/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "Building BLE Applications with Go",
+      "url": "https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/",
+      "date": 1733397330,
+      "author": "/u/bleuio",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/\"> <img src=\"https://external-preview.redd.it/w_b5_Y8HOftB1B2W5rubBuS8ZCQ2o0l22bGM27QP6tI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=73d5c81b1b6557fb000670a6d8172e90648915f4\" alt=\"Building BLE Applications with Go \" title=\"Building BLE Applications with Go \" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/bleuio\"> /u/bleuio </a> <br/> <span><a href=\"https://www.bleuio.com/blog/building-ble-applications-with-bleuio-and-go/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h76va2/building_ble_applications_with_go/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Desktop Applications",
+      "url": "https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/",
+      "date": 1733409586,
+      "author": "/u/duckduckgeek",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello, fellow Gophers. I am seeking some guidance. I have an idea for a desktop app dealing with AI. My question is this:</p> <p><strong>What GUI toolkit would you recommend?</strong></p> <p>Or!</p> <p><strong>If you recommend Wails, what JS framework would you recommend?</strong></p> <p>A note on the JS framework recommendation: My day job is PHP (Symfony/Twig Templates) and my side project(s) is/are Go/Templ/HTMX. So, I use SSR and templates for the view rather than a React-like pattern. </p> <p>I am fine with learning a toolkit like Fyne, and I would prefer to steer clear of JS if at all possible, but I have no experience doing GUI dev in Go. If it truly is easier to pick up a specific JS framework, or if it is comparable to using something like Fyne, please do not let that stop you from making an honest recommendation. I just ask that if you are going to recommend a JS framework for Wails that you give at least a reason why you would choose that framework over the others.</p> <p>TIA! Happy coding!</p> <p>Edit: clarification</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/duckduckgeek\"> /u/duckduckgeek </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7amy7/desktop_applications/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Example app with SAML support, built with Go + net/http + SSOReady",
+      "url": "https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/",
+      "date": 1733426929,
+      "author": "/u/Asleep_Beyond1371",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\"> <img src=\"https://external-preview.redd.it/HK4riNmOY7SfP4w_qxXUGvcAMwJ_gx8NVPCSJ9ZSiHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d7179be5d1286b75919ec2db720f59a298e4d26\" alt=\"Example app with SAML support, built with Go + net/http + SSOReady\" title=\"Example app with SAML support, built with Go + net/http + SSOReady\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Asleep_Beyond1371\"> /u/Asleep_Beyond1371 </a> <br/> <span><a href=\"https://github.com/ssoready/ssoready-example-app-golang-saml\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why Clean Architecture and Over-Engineered Layering Don’t Belong in GoLang",
+      "url": "https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/",
+      "date": 1733431399,
+      "author": "/u/Superb-Key-6581",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Stop forcing Clean Architecture and similar patterns into GoLang projects. GoLang is not Java. There’s no application size or complexity that justifies having more than three layers. Architectures like Clean, Hexagonal, or anything with 4+ layers make GoLang projects unnecessarily convoluted.</p> <p>It’s frustrating to work on a codebase where you’re constantly jumping between excessive layers—unnecessary DI, weird abstractions, and use case layers that do nothing except call services with a few added logs. It’s like watching a monstrosity throw exceptions up and down without purpose.</p> <p>In GoLang, you only need up to three layers for a proper DDD division (app, domain, infra). Anything more is pure overengineering. I get why this is common in Java—explicit interfaces and painful refactoring make layering and DI appealing—but GoLang doesn’t have those constraints. Its implicit interfaces make such patterns redundant.</p> <p>These overly complex architectures are turning the GoLang ecosystem into something it was never meant to be. Please let’s keep GoLang simple, efficient, and aligned with its core philosophy. </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Superb-Key-6581\"> /u/Superb-Key-6581 </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7jajk/why_clean_architecture_and_overengineered/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Go API project",
+      "url": "https://www.reddit.com/r/golang/comments/1h7k9kn/go_api_project/",
+      "date": 1733433812,
+      "author": "/u/RaspberryOk8319",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone, </p> <p>A couple of months ago I started building an api to handle some basic stuff for my backend like fetching services and vendors. I was watching Anthony gg at the time and in particular his api 5-part playlist videos where he builds an api from scratch with minimal dependencies.<br/> It kinda happened very fast but as of right now my api.go file is handling about 35 endpoints varying from add vendors to add products and I am planning on adding endpoints for ordering as well.<br/> I had experience with go in the past but I have never made anything similar to this. So is there any suggestions or recommendations you can give me for breaking down this api.go file into several other packages and kinda organize things more efficiently ?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RaspberryOk8319\"> /u/RaspberryOk8319 </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7k9kn/go_api_project/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7k9kn/go_api_project/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "What's Missing From Golang Generics?",
+      "url": "https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/",
+      "date": 1733456671,
+      "author": "/u/nick_at_dolt",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\"> <img src=\"https://external-preview.redd.it/_59Nwz4qwk2TxmiNHif5Zxt8nt1zuXEYXd9npdKB1XY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=6c2948fbfe9b275def2fd8b5ad0b0e91327345ba\" alt=\"What's Missing From Golang Generics?\" title=\"What's Missing From Golang Generics?\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/nick_at_dolt\"> /u/nick_at_dolt </a> <br/> <span><a href=\"https://www.dolthub.com/blog/2024-12-05-whats-missing-from-golang-generics/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7sccx/whats_missing_from_golang_generics/\">[comments]</a></span> </td></tr></table>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}

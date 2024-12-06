@@ -1,0 +1,81 @@
+{
+  "id": "EfcLDDAkyqguXw9Vbtcae7fRhxCsY1chPUNLpwbK9oHS42b4dGEMeGvA2hWHB2j3LFSAo7qhibLNgPBcA5djbGp95Jk5T",
+  "title": "top scoring links : programming",
+  "displayTitle": "Reddit - Programming",
+  "url": "https://www.reddit.com/r/programming/top/.rss?sort=top&t=day&limit=6",
+  "feedLink": "https://www.reddit.com/r/programming/top/?sort=top&t=day&limit=6",
+  "items": [
+    {
+      "title": "Cerbos PDP – OSS scalable authorization (ABAC/RBAC, language-agnostic, stateless, self-hosted + many updates)",
+      "url": "https://www.reddit.com/r/programming/comments/1h79e2p/cerbos_pdp_oss_scalable_authorization_abacrbac/",
+      "date": 1733405999,
+      "author": "/u/West-Chard-1474",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/West-Chard-1474\"> /u/West-Chard-1474 </a> <br/> <span><a href=\"https://github.com/cerbos/cerbos\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h79e2p/cerbos_pdp_oss_scalable_authorization_abacrbac/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Interviews with over 20 teams revealed that the main issue is cognitive load",
+      "url": "https://www.reddit.com/r/programming/comments/1h7a0hl/interviews_with_over_20_teams_revealed_that_the/",
+      "date": 1733407815,
+      "author": "/u/RobinCrusoe25",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/RobinCrusoe25\"> /u/RobinCrusoe25 </a> <br/> <span><a href=\"https://github.com/zakirullin/cognitive-load\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7a0hl/interviews_with_over_20_teams_revealed_that_the/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Inheritance was invented as a performance hack",
+      "url": "https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/",
+      "date": 1733414425,
+      "author": "/u/0x564A00",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/0x564A00\"> /u/0x564A00 </a> <br/> <span><a href=\"https://catern.com/inheritance.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Agentic Dev Tools Directory for the Community [Free Listing & Access]",
+      "url": "https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/",
+      "date": 1733422103,
+      "author": "/u/kingai404",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kingai404\"> /u/kingai404 </a> <br/> <span><a href=\"https://directory.composio.dev/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7fk3w/agentic_dev_tools_directory_for_the_community/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Bjarne Stroustrup: Why you should avoid Linked Lists",
+      "url": "https://www.reddit.com/r/programming/comments/1h7ikrt/bjarne_stroustrup_why_you_should_avoid_linked/",
+      "date": 1733429614,
+      "author": "/u/Probable_Foreigner",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Probable_Foreigner\"> /u/Probable_Foreigner </a> <br/> <span><a href=\"https://www.youtube.com/watch?v=YQs6IC-vgmo\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7ikrt/bjarne_stroustrup_why_you_should_avoid_linked/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "A Map of Software Engineering Pay in US",
+      "url": "https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/",
+      "date": 1733461586,
+      "author": "/u/fagnerbrack",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fagnerbrack\"> /u/fagnerbrack </a> <br/> <span><a href=\"https://www.levels.fyi/heatmap\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    }
+  ]
+}
