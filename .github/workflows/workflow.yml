@@ -37,7 +37,6 @@ jobs:
           git add ./docs
           let ts=$(date +"%s")
           git commit -m "Feed rebuild @ ${ts}" -a
-          git reset --soft HEAD~1
         shell: bash
       - name: Push changes
         uses: ad-m/github-push-action@master
