@@ -23,12 +23,6 @@ jobs:
         run: sudo apt-get update && sudo apt-get install snapd sqlite3
       - name: install newsboat
         run: sudo snap install newsboat
-      - name: ver
-        run: newsboat -v
-      - name: Run newsboat
-        run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
-      - name: Run liveboat
-        run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml --debug
       - name: Cleanup last build
         run: |
           if echo $(git log --oneline -1) | grep -q "Feed rebuild @"; then
@@ -36,6 +30,10 @@ jobs:
               git stash
           fi
         shell: bash
+      - name: Run newsboat
+        run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
+      - name: Run liveboat
+        run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml --debug
       - name: Commit files
         id: commit
         run: |
