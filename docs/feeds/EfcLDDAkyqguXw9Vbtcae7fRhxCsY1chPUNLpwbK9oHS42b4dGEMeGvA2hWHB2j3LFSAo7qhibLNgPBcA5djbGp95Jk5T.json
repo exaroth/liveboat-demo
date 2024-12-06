@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/programming/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Inheritance was invented as a performance hack",
-      "url": "https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/",
-      "date": 1733414425,
-      "author": "/u/0x564A00",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/0x564A00\"> /u/0x564A00 </a> <br/> <span><a href=\"https://catern.com/inheritance.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Awk in 20 Minutes",
       "url": "https://www.reddit.com/r/programming/comments/1h7f7sr/awk_in_20_minutes/",
       "date": 1733421291,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fagnerbrack\"> /u/fagnerbrack </a> <br/> <span><a href=\"https://www.levels.fyi/heatmap\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7tt35/a_map_of_software_engineering_pay_in_us/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "The 70% problem: Hard truths about AI-assisted coding",
+      "url": "https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/",
+      "date": 1733478607,
+      "author": "/u/_srbhr_",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/_srbhr_\"> /u/_srbhr_ </a> <br/> <span><a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -6,30 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Debian 13 Desktop Theme Finalized Ahead Of Next Year's Release",
-      "url": "https://www.phoronix.com/news/Debian-13-Desktop-Theme",
-      "date": 1733327626,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "As a follow-up to last month's article around the Debian 13 release processes continuing and desktop artwork voting underway for Debian 13 \"Trixie\", the winning desktop theme/artwork was announced today...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Drones with Legs Can Walk, Hop, and Jump into the Air",
-      "url": "https://spectrum.ieee.org/bird-drone",
-      "date": 1733328003,
-      "author": "Evan Ackerman",
-      "unread": true,
-      "desc": "",
-      "content": "<p>Birds use their legs for all kinds of clever things, and now drones can too</p>",
-      "flags": null,
-      "enclosureUrl": "https://spectrum.ieee.org/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81NTEzMjg5Mi9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTc5MDc5MzE0M30.f8kN464KXiSaiksS7I45Z049Dot3EmSt41HwLZ9TmYU/image.gif?width=600",
-      "enclosureMime": ""
-    },
-    {
       "title": "OpenVPN DCO Looks Like It Might Be Ready For Linux 6.14 To Speed-Up VPN Performance",
       "url": "https://www.phoronix.com/news/OpenVPN-Data-Channel-DCO-Soon",
       "date": 1733328554,
@@ -85,18 +61,6 @@
       "unread": true,
       "desc": "",
       "content": "Building off the Mesa 24.3 release from two weeks ago is now Mesa 24.3.1 as the first stable point release following their usual bi-weekly release regiment...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Bitcoin Reaches and Surpasses $100k USD",
-      "url": "https://news.slashdot.org/story/24/12/05/0330210/bitcoin-reaches-and-surpasses-100k-usd?utm_source=rss1.0mainlinkanon&utm_medium=feed",
-      "date": 1733367000,
-      "author": "Slashdot Staff",
-      "unread": true,
-      "desc": "",
-      "content": "Bitcoin just broke $100,000 USD for the first time and reached as high as $104k, and is now sitting at $102,857 at the time of this writing. \nSlashdot was pretty early on Bitcoin. Thoughts, nocoiners?<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Bitcoin+Reaches+and+Surpasses+%24100k+USD%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F0330210%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F0330210%2Fbitcoin-reaches-and-surpasses-100k-usd%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://news.slashdot.org/story/24/12/05/0330210/bitcoin-reaches-and-surpasses-100k-usd?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23542037&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -327,18 +291,6 @@
       "content": "\n              <p>On Thursday during a <a href=\"https://openai.com/12-days/\">live demo</a> as part of its \"<a href=\"https://arstechnica.com/ai/2024/12/openai-teases-12-days-of-mystery-product-launches-starting-tomorrow/\">12 days of OpenAI</a>\" event, OpenAI announced a new tier of ChatGPT with higher usage limits for $200 a month and the full version of \"o1,\" the full version of a so-called reasoning model the company <a href=\"https://arstechnica.com/information-technology/2024/09/openais-new-reasoning-ai-models-are-here-o1-preview-and-o1-mini/\">debuted</a> in September.</p>\n<p>Unlike o1-preview, o1 can now process images as well as text (similar to GPT-4o), and it is reportedly much faster than o1-preview. In a demo question about a Roman emperor, o1 took 14 seconds for an answer, and 1 preview took 33 seconds. According to OpenAI, o1 makes major mistakes 34 percent less often than o1-preview, while \"thinking\" 50 percent faster. The model will also reportedly become even faster once deployment is finished transitioning the GPUs to the new model.</p>\n<p>Whether the new <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">ChatGPT Pro</a> subscription will be worth the $200 a month fee isn't yet fully clear, but the company specified that users will have access to an even more capable version of o1 called \"o1 Pro Mode\" that will do even deeper reasoning searches and provide \"more thinking power for more difficult problems\" before answering.</p><p><a href=\"https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/\">Read full article</a></p>\n<p><a href=\"https://arstechnica.com/ai/2024/12/openais-new-200-mo-chatgpt-subscription-will-buy-you-more-compute-time/#comments\">Comments</a></p>\n\n            ",
       "flags": null,
       "enclosureUrl": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/openai_iceblue_hero-1152x648.jpg",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Threads tests a feature that lets you see how well specific posts performed",
-      "url": "https://techcrunch.com/2024/12/05/threads-tests-a-feature-that-lets-users-see-how-well-specific-posts-performed/",
-      "date": 1733425248,
-      "author": "Aisha Malik",
-      "unread": true,
-      "desc": "",
-      "content": "<p>Threads is testing the ability for its users to see how well their individual posts performed on the social network. Up until now, Threads&#8217; &#8220;Insights&#8221; feature only showed you aggregated metrics for all of your posts. Now, the feature can show you metrics for each post. If you&#8217;re in the test, you can sort posts [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
       "enclosureMime": ""
     },
     {
@@ -984,7 +936,19 @@
       "author": "Sarah Perez",
       "unread": true,
       "desc": "",
-      "content": "<p>Spotify Wrapped isn&#8217;t the only service offering a year-end recap these days. In addition to the year-end reviews from other streamers and social apps, you can also count Google Photos among the apps providing users with a look back at key moments throughout the past year. In this case, Google Photos&#8217; &#8220;2024 Recap,&#8221; as the [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "content": "<p>Spotify Wrapped isn&#8217;t the only service offering a year-end recap these days. In addition to the year-end reviews from other streamers and social apps, Google Photos is among the apps providing users with a look back at key moments throughout the past year. &#8220;2024 Recap,&#8221; as the feature is called, introduces a collection of memories, [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "OpenAI considers ditching provision that would prevent AGI from being used for commercial gain",
+      "url": "https://techcrunch.com/2024/12/06/openai-considers-ditching-provision-that-would-prevent-agi-from-being-used-for-commercial-gain/",
+      "date": 1733500959,
+      "author": "Kyle Wiggers",
+      "unread": true,
+      "desc": "",
+      "content": "<p>According to the Financial Times, OpenAI is considering ditching a provision that would shut Microsoft, a major partner and investor, out of its most advanced technology when OpenAI achieves artificial general intelligence (AGI). Exactly when OpenAI creates AGI, which the startup defines as &#8220;highly autonomous systems that outperform humans at most economically valuable work,&#8221; is [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

@@ -66,13 +66,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Anyone has experience with Commvault backups for k8s?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
-      "date": 1733491705,
-      "author": "/u/Then-Treat1346",
+      "title": "Need suggestions/ideas for cutting aws data transfer cost.",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/",
+      "date": 1733491230,
+      "author": "/u/h3xport",
       "unread": true,
       "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Our next.js app is communicating with the .Net backend via publicly exposed LB/domain via ingress controller. This communication is adding to the data cost of our cloud as the communication is public. As per my knowledge, there is no way around for this as most of the things are rendered on the browser of users &amp; we can&#39;t omit a publically exposed API from the architecture. Can anyone suggest a concept or anything you have used in such scenarios, where requests from users are served via ingress &amp; internal calls from frontend microservice to backend microservice are served locally...?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/h3xport\"> /u/h3xport </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

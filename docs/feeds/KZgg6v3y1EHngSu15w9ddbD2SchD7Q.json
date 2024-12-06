@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Show HN: Vekos – a Rust OS with Built-In Cryptographic Verification",
-      "url": "https://github.com/JGiraldo29/vekos",
-      "date": 1733327500,
-      "author": "jgiraldo29",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>VEKOS(Verified Experimental Kernel OS) is a Rust-based experimental kernel that focuses on runtime verification and security. Every filesystem operation and memory allocation generates cryptographic proofs that can be verified in real-time, ensuring system integrity. Think of it like a blockchain for OS operations rather than just storage verification.<p>Key features:\n- Merkle tree-backed filesystem with operation verification\n- Memory manager with CoW and proof generation\n- Buddy allocator with zone-based memory management\n- Shell with VT100 support\n- Verified boot sequence with stage attestation<p>The kernel is still in alpha, but it demonstrates a novel approach to OS security by making verification a first-class citizen. All critical operations (memory allocations, filesystem writes, process creation) generate proofs that are stored in an append-only chain, similar to a blockchain but for system operations.<p>GitHub: <a href=\"https://github.com/JGiraldo29/vekos\">https://github.com/JGiraldo29/vekos</a><p>I would be excited to get feedback on this project, especially on the verification approach and potential use cases. If you have any question the innerworkings of the development, just ask and I will gladly answer all questions. The code is under the Apache 2.0 license and welcomes contributors.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42318644\">https://news.ycombinator.com/item?id=42318644</a></p>\n<p>Points: 81</p>\n<p># Comments: 15</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Meta Using OpenAI's GPT-4 in Internal Coding Tool Despite Llama Push",
       "url": "https://developers.slashdot.org/story/24/12/04/0033227/meta-using-openais-gpt-4-in-internal-coding-tool-despite-llama-push?utm_source=rss1.0mainlinkanon&utm_medium=feed",
       "date": 1733333640,
@@ -36,7 +24,7 @@
       "author": "burcs",
       "unread": true,
       "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 340</p>\n<p># Comments: 141</p>\n",
+      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 341</p>\n<p># Comments: 141</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -144,7 +132,7 @@
       "author": "greyface-",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 128</p>\n<p># Comments: 29</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps\">https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42327280\">https://news.ycombinator.com/item?id=42327280</a></p>\n<p>Points: 129</p>\n<p># Comments: 29</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -168,19 +156,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 171</p>\n<p># Comments: 46</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Inheritance was invented as a performance hack",
-      "url": "https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/",
-      "date": 1733414425,
-      "author": "/u/0x564A00",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/0x564A00\"> /u/0x564A00 </a> <br/> <span><a href=\"https://catern.com/inheritance.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7cgn0/inheritance_was_invented_as_a_performance_hack/\">[comments]</a></span>",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 46</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -216,7 +192,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/\">https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330491\">https://news.ycombinator.com/item?id=42330491</a></p>\n<p>Points: 198</p>\n<p># Comments: 24</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/\">https://developers.googleblog.com/en/introducing-paligemma-2-powerful-vision-language-models-simple-fine-tuning/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330491\">https://news.ycombinator.com/item?id=42330491</a></p>\n<p>Points: 200</p>\n<p># Comments: 24</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -288,7 +264,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 749</p>\n<p># Comments: 1069</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 757</p>\n<p># Comments: 1072</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -336,7 +312,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 296</p>\n<p># Comments: 43</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 299</p>\n<p># Comments: 43</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -348,7 +324,7 @@
       "author": "kcsaba2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 172</p>\n<p># Comments: 77</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/\">https://kopiascsaba.hu/blog/teaching-elderly-people-to-use-android/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331660\">https://news.ycombinator.com/item?id=42331660</a></p>\n<p>Points: 173</p>\n<p># Comments: 77</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -432,7 +408,7 @@
       "author": "tolerable",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 230</p>\n<p># Comments: 210</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 233</p>\n<p># Comments: 210</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -468,7 +444,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 321</p>\n<p># Comments: 199</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 324</p>\n<p># Comments: 201</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -486,19 +462,7 @@
       "enclosureMime": ""
     },
     {
-      "title": "Litdb – type safe SQL for JavaScript/TS",
-      "url": "https://litdb.dev/",
-      "date": 1733443821,
-      "author": "crummy",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://litdb.dev/\">https://litdb.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334379\">https://news.ycombinator.com/item?id=42334379</a></p>\n<p>Points: 96</p>\n<p># Comments: 60</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Lossless Log Aggregation - Reduce Log Volume by 99% Without Dropping Data",
+      "title": "Lossless Log Aggregation – Reduce Log Volume by 99% Without Dropping Data",
       "url": "https://bit.kevinslin.com/p/lossless-log-aggregation",
       "date": 1733445098,
       "author": "benshumaker",
@@ -510,13 +474,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "The Death of Intel: When Boards Fail",
+      "title": "Intel’s board, and an example of when boards and short-termism fail",
       "url": "https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail",
       "date": 1733445863,
       "author": "LarsDu88",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 251</p>\n<p># Comments: 186</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 261</p>\n<p># Comments: 190</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -540,7 +504,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 241</p>\n<p># Comments: 84</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 243</p>\n<p># Comments: 84</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -552,7 +516,19 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 88</p>\n<p># Comments: 61</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 91</p>\n<p># Comments: 64</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Gordon Letwin OS/2 Usenet post (1995)",
+      "url": "https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post",
+      "date": 1733460648,
+      "author": "walterbell",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post\">https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336440\">https://news.ycombinator.com/item?id=42336440</a></p>\n<p>Points: 75</p>\n<p># Comments: 56</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -576,7 +552,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 399</p>\n<p># Comments: 317</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 413</p>\n<p># Comments: 330</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -642,6 +618,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "The 70% problem: Hard truths about AI-assisted coding",
+      "url": "https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/",
+      "date": 1733478607,
+      "author": "/u/_srbhr_",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/_srbhr_\"> /u/_srbhr_ </a> <br/> <span><a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Rustc Trait System Refactor Initiative Update: Stabilizing `-Znext-solver=coherence` | Inside Rust Blog",
       "url": "https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/",
       "date": 1733480161,
@@ -660,7 +648,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 100</p>\n<p># Comments: 34</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 114</p>\n<p># Comments: 40</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -714,6 +702,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Need suggestions/ideas for cutting aws data transfer cost.",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/",
+      "date": 1733491230,
+      "author": "/u/h3xport",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Our next.js app is communicating with the .Net backend via publicly exposed LB/domain via ingress controller. This communication is adding to the data cost of our cloud as the communication is public. As per my knowledge, there is no way around for this as most of the things are rendered on the browser of users &amp; we can&#39;t omit a publically exposed API from the architecture. Can anyone suggest a concept or anything you have used in such scenarios, where requests from users are served via ingress &amp; internal calls from frontend microservice to backend microservice are served locally...?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/h3xport\"> /u/h3xport </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Paid Software is Coming to Flathub",
       "url": "https://www.reddit.com/r/linux/comments/1h81a9d/paid_software_is_coming_to_flathub/",
       "date": 1733491522,
@@ -726,13 +726,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Anyone has experience with Commvault backups for k8s?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
-      "date": 1733491705,
-      "author": "/u/Then-Treat1346",
+      "title": "Mozilla's Announces 'JavaScriptmas' - Daily Coding Challenges with a Chance at Prizes",
+      "url": "https://tech.slashdot.org/story/24/12/04/0138255/mozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0mainlinkanon&utm_medium=feed",
+      "date": 1733499240,
+      "author": "EditorDavid",
       "unread": true,
       "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
+      "content": "Mozilla's developer blog is announcing \"JavaScriptmas\".\n\n [F]rom December 1st to December 24th, we will release a fun, daily coding challenge for you to solve on [code-learning platform] Scrimba. Each challenge comes with an introductory screencast called \"scrim\", some starter code, and then it's your turn to fill in the gaps. \n\nJavaScriptmas is about coding, learning, and the chance to win exciting prizes. Two lucky coders will be chosen as winners at the end of JavaScriptmas, and each will win a MacBook Air M3, swag from MDN and Scrimba, and a lifetime Scrimba Pro membership (worth ~$200 per year). The Scrimba membership will give you access to all courses, including the Frontend Developer Career Path based on the MDN curriculum. \nMost of the challenges will evolve around JavaScript algorithms. You will also practice subjects like DOM manipulation, UI design, CSS, accessibility, and even a bit of cyber security. The challenges are a collaborative effort from Scrimba teachers, mentors, and MDN content writers, all with the goal of turning you into a more well-rounded web developer. \nWinners will be chosen randomly from everyone who submits correct solutions. We want JavaScriptmas to be accessible for both beginners and experienced developers alike. That said, the more challenges you solve, the better your chances of winning! To maximize your chances, try to solve all 24 challenges and submit them as both regular entries and social entries. You don't have to submit your solutions on the same day they're published &mdash; the deadline for any submission is midnight UTC on Christmas Eve.<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Mozilla's+Announces+'JavaScriptmas'+-+Daily+Coding+Challenges+with+a+Chance+at+Prizes%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2Fmozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/04/0138255/mozillas-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
