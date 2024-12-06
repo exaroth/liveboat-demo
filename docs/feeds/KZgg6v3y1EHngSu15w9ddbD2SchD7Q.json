@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Show HN: Outerbase Studio – Open-Source Database GUI",
-      "url": "https://github.com/outerbase/studio",
-      "date": 1733334924,
-      "author": "burcs",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 341</p>\n<p># Comments: 141</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Notes On: Disaggregated OLTP Systems",
       "url": "https://transactional.blog/notes-on/disaggregated-oltp.html",
       "date": 1733356800,
@@ -36,7 +24,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 490</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 491</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -138,30 +126,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Wanting to migrate from Flyway GHAs to K8s operator. What other options are there?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/",
-      "date": 1733421253,
-      "author": "/u/DopeyMcDouble",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello all. My team is wanting to move away from Flyway GHAs and looking into K8s operators that can achieve this process. The following are options that we have looked into:</p> <ul> <li>SchemaHero</li> <li>Atlas</li> </ul> <p>Atlas is our pick but I am not a fan of the freemium service as well as them changing their features down the road. SchemaHero does not support SQL files which is a big bummer which I would have gone to them in a heart-beat.</p> <p>If you are all not using K8s operators, I would like to hear what packages you have used to circumvent this process. Thanks for reading.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DopeyMcDouble\"> /u/DopeyMcDouble </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Awk in 20 Minutes",
-      "url": "https://www.reddit.com/r/programming/comments/1h7f7sr/awk_in_20_minutes/",
-      "date": 1733421291,
-      "author": "/u/ketralnis",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/ketralnis\"> /u/ketralnis </a> <br/> <span><a href=\"https://ferd.ca/awk-in-20-minutes.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7f7sr/awk_in_20_minutes/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Fine-Grained Authorization for Retrieval Augmented Generation",
       "url": "https://www.youtube.com/watch?v=74G7Pwnaj_U",
       "date": 1733421334,
@@ -171,18 +135,6 @@
       "content": "Don't miss out! Join us at our next Flagship Conference: KubeCon + CloudNativeCon Europe in London from April 1 - 4, 2025. Connect with our current graduated, incubating, and sandbox projects as the community gathers to further the education and advancement of cloud native computing. Learn more at https://kubecon.io",
       "flags": null,
       "enclosureUrl": "https://www.youtube.com/v/74G7Pwnaj_U?version=3",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Lessons learned from building a new K8s cluster from scratch on Ubuntu 24.04 LTS VMs in my homelab",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/",
-      "date": 1733421747,
-      "author": "/u/TheEndTrend",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Bit of a follow up from <a href=\"https://www.reddit.com/r/kubernetes/comments/1h34xs6/cannot_seem_to_figure_out_network_issues_in_new/\">my last post</a> where I was chastised (rightfully so, I admit) for relying on ChatGPT 4o too much. I have a vSphere 8 homelab and had built a default Ubuntu Server 24.04 LTS virtual machine (but incorrectly). Then I followed the steps in this blog post:</p> <p><a href=\"https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/\">https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/</a></p> <p>However, I encountered issues because:</p> <ul> <li><strong>MicroK8s was installed in my Ubuntu VM template (it conflicts with full-fledged K8s)</strong></li> <li><strong>The default IP scheme for Calico (192.168.0.0/16) conflicts with my VLAN network where the VMs live: 192.168.2.0/24</strong></li> </ul> <p>(Another issue to look out for is ensure <strong>swap is disabled</strong>, but I had done that properly in the Template)</p> <p>I resolved the issues by completely removing MicroK8s from my template and redeploying the VMs (I used Terraform, but only to spin up the VMs - I did everything for K8s setup manually).</p> <p>And also I had to use (what I would consider more standard and better) a POD CIDR of <a href=\"http://10.244.0.0/16\"><code>10.244.0.0/16</code></a> for Calico:</p> <pre><code>$ root@k8s-node-1:~# kubectl edit ippools apiVersion: crd.projectcalico.org/v1 kind: IPPool metadata: creationTimestamp: &quot;2024-12-05T17:39:09Z&quot; generation: 2 labels: app.kubernetes.io/managed-by: tigera-operator name: default-ipv4-ippool resourceVersion: &quot;233504&quot; uid: 720c9d46-eaaf-471e-9236-4829e8980ade spec: allowedUses: - Workload - Tunnel blockSize: 26 cidr: 10.244.0.0/16 ipipMode: Always natOutgoing: true nodeSelector: all() vxlanMode: Never </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheEndTrend\"> /u/TheEndTrend </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
       "enclosureMime": ""
     },
     {
@@ -204,7 +156,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 766</p>\n<p># Comments: 1089</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 773</p>\n<p># Comments: 1100</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -217,18 +169,6 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>We have released Boa v0.20: </p> <p><a href=\"https://boajs.dev/blog/2024/12/05/boa-release-020\">https://boajs.dev/blog/2024/12/05/boa-release-020</a></p> <p>In this release, we have made continuing progress on Temporal and other TC39 upcoming specifications, performance optimizations and requested runtime features.</p> <p>Our <a href=\"https://boajs.dev/benchmarks\">benchmarks </a>are showing we&#39;re moving in the right direction and conformance to the specification is also increasing. Check out the full release post or the <a href=\"https://github.com/boa-dev/boa/blob/v0.20/CHANGELOG.md\">changelog</a> for more information!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Jayflux1\"> /u/Jayflux1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gdgu/boa_javascript_engine_v020_released/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "I spent 2 years rebuilding my algorithmic trading platform in Rust. I have no regrets.",
-      "url": "https://www.reddit.com/r/rust/comments/1h7gkpf/i_spent_2_years_rebuilding_my_algorithmic_trading/",
-      "date": 1733424621,
-      "author": "/u/No-Definition-2886",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-Definition-2886\"> /u/No-Definition-2886 </a> <br/> <span><a href=\"https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gkpf/i_spent_2_years_rebuilding_my_algorithmic_trading/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -252,7 +192,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 306</p>\n<p># Comments: 48</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 307</p>\n<p># Comments: 52</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -318,6 +258,30 @@
       "enclosureMime": ""
     },
     {
+      "title": "Apparent supply chain attack Ultralytics PyPI",
+      "url": "https://www.reddit.com/r/programming/comments/1h7jev7/apparent_supply_chain_attack_ultralytics_pypi/",
+      "date": 1733431699,
+      "author": "/u/spareminuteforworms",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/spareminuteforworms\"> /u/spareminuteforworms </a> <br/> <span><a href=\"https://github.com/ultralytics/ultralytics/issues/18027\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7jev7/apparent_supply_chain_attack_ultralytics_pypi/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "How do I achieve maximum density for bursty websites?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
+      "date": 1733432115,
+      "author": "/u/assangeleakinglol",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "kapi - a simplified k8s api and controller lib",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/",
       "date": 1733432912,
@@ -348,7 +312,7 @@
       "author": "tolerable",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 244</p>\n<p># Comments: 213</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO\">https://www.businesswire.com/news/home/20241205391064/en/GitLab-Names-Bill-Staples-as-New-CEO</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42333052\">https://news.ycombinator.com/item?id=42333052</a></p>\n<p>Points: 247</p>\n<p># Comments: 216</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -384,7 +348,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 351</p>\n<p># Comments: 223</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 364</p>\n<p># Comments: 227</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -396,7 +360,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 745</p>\n<p># Comments: 486</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 755</p>\n<p># Comments: 495</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -408,7 +372,7 @@
       "author": "LarsDu88",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 297</p>\n<p># Comments: 214</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail\">https://www.fabricatedknowledge.com/p/the-death-of-intel-when-boards-fail</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334697\">https://news.ycombinator.com/item?id=42334697</a></p>\n<p>Points: 308</p>\n<p># Comments: 220</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -432,7 +396,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 254</p>\n<p># Comments: 86</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 262</p>\n<p># Comments: 87</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -444,7 +408,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 105</p>\n<p># Comments: 73</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html\">https://www.chrisdobo.com/there-are-no-more-dogs-in-antarctica.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336262\">https://news.ycombinator.com/item?id=42336262</a></p>\n<p>Points: 111</p>\n<p># Comments: 74</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -456,7 +420,7 @@
       "author": "walterbell",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post\">https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336440\">https://news.ycombinator.com/item?id=42336440</a></p>\n<p>Points: 83</p>\n<p># Comments: 62</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post\">https://gunkies.org/wiki/Gordon_Letwin_OS/2_usenet_post</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336440\">https://news.ycombinator.com/item?id=42336440</a></p>\n<p>Points: 90</p>\n<p># Comments: 63</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -480,7 +444,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 463</p>\n<p># Comments: 364</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 475</p>\n<p># Comments: 369</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -505,6 +469,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello everyone,</p> <p>I’m currently in the final year of my B.Tech in Computer Science and Engineering. I’m looking for project ideas that integrate Machine Learning, Golang, and Web Development. Specifically, I’m interested in full-stack machine learning projects.</p> <p>I would appreciate your suggestions!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/noobgopher\"> /u/noobgopher </a> <br/> <span><a href=\"https://www.reddit.com/r/golang/comments/1h7vwpg/final_year_project_idea/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7vwpg/final_year_project_idea/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Loco v0.13 released: background jobs w/SQLite, jobs admin UI, new rhai-based starter generator",
+      "url": "https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/",
+      "date": 1733470348,
+      "author": "/u/jondot1",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p><a href=\"http://Loco.rs\">Loco.rs</a> <strong>v0.13.x has been released</strong> with over 40 new additions and fixes (our biggest version yet).</p> <p>Our focus for this milestone was:</p> <p>* <a href=\"https://github.com/loco-rs/loco/tree/master/loco-new\">The new starter generator</a>. With a bit of smart engineering, much more powerful and flexible. A Loco starter is now described with a <code>rhai</code> script, which prepares the ground for anyone to create their own Loco starters, see our default one here: <a href=\"https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai\">https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai</a></p> <p>* First class <a href=\"https://loco.rs/docs/processing/workers/\">background jobs</a> experience. We now support <code>sqlite</code> as well as: <code>postgres</code>, <code>redis</code> (<code>valkey</code>), <code>async</code> (threads), <code>foreground</code>.</p> <p>* <a href=\"https://github.com/loco-rs/admin-jobs\">Background jobs admin</a>, standalone project with UI and all, <a href=\"https://github.com/loco-rs/admin-jobs\">https://github.com/loco-rs/admin-jobs</a>, built on Loco, to manage your background jobs with ease.</p> <p>If you haven&#39;t yet given Loco a try, start here: <a href=\"https://loco.rs/docs/getting-started/tour/\">https://loco.rs/docs/getting-started/tour/</a> . It takes 5 minutes to get a full CRUD app running with authentication and everything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jondot1\"> /u/jondot1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -576,7 +552,7 @@
       "author": "jwilk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 95</p>\n<p># Comments: 128</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 103</p>\n<p># Comments: 136</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -600,7 +576,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 138</p>\n<p># Comments: 53</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 144</p>\n<p># Comments: 54</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -642,6 +618,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Show HN: Prompt Engine – Auto pick LLMs based on your prompts",
+      "url": "https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine",
+      "date": 1733489148,
+      "author": "yoeven",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 62</p>\n<p># Comments: 12</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "What do you think about my new Home Server?",
       "url": "https://www.reddit.com/r/linux/comments/1h814g1/what_do_you_think_about_my_new_home_server/",
       "date": 1733491009,
@@ -678,13 +666,37 @@
       "enclosureMime": ""
     },
     {
+      "title": "Anyone has experience with Commvault backups for k8s?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
+      "date": 1733491705,
+      "author": "/u/Then-Treat1346",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Romanian court annuls result of presidential election first round",
+      "url": "https://www.bbc.com/news/articles/cn4x2epppego",
+      "date": 1733493349,
+      "author": "vinni2",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 77</p>\n<p># Comments: 95</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Show HN: BunkerWeb – The Open-Source Web Application Firewall (WAF)",
       "url": "https://github.com/bunkerity/bunkerweb",
       "date": 1733493608,
       "author": "bnkty",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 76</p>\n<p># Comments: 14</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -696,7 +708,7 @@
       "author": "raybb",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 101</p>\n<p># Comments: 48</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 126</p>\n<p># Comments: 52</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -708,7 +720,7 @@
       "author": "ohjeez",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 143</p>\n<p># Comments: 25</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 168</p>\n<p># Comments: 32</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -721,6 +733,18 @@
       "unread": true,
       "desc": "",
       "content": "Mozilla's developer blog is announcing \"JavaScriptmas\".\n\n [F]rom December 1st to December 24th, we will release a fun, daily coding challenge for you to solve on [code-learning platform] Scrimba. Each challenge comes with an introductory screencast called \"scrim\", some starter code, and then it's your turn to fill in the gaps. \n\nJavaScriptmas is about coding, learning, and the chance to win exciting prizes. Two lucky coders will be chosen as winners at the end of JavaScriptmas, and each will win a MacBook Air M3, swag from MDN and Scrimba, and a lifetime Scrimba Pro membership (worth ~$200 per year). The Scrimba membership will give you access to all courses, including the Frontend Developer Career Path based on the MDN curriculum. \nMost of the challenges will evolve around JavaScript algorithms. You will also practice subjects like DOM manipulation, UI design, CSS, accessibility, and even a bit of cyber security. The challenges are a collaborative effort from Scrimba teachers, mentors, and MDN content writers, all with the goal of turning you into a more well-rounded web developer. \nWinners will be chosen randomly from everyone who submits correct solutions. We want JavaScriptmas to be accessible for both beginners and experienced developers alike. That said, the more challenges you solve, the better your chances of winning! To maximize your chances, try to solve all 24 challenges and submit them as both regular entries and social entries. You don't have to submit your solutions on the same day they're published &mdash; the deadline for any submission is midnight UTC on Christmas Eve.<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Mozilla+Announces+'JavaScriptmas'+-+Daily+Coding+Challenges+with+a+Chance+at+Prizes%3A+https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F24%2F12%2F04%2F0138255%2Fmozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://tech.slashdot.org/story/24/12/04/0138255/mozilla-announces-javascriptmas---daily-coding-challenges-with-a-chance-at-prizes?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "TikTok divestment law upheld by federal appeals court",
+      "url": "https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html",
+      "date": 1733500851,
+      "author": "belter",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 106</p>\n<p># Comments: 120</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

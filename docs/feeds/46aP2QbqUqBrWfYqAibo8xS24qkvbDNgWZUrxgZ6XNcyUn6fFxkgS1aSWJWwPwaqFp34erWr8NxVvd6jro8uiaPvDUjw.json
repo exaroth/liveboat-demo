@@ -6,25 +6,13 @@
   "feedLink": "https://www.reddit.com/r/kubernetes/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Wanting to migrate from Flyway GHAs to K8s operator. What other options are there?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/",
-      "date": 1733421253,
-      "author": "/u/DopeyMcDouble",
+      "title": "How do I achieve maximum density for bursty websites?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
+      "date": 1733432115,
+      "author": "/u/assangeleakinglol",
       "unread": true,
       "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello all. My team is wanting to move away from Flyway GHAs and looking into K8s operators that can achieve this process. The following are options that we have looked into:</p> <ul> <li>SchemaHero</li> <li>Atlas</li> </ul> <p>Atlas is our pick but I am not a fan of the freemium service as well as them changing their features down the road. SchemaHero does not support SQL files which is a big bummer which I would have gone to them in a heart-beat.</p> <p>If you are all not using K8s operators, I would like to hear what packages you have used to circumvent this process. Thanks for reading.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DopeyMcDouble\"> /u/DopeyMcDouble </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7f78c/wanting_to_migrate_from_flyway_ghas_to_k8s/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Lessons learned from building a new K8s cluster from scratch on Ubuntu 24.04 LTS VMs in my homelab",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/",
-      "date": 1733421747,
-      "author": "/u/TheEndTrend",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Bit of a follow up from <a href=\"https://www.reddit.com/r/kubernetes/comments/1h34xs6/cannot_seem_to_figure_out_network_issues_in_new/\">my last post</a> where I was chastised (rightfully so, I admit) for relying on ChatGPT 4o too much. I have a vSphere 8 homelab and had built a default Ubuntu Server 24.04 LTS virtual machine (but incorrectly). Then I followed the steps in this blog post:</p> <p><a href=\"https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/\">https://www.linuxtechi.com/install-kubernetes-on-ubuntu-24-04/</a></p> <p>However, I encountered issues because:</p> <ul> <li><strong>MicroK8s was installed in my Ubuntu VM template (it conflicts with full-fledged K8s)</strong></li> <li><strong>The default IP scheme for Calico (192.168.0.0/16) conflicts with my VLAN network where the VMs live: 192.168.2.0/24</strong></li> </ul> <p>(Another issue to look out for is ensure <strong>swap is disabled</strong>, but I had done that properly in the Template)</p> <p>I resolved the issues by completely removing MicroK8s from my template and redeploying the VMs (I used Terraform, but only to spin up the VMs - I did everything for K8s setup manually).</p> <p>And also I had to use (what I would consider more standard and better) a POD CIDR of <a href=\"http://10.244.0.0/16\"><code>10.244.0.0/16</code></a> for Calico:</p> <pre><code>$ root@k8s-node-1:~# kubectl edit ippools apiVersion: crd.projectcalico.org/v1 kind: IPPool metadata: creationTimestamp: &quot;2024-12-05T17:39:09Z&quot; generation: 2 labels: app.kubernetes.io/managed-by: tigera-operator name: default-ipv4-ippool resourceVersion: &quot;233504&quot; uid: 720c9d46-eaaf-471e-9236-4829e8980ade spec: allowedUses: - Workload - Tunnel blockSize: 26 cidr: 10.244.0.0/16 ipipMode: Always natOutgoing: true nodeSelector: all() vxlanMode: Never </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/TheEndTrend\"> /u/TheEndTrend </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7fesq/lessons_learned_from_building_a_new_k8s_cluster/\">[comments]</a></span>",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Our next.js app is communicating with the .Net backend via publicly exposed LB/domain via ingress controller. This communication is adding to the data cost of our cloud as the communication is public. As per my knowledge, there is no way around for this as most of the things are rendered on the browser of users &amp; we can&#39;t omit a publically exposed API from the architecture. Can anyone suggest a concept or anything you have used in such scenarios, where requests from users are served via ingress &amp; internal calls from frontend microservice to backend microservice are served locally...?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/h3xport\"> /u/h3xport </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h816y6/need_suggestionsideas_for_cutting_aws_data/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Anyone has experience with Commvault backups for k8s?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
+      "date": 1733491705,
+      "author": "/u/Then-Treat1346",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

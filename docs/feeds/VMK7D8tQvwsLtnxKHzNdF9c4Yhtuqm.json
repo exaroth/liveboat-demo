@@ -84,7 +84,7 @@
       "author": "adnanaga",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing (Looking at you, David Chang). What a bummer!<p>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42268580\">https://news.ycombinator.com/item?id=42268580</a></p>\n<p>Points: 1405</p>\n<p># Comments: 224</p>\n",
+      "content": "\n<p>Every day, thousands of Cease and Desist letters are issued, telling people to stop what they’re doing (Looking at you, David Chang). What a bummer!<p>That’s why we created: The Continue and Persist Letter. A official-looking legal letter that encourages and uplifts people, one that tells people to keep doing what they’re doing! Surprise someone you appreciate by sending them a Continue and Persist Letter.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42268580\">https://news.ycombinator.com/item?id=42268580</a></p>\n<p>Points: 1406</p>\n<p># Comments: 224</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -150,6 +150,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Show HN: Open-source private home security camera system (end-to-end encryption)",
+      "url": "https://github.com/privastead/privastead",
+      "date": 1733004829,
+      "author": "arrdalan",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>I needed a security camera inside my house, one that would send motion notifications to my smartphone and would allow me to livestream remotely. However, I could not find one that I could trust due to privacy concerns. Many of them upload the plaintext of videos to their servers and none is fully open-source as far as I know. Therefore, I decided to use my spare time to build one from scratch. Called Privastead (as in Private Homestead), it uses OpenMLS for end-to-end encryption (between the camera local hub and the smartphone) and is mostly implemented in Rust (except for part of the Android app that is implemented in Kotlin). The system is functional now and I've been using it in my own house for the past couple of weeks.<p>Based on some of the discussions I've seen online, it seems like there are other users who are also concerned with the privacy implications of home security cameras. Therefore, I decided to open source my solution for everyone to use. If you need a privacy-preserving home security camera, please give it a try and provide feedback. Note that trying out the system requires you to have a supported IP camera, a local machine connected to the IP camera, a server, and an Android smartphone. I have put together detailed instructions on setting up the system, which I hope makes it easier for others to get the system up and running.<p>In addition, consider contributing to the project. The prototype currently has a lot of limitations: mainly that it has only been tested with one IP camera, only allows the use of one camera, and only supports Android. I'll continue to improve the prototype as time permits, but progress will be much faster if there are other contributors as well.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42284412\">https://news.ycombinator.com/item?id=42284412</a></p>\n<p>Points: 544</p>\n<p># Comments: 165</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Advent of Code 2024",
       "url": "https://adventofcode.com/2024/about",
       "date": 1733044175,
@@ -168,7 +180,7 @@
       "author": "prathameshgh",
       "unread": true,
       "desc": "",
-      "content": "\n<p>I am a fresh graduate data engineer working at a small company in the oil and drilling industry.<p>I was hired 6 months ago as a freelance data engineer, and after proving myself through my work quality, I am now essentially functioning as a tech lead, with full responsibility and ownership of designing, implementing, and hiring for the projects I'm assigned.<p>Our company is not a tech company, so I only have a couple of tech-oriented colleagues, and I barely interact with them. Now I directly report to the director of the company, who in all senses is awesome, with 40+ years of combined experience in some of the biggest oil and drilling companies globally.<p>However, I have some strong FOMO about not being able to learn much technical stuff from my peers or seniors. I am trying my best to learn and pick things up on my own, learning design principles, getting code reviews from chatGPT, etc. But even then, I'm afraid I am not producing the software to the highest standards of the industry since we don't have any rigorous cross-checking, and might be missing out on a lot of learning.<p>Can someone who has been in positions similar to these please guide me?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289955\">https://news.ycombinator.com/item?id=42289955</a></p>\n<p>Points: 550</p>\n<p># Comments: 295</p>\n",
+      "content": "\n<p>I am a fresh graduate data engineer working at a small company in the oil and drilling industry.<p>I was hired 6 months ago as a freelance data engineer, and after proving myself through my work quality, I am now essentially functioning as a tech lead, with full responsibility and ownership of designing, implementing, and hiring for the projects I'm assigned.<p>Our company is not a tech company, so I only have a couple of tech-oriented colleagues, and I barely interact with them. Now I directly report to the director of the company, who in all senses is awesome, with 40+ years of combined experience in some of the biggest oil and drilling companies globally.<p>However, I have some strong FOMO about not being able to learn much technical stuff from my peers or seniors. I am trying my best to learn and pick things up on my own, learning design principles, getting code reviews from chatGPT, etc. But even then, I'm afraid I am not producing the software to the highest standards of the industry since we don't have any rigorous cross-checking, and might be missing out on a lot of learning.<p>Can someone who has been in positions similar to these please guide me?</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289955\">https://news.ycombinator.com/item?id=42289955</a></p>\n<p>Points: 551</p>\n<p># Comments: 295</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -216,7 +228,7 @@
       "author": "bkudria",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/art-gallery\">https://www.henrikkarlsson.xyz/p/art-gallery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302784\">https://news.ycombinator.com/item?id=42302784</a></p>\n<p>Points: 480</p>\n<p># Comments: 188</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.henrikkarlsson.xyz/p/art-gallery\">https://www.henrikkarlsson.xyz/p/art-gallery</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302784\">https://news.ycombinator.com/item?id=42302784</a></p>\n<p>Points: 481</p>\n<p># Comments: 188</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +240,7 @@
       "author": "Inocez",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1\">https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42306020\">https://news.ycombinator.com/item?id=42306020</a></p>\n<p>Points: 604</p>\n<p># Comments: 660</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1\">https://apnews.com/article/south-korea-yoon-martial-law-997c22ac93f6a9bece68454597e577c1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42306020\">https://news.ycombinator.com/item?id=42306020</a></p>\n<p>Points: 605</p>\n<p># Comments: 661</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -240,7 +252,7 @@
       "author": "mcfunley",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 821</p>\n<p># Comments: 286</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 823</p>\n<p># Comments: 286</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -252,7 +264,7 @@
       "author": "veesahni",
       "unread": true,
       "desc": "",
-      "content": "\n<p>My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href=\"https://www.armaansahni.com/game/\" rel=\"nofollow\">https://www.armaansahni.com/game/</a><p>He's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href=\"https://www.armaansahni.com/how-i-coded-a-game-using-ai/\" rel=\"nofollow\">https://www.armaansahni.com/how-i-coded-a-game-using-ai/</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312121\">https://news.ycombinator.com/item?id=42312121</a></p>\n<p>Points: 1187</p>\n<p># Comments: 465</p>\n",
+      "content": "\n<p>My 9 year old son has been learning to code.  He learned HTML & CSS over the last year or two.<p>Recently, we had a breakthrough where he learned how to leverage Google Gemini as a learning tool (not to write code for him, but as a better search and as a coding teacher). This leveled him up big time and he decided to make his own game.<p>Game link here: <a href=\"https://www.armaansahni.com/game/\" rel=\"nofollow\">https://www.armaansahni.com/game/</a><p>He's coded all the HTML, CSS & JS by hand in VSCode. He's made the animated graphics on his own using a web based sprite editor called Piskel.<p>For the game, I provided hints along the way and Gemini has helped him with syntax.  View source to see the code. He's excited to share with the community.<p>He also wrote a blog post about how he made this game: <a href=\"https://www.armaansahni.com/how-i-coded-a-game-using-ai/\" rel=\"nofollow\">https://www.armaansahni.com/how-i-coded-a-game-using-ai/</a> (he independently figured out how to leverage Gemini effectively and writes about it here).<p>Regarding the blog post - We had a discussion about who the target audience is (ie not 9 year olds!), what they would be interested in learning about and the general outline. He then dictated his words into the computer (which gets around spelling issues), and he went through multiple rounds of feedback from his parents (improving clarity, punctuation, etc).  In other words, its his words & thoughts but he had help along the way!<p>NOTE: both parents are programmers, who provided valuable guidance through his coding journey.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312121\">https://news.ycombinator.com/item?id=42312121</a></p>\n<p>Points: 1189</p>\n<p># Comments: 465</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -264,7 +276,7 @@
       "author": "bcardarella",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0\">https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312301\">https://news.ycombinator.com/item?id=42312301</a></p>\n<p>Points: 761</p>\n<p># Comments: 137</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0\">https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released?release=1.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42312301\">https://news.ycombinator.com/item?id=42312301</a></p>\n<p>Points: 762</p>\n<p># Comments: 137</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -276,19 +288,7 @@
       "author": "walz",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1790</p>\n<p># Comments: 285</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Why America's economy is soaring ahead of its rivals",
-      "url": "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b",
-      "date": 1733291592,
-      "author": "kvee",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b\">https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314797\">https://news.ycombinator.com/item?id=42314797</a></p>\n<p>Points: 470</p>\n<p># Comments: 2167</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1792</p>\n<p># Comments: 285</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -300,7 +300,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1207</p>\n<p># Comments: 399</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/\">https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317903\">https://news.ycombinator.com/item?id=42317903</a></p>\n<p>Points: 1208</p>\n<p># Comments: 399</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -312,7 +312,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 490</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 491</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -324,7 +324,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 766</p>\n<p># Comments: 1089</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 773</p>\n<p># Comments: 1100</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -336,7 +336,7 @@
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 745</p>\n<p># Comments: 486</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 755</p>\n<p># Comments: 495</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

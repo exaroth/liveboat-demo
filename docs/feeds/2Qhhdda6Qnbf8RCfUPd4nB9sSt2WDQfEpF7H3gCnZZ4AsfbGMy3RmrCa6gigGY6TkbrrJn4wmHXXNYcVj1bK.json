@@ -18,18 +18,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "I spent 2 years rebuilding my algorithmic trading platform in Rust. I have no regrets.",
-      "url": "https://www.reddit.com/r/rust/comments/1h7gkpf/i_spent_2_years_rebuilding_my_algorithmic_trading/",
-      "date": 1733424621,
-      "author": "/u/No-Definition-2886",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/No-Definition-2886\"> /u/No-Definition-2886 </a> <br/> <span><a href=\"https://nexustrade.io/blog/i-spent-2-years-rebuilding-my-algorithmic-trading-platform-in-rust-i-have-noregrets-20241205\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7gkpf/i_spent_2_years_rebuilding_my_algorithmic_trading/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Thousands of (fake?) downloads on crates.io",
       "url": "https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/",
       "date": 1733427500,
@@ -49,6 +37,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cdmistman\"> /u/cdmistman </a> <br/> <span><a href=\"https://this-week-in-rust.org/blog/2024/12/04/this-week-in-rust-576\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Loco v0.13 released: background jobs w/SQLite, jobs admin UI, new rhai-based starter generator",
+      "url": "https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/",
+      "date": 1733470348,
+      "author": "/u/jondot1",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p><a href=\"http://Loco.rs\">Loco.rs</a> <strong>v0.13.x has been released</strong> with over 40 new additions and fixes (our biggest version yet).</p> <p>Our focus for this milestone was:</p> <p>* <a href=\"https://github.com/loco-rs/loco/tree/master/loco-new\">The new starter generator</a>. With a bit of smart engineering, much more powerful and flexible. A Loco starter is now described with a <code>rhai</code> script, which prepares the ground for anyone to create their own Loco starters, see our default one here: <a href=\"https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai\">https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai</a></p> <p>* First class <a href=\"https://loco.rs/docs/processing/workers/\">background jobs</a> experience. We now support <code>sqlite</code> as well as: <code>postgres</code>, <code>redis</code> (<code>valkey</code>), <code>async</code> (threads), <code>foreground</code>.</p> <p>* <a href=\"https://github.com/loco-rs/admin-jobs\">Background jobs admin</a>, standalone project with UI and all, <a href=\"https://github.com/loco-rs/admin-jobs\">https://github.com/loco-rs/admin-jobs</a>, built on Loco, to manage your background jobs with ease.</p> <p>If you haven&#39;t yet given Loco a try, start here: <a href=\"https://loco.rs/docs/getting-started/tour/\">https://loco.rs/docs/getting-started/tour/</a> . It takes 5 minutes to get a full CRUD app running with authentication and everything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jondot1\"> /u/jondot1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
