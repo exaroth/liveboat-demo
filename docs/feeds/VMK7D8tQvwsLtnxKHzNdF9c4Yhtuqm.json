@@ -36,7 +36,7 @@
       "author": "jarko27",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US\">https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42254156\">https://news.ycombinator.com/item?id=42254156</a></p>\n<p>Points: 815</p>\n<p># Comments: 379</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US\">https://play.google.com/store/apps/details?id=com.actureunlock&hl=en_US</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42254156\">https://news.ycombinator.com/item?id=42254156</a></p>\n<p>Points: 815</p>\n<p># Comments: 378</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -156,7 +156,7 @@
       "author": "thinkingemote",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://adventofcode.com/2024/about\">https://adventofcode.com/2024/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42287231\">https://news.ycombinator.com/item?id=42287231</a></p>\n<p>Points: 1368</p>\n<p># Comments: 553</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://adventofcode.com/2024/about\">https://adventofcode.com/2024/about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42287231\">https://news.ycombinator.com/item?id=42287231</a></p>\n<p>Points: 1368</p>\n<p># Comments: 550</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -192,7 +192,7 @@
       "author": "dmarcos",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.worldlabs.ai/blog\">https://www.worldlabs.ai/blog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42297644\">https://news.ycombinator.com/item?id=42297644</a></p>\n<p>Points: 478</p>\n<p># Comments: 134</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.worldlabs.ai/blog\">https://www.worldlabs.ai/blog</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42297644\">https://news.ycombinator.com/item?id=42297644</a></p>\n<p>Points: 479</p>\n<p># Comments: 134</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -234,25 +234,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Intel announces Arc B-series \"Battlemage\" discrete graphics with Linux support",
-      "url": "https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette",
-      "date": 1733246377,
-      "author": "rbanffy",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette\">https://www.phoronix.com/review/intel-arc-b580-battlemage#google_vignette</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42308590\">https://news.ycombinator.com/item?id=42308590</a></p>\n<p>Points: 469</p>\n<p># Comments: 694</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Egoless Engineering",
       "url": "https://egoless.engineering/",
       "date": 1733258303,
       "author": "mcfunley",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 816</p>\n<p># Comments: 286</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://egoless.engineering\">https://egoless.engineering</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42311069\">https://news.ycombinator.com/item?id=42311069</a></p>\n<p>Points: 819</p>\n<p># Comments: 286</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -288,7 +276,19 @@
       "author": "walz",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1785</p>\n<p># Comments: 282</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://walzr.com/IMG_0001/\">https://walzr.com/IMG_0001/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314547\">https://news.ycombinator.com/item?id=42314547</a></p>\n<p>Points: 1786</p>\n<p># Comments: 282</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why America's economy is soaring ahead of its rivals",
+      "url": "https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b",
+      "date": 1733291592,
+      "author": "kvee",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b\">https://www.ft.com/content/1201f834-6407-4bb5-ac9d-18496ec2948b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314797\">https://news.ycombinator.com/item?id=42314797</a></p>\n<p>Points: 469</p>\n<p># Comments: 2157</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -312,7 +312,7 @@
       "author": "OuterVale",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 480</p>\n<p># Comments: 110</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://diataxis.fr/\">https://diataxis.fr/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42325011\">https://news.ycombinator.com/item?id=42325011</a></p>\n<p>Points: 482</p>\n<p># Comments: 110</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
