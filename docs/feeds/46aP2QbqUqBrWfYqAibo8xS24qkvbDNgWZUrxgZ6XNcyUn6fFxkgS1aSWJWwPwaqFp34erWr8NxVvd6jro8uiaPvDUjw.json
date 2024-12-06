@@ -30,18 +30,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "How do I achieve maximum density for bursty websites?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
-      "date": 1733432115,
-      "author": "/u/assangeleakinglol",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "kapi - a simplified k8s api and controller lib",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/",
       "date": 1733432912,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Got something working? Figure something out? Make progress that you are excited about? Share here!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gctaylor\"> /u/gctaylor </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Anyone has experience with Commvault backups for k8s?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
+      "date": 1733491705,
+      "author": "/u/Then-Treat1346",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

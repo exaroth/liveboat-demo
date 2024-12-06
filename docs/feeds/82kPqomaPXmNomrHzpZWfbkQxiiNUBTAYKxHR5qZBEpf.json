@@ -36,7 +36,7 @@
       "author": "koch",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 893</p>\n<p># Comments: 97</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 893</p>\n<p># Comments: 98</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -204,7 +204,7 @@
       "author": "burcs",
       "unread": true,
       "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 339</p>\n<p># Comments: 141</p>\n",
+      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 340</p>\n<p># Comments: 141</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +228,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 289</p>\n<p># Comments: 39</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 296</p>\n<p># Comments: 43</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -240,7 +240,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 68</p>\n<p># Comments: 22</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://hackerherald.com/\">https://hackerherald.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 100</p>\n<p># Comments: 34</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

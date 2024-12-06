@@ -6,18 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "AMDVLK 2024.Q4.2 Released With New Extensions, Other Changes",
-      "url": "https://www.phoronix.com/news/AMDVLK-2024.Q4.2-Released",
-      "date": 1733326033,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "AMDVLK 2024.Q4.2 is out today as the newest official open-source AMD Radeon Vulkan driver release for Linux systems...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Debian 13 Desktop Theme Finalized Ahead Of Next Year's Release",
       "url": "https://www.phoronix.com/news/Debian-13-Desktop-Theme",
       "date": 1733327626,
@@ -325,18 +313,6 @@
       "unread": true,
       "desc": "",
       "content": "11 years ago his hard drive ended up in a U.K. landfill &mdash; with 8,000 bitcoin. It's now worth $800 million... and James Howell wants it back. \n\nThe Guardian reports that his \"bid to become extremely rich reached a judge on Tuesday with a team of lawyers arguing that it was still possible to launch a hunt for his missing hard drive containing the bitcoin.\"\n\nThey claimed that rather than searching for a \"needle in a haystack\", the position of the bitcoin hoard had been narrowed down to a small area and there was a \"finely tuned\" plan to retrieve it... [Howells] has been asking Newport city council for help in getting the hard drive back, and even said he would share the money with the authority, to no avail... James Goudie KC, representing the council, said Howells had no legal claim to the hard drive. He said: \"Anything that goes into the landfill goes into the council's ownership.\" \n\nGoudie said Howells' offer to share some of the bitcoin with Newport council amounted to a bribe. He said: \"He is trying to buy something the council is not in a position to sell....\" Before the hearing, a spokesperson for Newport council said: \"The council has told Mr Howells multiple times that excavation is not possible under our environmental permit and that work of that nature would have a huge negative environmental impact on the surrounding area. \"Responding to Mr Howells' baseless claims are costing the council and Newport taxpayers time and money which could be better spent on delivering services.\"\n \n\nHowells was 28 when he lost the hard drive, and has said he may as well keep trying to recover it &mdash; because he'll always know that it's out there. Howells' legal teams are \"working pro bono,\" the article notes, \"on the basis that they get a share of the bitcoin profits if successful...\" And TechSpot points out that \"There's also the question of whether the data on the drive would still be accessible after more than a decade of sitting under a pile of rotting garbage. \n\n\"Howells has a team of data recovery engineers who are also working pro bono...\" \n\nThanks to Slashdot reader jjslash for sharing the news.<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=Hard+Drive+Tossed+in+Landfill+With+Bitcoin+Now+Worth+%24800+Million.+Lawsuits+Continue%3A+https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F1756216%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F24%2F12%2F05%2F1756216%2Fhard-drive-tossed-in-landfill-with-bitcoin-now-worth-800-million-lawsuits-continue%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://news.slashdot.org/story/24/12/05/1756216/hard-drive-tossed-in-landfill-with-bitcoin-now-worth-800-million-lawsuits-continue?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p><iframe src=\"https://slashdot.org/slashdot-it.pl?op=discuss&amp;id=23542665&amp;smallembed=1\" style=\"height: 300px; width: 100%; border: none;\"></iframe>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Delaware judge rules against Elon Musk’s $56B pay package again",
-      "url": "https://techcrunch.com/2024/12/05/delaware-judge-rules-against-elon-musks-56b-pay-package-again/",
-      "date": 1733421900,
-      "author": "Rebecca Bellan",
-      "unread": true,
-      "desc": "",
-      "content": "<p>Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation. Sign up here for free — just click TechCrunch Mobility! Your usual host Kirsten is out this week, so I’ll be taking you through the last couple weeks’ worth of mobility news.&#160; Top of mind this week [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -985,6 +961,30 @@
       "unread": true,
       "desc": "",
       "content": "<p>Former NBA Lakers star Metta Sandiford-Artest (formerly known as Metta World Peace), has teamed up with Stephen Stokols, the former CEO of Boost Mobile, to launch Tru Skye Ventures, a firm looking to invest in sports and health tech, according to Sportico.  The firm wants to raise $100 million and cut its first formal check [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Linux Preps For Kunpeng ARM Server SoC With High Bandwidth Memory",
+      "url": "https://www.phoronix.com/news/Huawei-Kunpeng-HBM-Linux",
+      "date": 1733497400,
+      "author": "Michael Larabel",
+      "unread": true,
+      "desc": "",
+      "content": "New Linux patches from Huawei engineers are preparing new driver support for controlling High Bandwidth Memory (HBM) with the ARM-based Kunpeng high performance SoC...",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Google Photos launches a ‘2024 Recap’ for a look back at this year’s memories",
+      "url": "https://techcrunch.com/2024/12/06/google-photos-launches-a-2024-recap-for-a-look-back-at-this-years-memories/",
+      "date": 1733499275,
+      "author": "Sarah Perez",
+      "unread": true,
+      "desc": "",
+      "content": "<p>Spotify Wrapped isn&#8217;t the only service offering a year-end recap these days. In addition to the year-end reviews from other streamers and social apps, you can also count Google Photos among the apps providing users with a look back at key moments throughout the past year. In this case, Google Photos&#8217; &#8220;2024 Recap,&#8221; as the [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
