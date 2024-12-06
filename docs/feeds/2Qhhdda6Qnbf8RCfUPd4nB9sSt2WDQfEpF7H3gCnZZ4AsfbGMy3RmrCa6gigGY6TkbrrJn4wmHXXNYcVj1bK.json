@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Thousands of (fake?) downloads on crates.io",
-      "url": "https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/",
-      "date": 1733427500,
-      "author": "/u/wowisthatreal",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve published a few crates on <a href=\"http://crates.io\">crates.io</a> that I don&#39;t really think anyone but me really would have any interest in, and I&#39;ve searched far and wide for anything that uses a part of my crate. Yet when looking at my download statistics, I have around 4000 lifetime downloads that spike at each version.</p> <p>Is there some sort of LLM content scraper/backup/research project that just periodically downloads crates? Do people try out new crates from the &quot;new releases&quot; page? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wowisthatreal\"> /u/wowisthatreal </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "This Week in Rust #576",
       "url": "https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/",
       "date": 1733431384,
@@ -54,6 +42,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Announcing self_cell version 1.1.0",
+      "url": "https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/",
+      "date": 1733477715,
+      "author": "/u/Voultapher",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Recently I released a new minor version of <a href=\"https://github.com/Voultapher/self_cell\">self_cell</a> that adds a <a href=\"https://github.com/Voultapher/self_cell/pull/36\">long</a> requested feature: mutable references to the owner. In the past I was reluctant to add this feature because the core of the library is exceedingly tricky to get right, and I had to yank versions off of crates.io half a dozen times over the years - something every other serious self referential crate had to do as well, getting them right, especially variance, is extremely difficult - and even had a <a href=\"https://rustsec.org/advisories/RUSTSEC-2023-0070.html\">RUSTSEC advisory</a>. So given my design goal of keeping the crate minimal and avoiding unnecessary changes to the existing <code>unsafe</code> code, I had given up on adding this feature, but earlier this year someone raised the topic again and I had an idea for how to add this functionality without having to change the existing code. In essence I unknowingly re-derived the <a href=\"https://doc.rust-lang.org/std/cell/struct.RefMut.html#method.leak\"><code>RefCell::leak</code></a> API. Users can now wrap the owner in the crate provided type <a href=\"https://docs.rs/self_cell/1.1.0/self_cell/struct.MutBorrow.html\"><code>MutBorrow</code></a> which allows a <code>(&amp;self) -&gt; &amp;mut T </code> transition, <em>but only once</em>. This way the existing APIs, documentation and code all stay the same but the wrapper type adds support for common use-cases such as <code>ZipArchive</code> etc.</p> <p>This brings self_cell closer to feature parity with <a href=\"https://github.com/someguynamedjosh/ouroboros\">ouroboros</a>. If you are happy with ouroboros there is no need to switch, it has also been reviewed extensively and has capabilities self_cell lacks. The renewed issue was raised by one of the rusqlite maintainers who wants to migrate to it because self_cell generates less code and is faster to compile, so if you&#39;re usage of ouroboros is feature compatible with self_cell and you care about compile times and or binary-size this might be avenue for improvement in your project.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Voultapher\"> /u/Voultapher </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "Rustc Trait System Refactor Initiative Update: Stabilizing `-Znext-solver=coherence` | Inside Rust Blog",
       "url": "https://www.reddit.com/r/rust/comments/1h7y9jp/rustc_trait_system_refactor_initiative_update/",
       "date": 1733480161,
@@ -66,13 +66,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Announcing ProSA: Our New Rust Open Source Library for Handling Transactional Flow at Worldline Fintech",
-      "url": "https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/",
-      "date": 1733488653,
-      "author": "/u/reneca",
+      "title": "[Media] Actuate UI: Now with Material design components, better ergonomics with Bevy, and a faster runtime with support for pause/resume",
+      "url": "https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/",
+      "date": 1733508262,
+      "author": "/u/matthunz",
       "unread": true,
       "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/reneca\"> /u/reneca </a> <br/> <span><a href=\"https://blog.worldline.tech/2024/11/26/prosa.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/\">[comments]</a></span>",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/matthunz\"> /u/matthunz </a> <br/> <span><a href=\"https://i.redd.it/4o7pdfp2q95e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

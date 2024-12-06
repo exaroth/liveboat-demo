@@ -120,7 +120,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 172</p>\n<p># Comments: 47</p>\n",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 173</p>\n<p># Comments: 47</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -144,7 +144,7 @@
       "author": "meetpateltech",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 775</p>\n<p># Comments: 1111</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://openai.com/index/introducing-chatgpt-pro/\">https://openai.com/index/introducing-chatgpt-pro/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42330732\">https://news.ycombinator.com/item?id=42330732</a></p>\n<p>Points: 778</p>\n<p># Comments: 1119</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -156,31 +156,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 311</p>\n<p># Comments: 55</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Example app with SAML support, built with Go + net/http + SSOReady",
-      "url": "https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/",
-      "date": 1733426929,
-      "author": "/u/Asleep_Beyond1371",
-      "unread": true,
-      "desc": "",
-      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\"> <img src=\"https://external-preview.redd.it/HK4riNmOY7SfP4w_qxXUGvcAMwJ_gx8NVPCSJ9ZSiHA.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1d7179be5d1286b75919ec2db720f59a298e4d26\" alt=\"Example app with SAML support, built with Go + net/http + SSOReady\" title=\"Example app with SAML support, built with Go + net/http + SSOReady\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Asleep_Beyond1371\"> /u/Asleep_Beyond1371 </a> <br/> <span><a href=\"https://github.com/ssoready/ssoready-example-app-golang-saml\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7hi6g/example_app_with_saml_support_built_with_go/\">[comments]</a></span> </td></tr></table>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Thousands of (fake?) downloads on crates.io",
-      "url": "https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/",
-      "date": 1733427500,
-      "author": "/u/wowisthatreal",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve published a few crates on <a href=\"http://crates.io\">crates.io</a> that I don&#39;t really think anyone but me really would have any interest in, and I&#39;ve searched far and wide for anything that uses a part of my crate. Yet when looking at my download statistics, I have around 4000 lifetime downloads that spike at each version.</p> <p>Is there some sort of LLM content scraper/backup/research project that just periodically downloads crates? Do people try out new crates from the &quot;new releases&quot; page? </p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wowisthatreal\"> /u/wowisthatreal </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7hqfi/thousands_of_fake_downloads_on_cratesio/\">[comments]</a></span>",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 312</p>\n<p># Comments: 56</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -234,18 +210,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "How do I achieve maximum density for bursty websites?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/",
-      "date": 1733432115,
-      "author": "/u/assangeleakinglol",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;m having trouble understanding how to use HPA and Cluster Autoscaling (Using AKS on azure) in an efficient manner. Say I have 100 websites running on AKS but they have very low usage (like 1-4% of a CPU core) 99% of the time. So in theory I could fit everything on 4 cores. So I set the requests to be 0.04 of a core. Everything is good because the load is low and the actual node still is at like 80% idle. Now the load increases and everything is good because I have no cpu limit and it will use consume the idle resources. Now the load increases even more and suddenly there is trouble because the node can&#39;t keep up and the cluster autoscaler isn&#39;t scaling because the cpu-requests from the pods is low. Therefor I define a HPA and set it to scale at 80% CPU utilization. This turned out awful because now it scales when load reaches 80% of 0.04 of a core. The memory usage balloons and tons and tons of replicas and nodes are made.</p> <p>Is there a good solution to this?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/assangeleakinglol\"> /u/assangeleakinglol </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jkrf/how_do_i_achieve_maximum_density_for_bursty/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "kapi - a simplified k8s api and controller lib",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/",
       "date": 1733432912,
@@ -282,18 +246,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Thinking in Actors - Part 2 - Welcome to a world of ordered thinking",
-      "url": "https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/",
-      "date": 1733438530,
-      "author": "/u/jeremycarterau",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jeremycarterau\"> /u/jeremycarterau </a> <br/> <span><a href=\"https://open.substack.com/pub/jeremycarterau/p/thinking-in-actors-part-2?r=ma4m&amp;utm_campaign=post&amp;utm_medium=web\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h7m38m/thinking_in_actors_part_2_welcome_to_a_world_of/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Why Open Source UI Design Sucks",
       "url": "https://www.reddit.com/r/programming/comments/1h7muqe/why_open_source_ui_design_sucks/",
       "date": 1733440551,
@@ -306,25 +258,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Portland airport grows with expansive mass timber roof canopy",
-      "url": "https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/",
-      "date": 1733443313,
-      "author": "surprisetalk",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 381</p>\n<p># Comments: 235</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "The correct amount of ads is zero",
       "url": "https://manuelmoreale.com/the-correct-amount-of-ads-is-zero",
       "date": 1733443347,
       "author": "surprisetalk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 760</p>\n<p># Comments: 500</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://manuelmoreale.com/the-correct-amount-of-ads-is-zero\">https://manuelmoreale.com/the-correct-amount-of-ads-is-zero</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334327\">https://news.ycombinator.com/item?id=42334327</a></p>\n<p>Points: 771</p>\n<p># Comments: 512</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -348,7 +288,7 @@
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 271</p>\n<p># Comments: 89</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 275</p>\n<p># Comments: 92</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -372,7 +312,7 @@
       "author": "mooreds",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 494</p>\n<p># Comments: 374</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://addyo.substack.com/p/the-70-problem-hard-truths-about\">https://addyo.substack.com/p/the-70-problem-hard-truths-about</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336553\">https://news.ycombinator.com/item?id=42336553</a></p>\n<p>Points: 510</p>\n<p># Comments: 383</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -409,6 +349,18 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p><a href=\"http://Loco.rs\">Loco.rs</a> <strong>v0.13.x has been released</strong> with over 40 new additions and fixes (our biggest version yet).</p> <p>Our focus for this milestone was:</p> <p>* <a href=\"https://github.com/loco-rs/loco/tree/master/loco-new\">The new starter generator</a>. With a bit of smart engineering, much more powerful and flexible. A Loco starter is now described with a <code>rhai</code> script, which prepares the ground for anyone to create their own Loco starters, see our default one here: <a href=\"https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai\">https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai</a></p> <p>* First class <a href=\"https://loco.rs/docs/processing/workers/\">background jobs</a> experience. We now support <code>sqlite</code> as well as: <code>postgres</code>, <code>redis</code> (<code>valkey</code>), <code>async</code> (threads), <code>foreground</code>.</p> <p>* <a href=\"https://github.com/loco-rs/admin-jobs\">Background jobs admin</a>, standalone project with UI and all, <a href=\"https://github.com/loco-rs/admin-jobs\">https://github.com/loco-rs/admin-jobs</a>, built on Loco, to manage your background jobs with ease.</p> <p>If you haven&#39;t yet given Loco a try, start here: <a href=\"https://loco.rs/docs/getting-started/tour/\">https://loco.rs/docs/getting-started/tour/</a> . It takes 5 minutes to get a full CRUD app running with authentication and everything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jondot1\"> /u/jondot1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Exploring How Protobuf OneOfs Are Represented",
+      "url": "https://www.reddit.com/r/golang/comments/1h7w5bq/exploring_how_protobuf_oneofs_are_represented/",
+      "date": 1733470602,
+      "author": "/u/Kaylors",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/golang/comments/1h7w5bq/exploring_how_protobuf_oneofs_are_represented/\"> <img src=\"https://external-preview.redd.it/xpxJQbxAfWUoytrX6MPcNGJ4vnjxuovWbKfSOa4X5Ck.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9039631efd8cd4347258538e1a389d164dad9156\" alt=\"Exploring How Protobuf OneOfs Are Represented\" title=\"Exploring How Protobuf OneOfs Are Represented\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Kaylors\"> /u/Kaylors </a> <br/> <span><a href=\"https://badgerbadgerbadgerbadger.dev/posts/misc/2024-12-05-oneofs-in-protobuf/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/golang/comments/1h7w5bq/exploring_how_protobuf_oneofs_are_represented/\">[comments]</a></span> </td></tr></table>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -462,6 +414,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Announcing self_cell version 1.1.0",
+      "url": "https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/",
+      "date": 1733477715,
+      "author": "/u/Voultapher",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Recently I released a new minor version of <a href=\"https://github.com/Voultapher/self_cell\">self_cell</a> that adds a <a href=\"https://github.com/Voultapher/self_cell/pull/36\">long</a> requested feature: mutable references to the owner. In the past I was reluctant to add this feature because the core of the library is exceedingly tricky to get right, and I had to yank versions off of crates.io half a dozen times over the years - something every other serious self referential crate had to do as well, getting them right, especially variance, is extremely difficult - and even had a <a href=\"https://rustsec.org/advisories/RUSTSEC-2023-0070.html\">RUSTSEC advisory</a>. So given my design goal of keeping the crate minimal and avoiding unnecessary changes to the existing <code>unsafe</code> code, I had given up on adding this feature, but earlier this year someone raised the topic again and I had an idea for how to add this functionality without having to change the existing code. In essence I unknowingly re-derived the <a href=\"https://doc.rust-lang.org/std/cell/struct.RefMut.html#method.leak\"><code>RefCell::leak</code></a> API. Users can now wrap the owner in the crate provided type <a href=\"https://docs.rs/self_cell/1.1.0/self_cell/struct.MutBorrow.html\"><code>MutBorrow</code></a> which allows a <code>(&amp;self) -&gt; &amp;mut T </code> transition, <em>but only once</em>. This way the existing APIs, documentation and code all stay the same but the wrapper type adds support for common use-cases such as <code>ZipArchive</code> etc.</p> <p>This brings self_cell closer to feature parity with <a href=\"https://github.com/someguynamedjosh/ouroboros\">ouroboros</a>. If you are happy with ouroboros there is no need to switch, it has also been reviewed extensively and has capabilities self_cell lacks. The renewed issue was raised by one of the rusqlite maintainers who wants to migrate to it because self_cell generates less code and is faster to compile, so if you&#39;re usage of ouroboros is feature compatible with self_cell and you care about compile times and or binary-size this might be avenue for improvement in your project.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Voultapher\"> /u/Voultapher </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7xpy9/announcing_self_cell_version_110/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "The 70% problem: Hard truths about AI-assisted coding",
       "url": "https://www.reddit.com/r/programming/comments/1h7xwvm/the_70_problem_hard_truths_about_aiassisted_coding/",
       "date": 1733478607,
@@ -480,7 +444,7 @@
       "author": "jwilk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 124</p>\n<p># Comments: 153</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 143</p>\n<p># Comments: 173</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -504,7 +468,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 156</p>\n<p># Comments: 62</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 170</p>\n<p># Comments: 65</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -534,18 +498,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Sensible SQLite Defaults",
-      "url": "https://briandouglas.ie/sqlite-defaults/",
-      "date": 1733484118,
-      "author": "thunderbong",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://briandouglas.ie/sqlite-defaults/\">https://briandouglas.ie/sqlite-defaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338738\">https://news.ycombinator.com/item?id=42338738</a></p>\n<p>Points: 78</p>\n<p># Comments: 36</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Why Flatpak is a Blessing for Linux Beginners and Everyday Users",
       "url": "https://www.reddit.com/r/linux/comments/1h7ze64/why_flatpak_is_a_blessing_for_linux_beginners_and/",
       "date": 1733484915,
@@ -570,25 +522,13 @@
       "enclosureMime": ""
     },
     {
-      "title": "Announcing ProSA: Our New Rust Open Source Library for Handling Transactional Flow at Worldline Fintech",
-      "url": "https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/",
-      "date": 1733488653,
-      "author": "/u/reneca",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/reneca\"> /u/reneca </a> <br/> <span><a href=\"https://blog.worldline.tech/2024/11/26/prosa.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Show HN: Prompt Engine – Auto pick LLMs based on your prompts",
       "url": "https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine",
       "date": 1733489148,
       "author": "yoeven",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 70</p>\n<p># Comments: 12</p>\n",
+      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 76</p>\n<p># Comments: 12</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -648,7 +588,7 @@
       "author": "vinni2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 166</p>\n<p># Comments: 266</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 230</p>\n<p># Comments: 411</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -660,7 +600,19 @@
       "author": "bnkty",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 81</p>\n<p># Comments: 22</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 88</p>\n<p># Comments: 23</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Rivian is opening its charging network to other EVs",
+      "url": "https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs",
+      "date": 1733494609,
+      "author": "peutetre",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs\">https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340000\">https://news.ycombinator.com/item?id=42340000</a></p>\n<p>Points: 88</p>\n<p># Comments: 90</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -672,19 +624,7 @@
       "author": "raybb",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 162</p>\n<p># Comments: 63</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists",
-      "url": "https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists",
-      "date": 1733496896,
-      "author": "ohjeez",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 204</p>\n<p># Comments: 45</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 179</p>\n<p># Comments: 74</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -708,7 +648,7 @@
       "author": "belter",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 155</p>\n<p># Comments: 179</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 178</p>\n<p># Comments: 220</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -720,7 +660,7 @@
       "author": "pr337h4m",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 174</p>\n<p># Comments: 67</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 240</p>\n<p># Comments: 112</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -732,7 +672,19 @@
       "author": "amichail",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 164</p>\n<p># Comments: 86</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 263</p>\n<p># Comments: 134</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "[Media] Actuate UI: Now with Material design components, better ergonomics with Bevy, and a faster runtime with support for pause/resume",
+      "url": "https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/",
+      "date": 1733508262,
+      "author": "/u/matthunz",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/matthunz\"> /u/matthunz </a> <br/> <span><a href=\"https://i.redd.it/4o7pdfp2q95e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -744,7 +696,7 @@
       "author": "LorenDB",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 159</p>\n<p># Comments: 67</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 339</p>\n<p># Comments: 131</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -757,6 +709,42 @@
       "unread": true,
       "desc": "",
       "content": "An anonymous reader shared this report from Phoronix:\n\n\nNew Linux patches from Huawei engineers are preparing new driver support for controlling High Bandwidth Memory (HBM) with the ARM-based Kunpeng high performance SoC... \n\n[I]t would appear there is a new Kunpeng SoC coming that will feature integrated High Bandwidth Memory (HBM).Unless I missed something, this Kunpeng SoC with HBM memory hasn't been formally announced yet and I haven't been able to find any other references short of pointing to prior kernel patches working on this HBM integration... It will be interesting to see what comes of Huawei Kunpeng SoCs with HBM memory and ultimately how well they perform against other AArch64 server processors as well as the Intel Xeon and AMD EPYC competition.\n<p><div class=\"share_submission\" style=\"position:relative;\">\n<a class=\"slashpop\" href=\"http://twitter.com/home?status=+Linux+Preps+for+Kunpeng+ARM+Server+SoC+With+High+Bandwidth+Memory%3A+https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F12%2F06%2F1812208%2F%3Futm_source%3Dtwitter%26utm_medium%3Dtwitter\"><img src=\"https://a.fsdn.com/sd/twitter_icon_large.png\"></a>\n<a class=\"slashpop\" href=\"http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F24%2F12%2F06%2F1812208%2Flinux-preps-for-kunpeng-arm-server-soc-with-high-bandwidth-memory%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook\"><img src=\"https://a.fsdn.com/sd/facebook_icon_large.png\"></a>\n\n\n\n</div></p><p><a href=\"https://linux.slashdot.org/story/24/12/06/1812208/linux-preps-for-kunpeng-arm-server-soc-with-high-bandwidth-memory?utm_source=rss1.0moreanon&amp;utm_medium=feed\">Read more of this story</a> at Slashdot.</p>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Maps.me co-founder tries to close down Organic Maps open-source fork",
+      "url": "https://github.com/orgs/organicmaps/discussions/9837",
+      "date": 1733512298,
+      "author": "0x457",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/orgs/organicmaps/discussions/9837\">https://github.com/orgs/organicmaps/discussions/9837</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42343121\">https://news.ycombinator.com/item?id=42343121</a></p>\n<p>Points: 82</p>\n<p># Comments: 10</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "My snake game got to 57 bytes by just messing around and basically refactoring most of the code",
+      "url": "https://www.reddit.com/r/programming/comments/1h89eyl/my_snake_game_got_to_57_bytes_by_just_messing/",
+      "date": 1733513030,
+      "author": "/u/Perfect-Highlight964",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>This byte reduction was different than the others.</p> <p>Usually, I have an idea in mind of how to reduce a byte and I try to manipulate the code to make it work.</p> <p>This time I was bored so I looked at the code again just because I wanted to remove the usage of the BP register because I thought &quot;it had potential&quot;, you can see the PR where I managed to do so without increasing the byte count <a href=\"https://github.com/donno2048/snake/pull/68\">here</a>, then after quite some time I realized a way to abuse this in such a way that would use another register (DX) to store some values without adding any bytes and thought it has some potential too because the DX initialization takes 3 bytes and could maybe be reduced somehow...</p> <p>I merged the PR as it made the game a little slower even though it didn&#39;t save any bytes because I couldn&#39;t think of a way to optimize the initialization of DX, but then I realized that the initialization of DX isn&#39;t the problem, it&#39;s the solution to another problem.</p> <p>The way I initialized AX up until now was with a <code>MOV</code> which is quite a waste to just set AX to 0, but I had to use a <code>MOV</code> for the <code>LDS</code> initialization, because the first byte of the <code>MOV</code> was 0xB8, but if I initialized DX there I would solve the problem and I would be able to set AX in less than 3 bytes.</p> <p>The problem is that <code>MOV DX,</code> won&#39;t have 0xB8 at the beginning so I have to use <code>MOV AX,</code>, but no problem, I can initialize AX to the value I want in DX and do a <code>XCHG</code>, but then I&#39;m left with just one byte to set AX to 0 which is impossible (and that was the reason I didn&#39;t commit that into the original PR). </p> <p>But, then I realized, we can set <code>DX</code> to 0 with just 1 byte so that after the <code>XCHG</code> AX will already contain 0.</p> <p>I planted a <code>CWD</code> right between the <code>MOV</code> and the <code>XCHG</code> so that DX will be set to the MSB of the wanted value in DX which is positive so the MSB is 0.</p> <p>I reverted the changes made from the first PR and merged the <a href=\"https://github.com/donno2048/snake/pull/69\">new one</a>.</p> <p>BTW, this time I couldn&#39;t just use the 0x0 dummy byte as that would set DX wrongly, so I had to use <code>LDS DI, [BX+SI+0x0]</code> which apparently can&#39;t be parsed correctly by nasm even with <code>-O0</code> because it always drops the 0x0, so I had to hardcode it.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Perfect-Highlight964\"> /u/Perfect-Highlight964 </a> <br/> <span><a href=\"https://github.com/donno2048/snake\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/programming/comments/1h89eyl/my_snake_game_got_to_57_bytes_by_just_messing/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "What is the most cost effective place to use Kubernetes?",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/",
+      "date": 1733513151,
+      "author": "/u/fenugurod",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using k8s for a few years as a developer on my day job. I&#39;m now working on a personal project that is becoming serious, and have paying customers. I&#39;m looking for suggestions regards to where should I host this solution that I&#39;m working on for myself. Kubernetes was my first thought because this is what I&#39;ve been used for some time on m day job, but that&#39;s it, I&#39;ve been using it, I don&#39;t need to manage anything, nor I have deep pockets to spend on expensive offerings.</p> <p>I&#39;m wondering what is the best place I can setup a K8s cluster cost effective wise. I&#39;m open to other deployment options as well. Right now It&#39;s just a single backend, monolith, and a Postgres instance. My access pattern is not spiky, and I don&#39;t need to auto scale the service like, ever, given it&#39;s built in Go and the access is still very low.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fenugurod\"> /u/fenugurod </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

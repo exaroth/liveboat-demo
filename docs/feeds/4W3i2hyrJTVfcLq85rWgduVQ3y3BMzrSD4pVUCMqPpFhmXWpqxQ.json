@@ -6,37 +6,13 @@
   "feedLink": "https://news.ycombinator.com/",
   "items": [
     {
-      "title": "Reverse engineering the Ravensburger TipToi pen",
-      "url": "https://github.com/entropia/tip-toi-reveng",
-      "date": 1733133996,
-      "author": "cl3misch",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/entropia/tip-toi-reveng\">https://github.com/entropia/tip-toi-reveng</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42294716\">https://news.ycombinator.com/item?id=42294716</a></p>\n<p>Points: 82</p>\n<p># Comments: 42</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Portland airport grows with expansive mass timber roof canopy",
-      "url": "https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/",
-      "date": 1733443313,
-      "author": "surprisetalk",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/\">https://design-milk.com/portland-airport-grows-with-expansive-mass-timber-roof-canopy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42334323\">https://news.ycombinator.com/item?id=42334323</a></p>\n<p>Points: 381</p>\n<p># Comments: 235</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Trailbase: Fast, single-file, open-source app server built using Rust and SQLite",
       "url": "https://github.com/trailbaseio/trailbase",
       "date": 1733457619,
       "author": "thunderbong",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 271</p>\n<p># Comments: 89</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/trailbaseio/trailbase\">https://github.com/trailbaseio/trailbase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42336207\">https://news.ycombinator.com/item?id=42336207</a></p>\n<p>Points: 275</p>\n<p># Comments: 92</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -48,19 +24,7 @@
       "author": "jwilk",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 124</p>\n<p># Comments: 153</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Sensible SQLite Defaults",
-      "url": "https://briandouglas.ie/sqlite-defaults/",
-      "date": 1733484118,
-      "author": "thunderbong",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://briandouglas.ie/sqlite-defaults/\">https://briandouglas.ie/sqlite-defaults/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338738\">https://news.ycombinator.com/item?id=42338738</a></p>\n<p>Points: 78</p>\n<p># Comments: 36</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/\">https://lwn.net/SubscriberLink/1000485/670ef0045e5e8a3e/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338134\">https://news.ycombinator.com/item?id=42338134</a></p>\n<p>Points: 143</p>\n<p># Comments: 173</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -72,7 +36,19 @@
       "author": "vinni2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 166</p>\n<p># Comments: 266</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cn4x2epppego\">https://www.bbc.com/news/articles/cn4x2epppego</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339819\">https://news.ycombinator.com/item?id=42339819</a></p>\n<p>Points: 230</p>\n<p># Comments: 411</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Rivian is opening its charging network to other EVs",
+      "url": "https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs",
+      "date": 1733494609,
+      "author": "peutetre",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs\">https://www.thedrive.com/news/rivian-is-opening-its-charger-network-to-other-evs</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340000\">https://news.ycombinator.com/item?id=42340000</a></p>\n<p>Points: 88</p>\n<p># Comments: 90</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -84,19 +60,7 @@
       "author": "raybb",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 162</p>\n<p># Comments: 63</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "ExxonMobil's Alleged Hack-for-Hire Campaign Targeting Climate Activists",
-      "url": "https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists",
-      "date": 1733496896,
-      "author": "ohjeez",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists\">https://www.vulnu.com/p/inside-exxonmobils-alleged-hack-for-hire-campaign-targeting-climate-activists</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340346\">https://news.ycombinator.com/item?id=42340346</a></p>\n<p>Points: 204</p>\n<p># Comments: 45</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/\">https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340065\">https://news.ycombinator.com/item?id=42340065</a></p>\n<p>Points: 179</p>\n<p># Comments: 74</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -108,7 +72,7 @@
       "author": "belter",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 155</p>\n<p># Comments: 179</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html\">https://www.cnbc.com/2024/12/06/tiktok-divestment-law-upheld-by-federal-appeals-court.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42340959\">https://news.ycombinator.com/item?id=42340959</a></p>\n<p>Points: 178</p>\n<p># Comments: 220</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -120,7 +84,7 @@
       "author": "pr337h4m",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 174</p>\n<p># Comments: 67</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct\">https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42341388\">https://news.ycombinator.com/item?id=42341388</a></p>\n<p>Points: 240</p>\n<p># Comments: 112</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -132,7 +96,7 @@
       "author": "amichail",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 164</p>\n<p># Comments: 86</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html\">https://www.cnn.com/2024/12/06/asia/tokyo-government-4-day-workweek-intl-hnk/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342203\">https://news.ycombinator.com/item?id=42342203</a></p>\n<p>Points: 263</p>\n<p># Comments: 134</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -144,7 +108,19 @@
       "author": "LorenDB",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 159</p>\n<p># Comments: 67</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://everyuuid.com/\">https://everyuuid.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342382\">https://news.ycombinator.com/item?id=42342382</a></p>\n<p>Points: 339</p>\n<p># Comments: 131</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Maps.me co-founder tries to close down Organic Maps open-source fork",
+      "url": "https://github.com/orgs/organicmaps/discussions/9837",
+      "date": 1733512298,
+      "author": "0x457",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/orgs/organicmaps/discussions/9837\">https://github.com/orgs/organicmaps/discussions/9837</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42343121\">https://news.ycombinator.com/item?id=42343121</a></p>\n<p>Points: 82</p>\n<p># Comments: 10</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
