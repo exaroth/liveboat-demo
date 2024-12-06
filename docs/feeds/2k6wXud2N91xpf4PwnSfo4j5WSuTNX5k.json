@@ -6,30 +6,6 @@
   "feedLink": "",
   "items": [
     {
-      "title": "Fedora 42 Looking To Package Intel SGX Software Stack",
-      "url": "https://www.phoronix.com/news/Fedora-42-Looks-At-SGX",
-      "date": 1733320133,
-      "author": "Michael Larabel",
-      "unread": true,
-      "desc": "",
-      "content": "Fedora stakeholders are evaluating supporting an Intel Software Guard Extensions (SGX) software stack with next year's Fedora 42 release...",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "HowStuffWorks founder Marshall Brain sent final email before sudden death",
-      "url": "https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/",
-      "date": 1733320455,
-      "author": "Benj Edwards",
-      "unread": true,
-      "desc": "",
-      "content": "\n              <p>The week before Thanksgiving, Marshall Brain sent a final email to his colleagues at North Carolina State University. \"I have just been through one of the most demoralizing, depressing, humiliating, unjust processes possible with the university,\" wrote the founder of <a href=\"https://en.wikipedia.org/wiki/HowStuffWorks\">HowStuffWorks.com</a> and director of NC State's Engineering Entrepreneurs Program. Hours later, campus police found that Brain had died by suicide.</p>\n<p>NC State police discovered Brain unresponsive in Engineering Building II on Centennial Campus around 7 am on November 20, following a welfare check request from his wife at 6:40 am, according to <a href=\"https://www.technicianonline.com/news/popular-nc-state-professor-marshall-brain-dies-alleges-retaliation-for-ethics-complaints/article_152e5c80-ac2e-11ef-8b3f-036ac3c8d9bf.html\">The Technician</a>, NC State's student newspaper. Police confirmed Brain was deceased when they arrived.</p>\n<p>Brian Gordon, a reporter for <a href=\"https://www.newsobserver.com/news/business/article296186159.html\">The News and Observer</a> in Raleigh, obtained a copy of Brain's death certificate and shared it with Ars Technica, confirming the suicide. It marks an abrupt end to a life rich with achievement and the joy of spreading technical knowledge to others.</p><p><a href=\"https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/\">Read full article</a></p>\n<p><a href=\"https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/#comments\">Comments</a></p>\n\n            ",
-      "flags": null,
-      "enclosureUrl": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/ncsu_belltower-1152x648.jpg",
-      "enclosureMime": ""
-    },
-    {
       "title": "AMDVLK 2024.Q4.2 Released With New Extensions, Other Changes",
       "url": "https://www.phoronix.com/news/AMDVLK-2024.Q4.2-Released",
       "date": 1733326033,
@@ -985,6 +961,30 @@
       "unread": true,
       "desc": "",
       "content": "<p>Back in the heady days of 2021, Heartcore Capital planned to focus on consumer technology with a $200 million fund. Fast-forward to 2024, and its latest fund will now ‘leaven the bread’ of that thesis, with a fresh $180 million (€170M) to go broader and more generalist than that earlier thesis.&#160; Some 17-years into the [&#8230;]</p>\n<p>© 2024 TechCrunch. All rights reserved. For personal use only.</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Fwupd 2.0.3 Delivers Latest Firmware Updating Capabilities For Linux Systems",
+      "url": "https://www.phoronix.com/news/Fwupd-2.0.3-Release",
+      "date": 1733492319,
+      "author": "Michael Larabel",
+      "unread": true,
+      "desc": "",
+      "content": "Fwupd 2.0 debuted back in October while out today is Fwupd 2.0.3 as the newest incremental update to this open-source solution for updating system and device firmware under Linux...",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "openSUSE Leap Micro 6.1 Brings Nice Improvements To This Lightweight Linux OS",
+      "url": "https://www.phoronix.com/news/openSUSE-Leap-Micro-6.1",
+      "date": 1733492929,
+      "author": "Michael Larabel",
+      "unread": true,
+      "desc": "",
+      "content": "openSUSE Leap Micro 6.1 is now available as the newest version of this lightweight Linux operating system built for containerized environments and virtualized workloads...",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
