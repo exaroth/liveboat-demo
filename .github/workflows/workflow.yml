@@ -35,7 +35,7 @@ jobs:
       - name: Run newsboat
         run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
       - name: Run liveboat
-        run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml --debug
+        run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml
       - name: Commit files
         id: commit
         run: |

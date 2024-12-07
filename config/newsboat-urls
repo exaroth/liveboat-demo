@@ -9,6 +9,7 @@ https://hnrss.org/show?points=60 "~HN Show" dev
 https://hnrss.org/frontpage?points=75 "~HN Front" dev
 
 http://rss.slashdot.org/Slashdot/slashdotLinux "~Dev - Slashdot - Linux" dev
+https://www.cyberciti.com/atom/atom.xml "~Dev - NixCraft" dev
 http://rss.slashdot.org/Slashdot/slashdotDevelopers "~Dev - Slashdot - Dev" dev
 http://aphyr.com/posts.atom "~Dev - Aphyr" dev
 https://kubernetes.io/feed.xml "~Dev - Kubernetes Blog" dev
