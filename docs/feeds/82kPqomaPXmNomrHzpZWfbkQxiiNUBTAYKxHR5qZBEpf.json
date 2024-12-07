@@ -6,25 +6,13 @@
   "feedLink": "https://news.ycombinator.com/shownew",
   "items": [
     {
-      "title": "Show HN: Markwhen: Markdown for Timelines",
-      "url": "https://markwhen.com/",
-      "date": 1733075928,
-      "author": "koch",
-      "unread": true,
-      "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://markwhen.com\">https://markwhen.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42289690\">https://news.ycombinator.com/item?id=42289690</a></p>\n<p>Points: 897</p>\n<p># Comments: 98</p>\n",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Show HN: SeekStorm – open-source sub-millisecond search in Rust",
       "url": "https://github.com/SeekStorm/SeekStorm",
       "date": 1733144793,
       "author": "wolfgarbe",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/SeekStorm/SeekStorm\">https://github.com/SeekStorm/SeekStorm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42295792\">https://news.ycombinator.com/item?id=42295792</a></p>\n<p>Points: 243</p>\n<p># Comments: 56</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/SeekStorm/SeekStorm\">https://github.com/SeekStorm/SeekStorm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42295792\">https://news.ycombinator.com/item?id=42295792</a></p>\n<p>Points: 243</p>\n<p># Comments: 57</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -36,7 +24,7 @@
       "author": "kcsaba2",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Seamlessly automate your audio-visual setup! This open-source framework uses the Open Sound Control protocol to integrate audio mixer consoles, OBS, PTZ cameras, and more. Perfect for live production enthusiasts, streamers, and tech tinkerers.<p>I have made it originally to meet our needs, then opensourced it: We needed to move a PTZ cam based on the stage/pulpit mute states on our X32, but it is capable for way more. Let me know what do you guys think!<p>Cheers!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42298713\">https://news.ycombinator.com/item?id=42298713</a></p>\n<p>Points: 63</p>\n<p># Comments: 22</p>\n",
+      "content": "\n<p>Seamlessly automate your audio-visual setup! This open-source framework uses the Open Sound Control protocol to integrate audio mixer consoles, OBS, PTZ cameras, and more. Perfect for live production enthusiasts, streamers, and tech tinkerers.<p>I have made it originally to meet our needs, then opensourced it: We needed to move a PTZ cam based on the stage/pulpit mute states on our X32, but it is capable for way more. Let me know what do you guys think!<p>Cheers!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42298713\">https://news.ycombinator.com/item?id=42298713</a></p>\n<p>Points: 63</p>\n<p># Comments: 24</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -72,7 +60,7 @@
       "author": "gbin",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log\">https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302026\">https://news.ycombinator.com/item?id=42302026</a></p>\n<p>Points: 160</p>\n<p># Comments: 35</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log\">https://github.com/copper-project/copper-rs/wiki/Copper-Release-Log</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42302026\">https://news.ycombinator.com/item?id=42302026</a></p>\n<p>Points: 161</p>\n<p># Comments: 35</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -132,7 +120,7 @@
       "author": "hbamoria",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hey HN fam,<p>We’ve seen developers spend a lot of time implementing advanced RAG techniques from scratch.<p>While these techniques are essential for improving performance, their implementation requires a lot of effort and testing!<p>To help with this process, our team (Athina AI) has released Open-Source Advanced RAG Cookbooks.<p>This is a collection of ready-to-run Google Colab notebooks featuring the most commonly implemented techniques.<p>Please show us some love by starring  the repo if you find this useful!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314212\">https://news.ycombinator.com/item?id=42314212</a></p>\n<p>Points: 98</p>\n<p># Comments: 26</p>\n",
+      "content": "\n<p>Hey HN fam,<p>We’ve seen developers spend a lot of time implementing advanced RAG techniques from scratch.<p>While these techniques are essential for improving performance, their implementation requires a lot of effort and testing!<p>To help with this process, our team (Athina AI) has released Open-Source Advanced RAG Cookbooks.<p>This is a collection of ready-to-run Google Colab notebooks featuring the most commonly implemented techniques.<p>Please show us some love by starring  the repo if you find this useful!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42314212\">https://news.ycombinator.com/item?id=42314212</a></p>\n<p>Points: 98</p>\n<p># Comments: 27</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -156,7 +144,7 @@
       "author": "iskrataa",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 235</p>\n<p># Comments: 83</p>\n",
+      "content": "\n<p>Hey HN,<p>I am a student shipping apps in my free time. This is my 4th for the year!<p>Non-fic books and podcasts have been part of my life for years now but I always struggled with remembering what I’ve read or listened to. I wanted it to stick even after years.<p>My notes list grew large but I never really revisited them. That’s why I created GinkgoNotes.<p>You can enter notes you want to recall and leave it to the app to create a personalised (based on spaced repetition) email schedule. That means you’ll get your notes emailed to you a couple of times exactly when you should read them again (based on Ebbinghaus's Forgetting Curve) so it’s certain that you’ll remember them.<p>I hope this will be helpful as it was for me. Would love some feedback!<p>Iskren</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42317393\">https://news.ycombinator.com/item?id=42317393</a></p>\n<p>Points: 236</p>\n<p># Comments: 85</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -180,7 +168,7 @@
       "author": "burcs",
       "unread": true,
       "desc": "",
-      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 341</p>\n<p># Comments: 141</p>\n",
+      "content": "\n<p>We just launched Outerbase Studio, the open-source version of our core database offering. It works in your browser or as a desktop app and supports MySQL, PostgreSQL, and SQLite.<p>What it does:<p>• Connects to MySQL, PostgreSQL, and SQLite databases.\n• Spin up local databases directly through the UI, even if you don’t have one running.\n• Manage and query your data in a lightweight, intuitive interface.\n• Completely open source.<p>Why we built it: \nWe wanted to share the core Outerbase experience with the developer community as a free, open-source tool. It’s simple, fast, and removes the barriers to working with databases locally.<p>GitHub: <a href=\"https://github.com/outerbase/studio\">https://github.com/outerbase/studio</a><p>Release Blog: <a href=\"https://www.outerbase.com/blog/outerbase-studio-open-source-database-management/\">https://www.outerbase.com/blog/outerbase-studio-open-source-...</a><p>Try it out: studio.outerbase.com<p>Would love the HN communities feedback, please try it out and let me know what you think!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42320032\">https://news.ycombinator.com/item?id=42320032</a></p>\n<p>Points: 343</p>\n<p># Comments: 141</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -192,7 +180,7 @@
       "author": "cyclotruc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 173</p>\n<p># Comments: 47</p>\n",
+      "content": "\n<p>Gitingest is a open-source micro dev-tool that I made over the last week.<p>It turns any public Github repository into a text\nextract that you can give to your favourite LLM easily.<p>Today I added this url trick to make it even easier to use!<p>How I use it myself:\n- Quickly generate a README.md boilerplate for a project\n- Ask LLMs questions about an undocumented codebase<p>It is still very much work in progress and I plan to add many more options (file size limits, exclude patterns..) and a public API<p>I hope this tool can help you\nYour feedback is very valuable to help me prioritize\nAnd contributions are welcome!</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42329071\">https://news.ycombinator.com/item?id=42329071</a></p>\n<p>Points: 174</p>\n<p># Comments: 49</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -204,7 +192,7 @@
       "author": "Bananymous",
       "unread": true,
       "desc": "",
-      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 312</p>\n<p># Comments: 56</p>\n",
+      "content": "\n<p>This is my operating system that I've been working for the past 2 years. All of the code is written exclusively by me except from ported software. banan-os has a monolithic kernel targeting x86 (i686) and x86_64 architectures. The project consists of bootloader, kernel and userspace libraries (libc, libGUI, libFont, ...). It also uses my custom C++ standard library partly based on stdc++.<p>Currently I have basic TTY and GUI environment with some of the basic UNIX utilities like cp, ls and stat. I have basic support for USB (keyboard/mouse/storage), disks (NVMe, AHCI), custom networking stack with TCP and UDP support, and a UNIX-like filesystem with /dev /tmp /proc filesystems.<p>The whole project is written in  C++ except for my BIOS bootloader that is written in 16-bit real mode assembly. I have been testing the OS mainly on virtual machines but also frequently on real hardware.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42331270\">https://news.ycombinator.com/item?id=42331270</a></p>\n<p>Points: 319</p>\n<p># Comments: 57</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -216,7 +204,7 @@
       "author": "MarkMc",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 170</p>\n<p># Comments: 65</p>\n",
+      "content": "\n<p>Hi folks this is a project I worked on with some of my students when I was running an online JS programming course.  Although the online course is no more, I finally got around to releasing Hacker Herald with a former instructor and student - thanks Arnav and Archis!<p>To those wondering if there is a need for such a Hacker News front end, I would just point out that most newspaper websites are laid out like this - clearly some people like this kind of layout!<p>Also for some stories a picture really does help - currently there is a HN story titled, \"Portland airport grows with expansive mass timber roof canopy\".  But IMO it's better to actually see a picture of the timber roof while scrolling rather than having to click through to the article.</p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42338327\">https://news.ycombinator.com/item?id=42338327</a></p>\n<p>Points: 201</p>\n<p># Comments: 75</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -228,7 +216,7 @@
       "author": "yoeven",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 76</p>\n<p># Comments: 12</p>\n",
+      "content": "\n<p>Nowadays, a common AI tech stack has hundreds of different prompts running across different LLMs.<p>Three key problems:<p>- Choices, picking from 100s of LLMs the best LLM for that 1 prompt is gonna be challenging, you're probably not picking the most optimized LLM for a prompt you wrote.<p>- Scaling/Upgrading, similar to choices but you want to keep consistency of your output even when models depreciate or configurations change.<p>- Prompt management is scary, if something works, you'll never want to touch it but you should be able to without fear of everything breaking.<p>So we launched Prompt Engine which automatically runs your prompts for you on the best LLM every single time with all the tools like internet access. You can also store prompts for reusability and caching which increases performance on every run.<p>How it works?<p>tldr, we built a really small model that is trained on datasets comparing 100s of LLMs that can automatically pick a model based on your prompt.<p>Here's an article explaining the details: <a href=\"https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-moa-outperform-any-single-llm-and-reduce-cost-with-prompt-engine\" rel=\"nofollow\">https://jigsawstack.com/blog/jigsawstack-mixture-of-agents-m...</a></p>\n<hr>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339302\">https://news.ycombinator.com/item?id=42339302</a></p>\n<p>Points: 84</p>\n<p># Comments: 13</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -240,7 +228,19 @@
       "author": "bnkty",
       "unread": true,
       "desc": "",
-      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 88</p>\n<p># Comments: 23</p>\n",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/bunkerity/bunkerweb\">https://github.com/bunkerity/bunkerweb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42339856\">https://news.ycombinator.com/item?id=42339856</a></p>\n<p>Points: 110</p>\n<p># Comments: 28</p>\n",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Show HN: Real-Time YOLO Object Detection in Elixir: Fast, Simple, Extensible",
+      "url": "https://github.com/poeticoding/yolo_elixir",
+      "date": 1733506794,
+      "author": "alvises",
+      "unread": true,
+      "desc": "",
+      "content": "\n<p>Article URL: <a href=\"https://github.com/poeticoding/yolo_elixir\">https://github.com/poeticoding/yolo_elixir</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=42342038\">https://news.ycombinator.com/item?id=42342038</a></p>\n<p>Points: 74</p>\n<p># Comments: 11</p>\n",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

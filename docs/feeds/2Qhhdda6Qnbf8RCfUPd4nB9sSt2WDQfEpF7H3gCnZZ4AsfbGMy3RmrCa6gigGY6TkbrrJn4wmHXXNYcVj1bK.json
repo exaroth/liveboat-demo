@@ -6,30 +6,6 @@
   "feedLink": "https://www.reddit.com/r/rust/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "This Week in Rust #576",
-      "url": "https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/",
-      "date": 1733431384,
-      "author": "/u/cdmistman",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cdmistman\"> /u/cdmistman </a> <br/> <span><a href=\"https://this-week-in-rust.org/blog/2024/12/04/this-week-in-rust-576\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7jacb/this_week_in_rust_576/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Loco v0.13 released: background jobs w/SQLite, jobs admin UI, new rhai-based starter generator",
-      "url": "https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/",
-      "date": 1733470348,
-      "author": "/u/jondot1",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi all,</p> <p><a href=\"http://Loco.rs\">Loco.rs</a> <strong>v0.13.x has been released</strong> with over 40 new additions and fixes (our biggest version yet).</p> <p>Our focus for this milestone was:</p> <p>* <a href=\"https://github.com/loco-rs/loco/tree/master/loco-new\">The new starter generator</a>. With a bit of smart engineering, much more powerful and flexible. A Loco starter is now described with a <code>rhai</code> script, which prepares the ground for anyone to create their own Loco starters, see our default one here: <a href=\"https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai\">https://github.com/loco-rs/loco/blob/master/loco-new/setup.rhai</a></p> <p>* First class <a href=\"https://loco.rs/docs/processing/workers/\">background jobs</a> experience. We now support <code>sqlite</code> as well as: <code>postgres</code>, <code>redis</code> (<code>valkey</code>), <code>async</code> (threads), <code>foreground</code>.</p> <p>* <a href=\"https://github.com/loco-rs/admin-jobs\">Background jobs admin</a>, standalone project with UI and all, <a href=\"https://github.com/loco-rs/admin-jobs\">https://github.com/loco-rs/admin-jobs</a>, built on Loco, to manage your background jobs with ease.</p> <p>If you haven&#39;t yet given Loco a try, start here: <a href=\"https://loco.rs/docs/getting-started/tour/\">https://loco.rs/docs/getting-started/tour/</a> . It takes 5 minutes to get a full CRUD app running with authentication and everything.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jondot1\"> /u/jondot1 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h7w3ai/loco_v013_released_background_jobs_wsqlite_jobs/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Why is u32/i32 faster than u8?",
       "url": "https://www.reddit.com/r/rust/comments/1h7wqx6/why_is_u32i32_faster_than_u8/",
       "date": 1733473272,
@@ -66,6 +42,18 @@
       "enclosureMime": ""
     },
     {
+      "title": "Announcing ProSA: Our New Rust Open Source Library for Handling Transactional Flow at Worldline Fintech",
+      "url": "https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/",
+      "date": 1733488653,
+      "author": "/u/reneca",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/reneca\"> /u/reneca </a> <br/> <span><a href=\"https://blog.worldline.tech/2024/11/26/prosa.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h80eiq/announcing_prosa_our_new_rust_open_source_library/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
       "title": "[Media] Actuate UI: Now with Material design components, better ergonomics with Bevy, and a faster runtime with support for pause/resume",
       "url": "https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/",
       "date": 1733508262,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/matthunz\"> /u/matthunz </a> <br/> <span><a href=\"https://i.redd.it/4o7pdfp2q95e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h87jod/media_actuate_ui_now_with_material_design/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Why can deriving Copy pessimize performance by 60%?",
+      "url": "https://www.reddit.com/r/rust/comments/1h8dj64/why_can_deriving_copy_pessimize_performance_by_60/",
+      "date": 1733523917,
+      "author": "/u/jogru0",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Until now, my understanding was that <em>Copy</em> is just a marker trait for the compiler to allow use after move. Therefore, it influences what code is accepted as correct, but should not influence code generation. In particular, I thought it&#39;s always a good idea to derive <em>Copy</em> when possible.</p> <p>So imagine my surprise when I experimented with the following type:</p> <pre><code>#[derive(Clone)] enum IntOrBool { Int(i64), Bool(bool), } </code></pre> <p>On my machine (AMD Ryzen 5 3600), cloning a value of this type takes ~2.5ns. However, when I additionally derive <em>Copy,</em> that time goes up to ~4ns. That&#39;s 60% slower!</p> <p>Does anyone know what&#39;s going on here? The only explanation I can possibly think of is that the compiler does some ostensible optimizations only allowed due to <em>Copy</em> semantics, which unfortunately end up being pessimizations after all? (Indeed, when I disable optimizations, the effect goes away.) But that sounds rather odd and hand-wavy, so I would really love to understand that in detail.</p> <p>PS Some anticipatory clarifications:</p> <ul> <li><em>If the type implements Copy, why call .clone() instead of just copying?</em> I think both should be compiled to exactly the same thing, so it shouldn&#39;t matter. But just to make sure, I also measured it, and yep, I get the same slowed down performance when copying directly.</li> <li><em>Maybe these differences in measurement are a weird side effect of the artificial microbenchmark setup?</em> Certainly possible. Also, I&#39;m definitely not a pro with these types of benchmarks, so maybe I did something stupid and these values are not really measuring what I think they do. However, the reason I started looking into this and found this minimal example is that I came across this effect in a real-world setting: An language interpreter I wrote slowed down by about 10% <strong>end-to-end</strong> when I added <em>Copy</em> to a type where I initially forgot it. So there is definitely a real effect here.</li> </ul> <p>EDIT: Here is my benchmarking code (uses <code>criterion</code>):</p> <pre><code>use criterion::{criterion_group, criterion_main, Criterion}; use std::hint::black_box; fn criterion_benchmark(c: &amp;mut Criterion) { let copyable = Copyable::Bool(false); let not_copyable = NotCopyable::Bool(false); let mut group = c.benchmark_group(&quot;copy slowdown&quot;); group.bench_function(&quot;copy&quot;, |b| b.iter(|| black_box(&amp;copyable).clone())); group.bench_function(&quot;no copy&quot;, |b| b.iter(|| black_box(&amp;not_copyable).clone())); } criterion_group!(benches, criterion_benchmark); criterion_main!(benches); #[derive(Clone, Copy)] pub enum Copyable { Int(i64), Bool(bool), } #[derive(Clone)] pub enum NotCopyable { Int(i64), Bool(bool), } </code></pre> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/jogru0\"> /u/jogru0 </a> <br/> <span><a href=\"https://www.reddit.com/r/rust/comments/1h8dj64/why_can_deriving_copy_pessimize_performance_by_60/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/rust/comments/1h8dj64/why_can_deriving_copy_pessimize_performance_by_60/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

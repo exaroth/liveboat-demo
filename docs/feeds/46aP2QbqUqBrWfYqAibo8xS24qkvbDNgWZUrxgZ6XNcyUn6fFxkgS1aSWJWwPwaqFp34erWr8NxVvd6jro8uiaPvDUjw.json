@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/kubernetes/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "kapi - a simplified k8s api and controller lib",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/",
-      "date": 1733432912,
-      "author": "/u/comrade-quinn",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hi folks,</p> <p>What the title says really...</p> <p>I&#39;ve recently put this together after extracting it from various forms of an embedded lib I&#39;ve used on personal projects over the last few months, with a view to using it to help me on a paid project I&#39;m involved with.</p> <p>I&#39;m looking for feedback and opinions mainly, but I also think a lot of people may find it useful, particularly if you find kubebuilder&#39;s approach frustrating (as I do)</p> <p>The full details and an example are in the <a href=\"https://github.com/comradequinn/kapi/blob/main/README.md\">README</a> and the lib itself is <a href=\"https://github.com/comradequinn/kapi\">here</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/comrade-quinn\"> /u/comrade-quinn </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7jwae/kapi_a_simplified_k8s_api_and_controller_lib/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Kubernetes-friendly wiki?",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h7yjj9/kubernetesfriendly_wiki/",
       "date": 1733481365,
@@ -25,18 +13,6 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been looking for a good wiki-engine that can run on k8s, with replicas. My old goto wikis (BookStack and DokuWiki) don&#39;t really seem to fit too well. (It&#39;s worth mentioning that I&#39;m a k8s-newb, so I might have misunderstood things regarding BookStack.)</p> <p>Searching the web for alternatives is rather hard since I get a lot of results that are wikis about k8s, or links to the kubernetes-article on Wikipedia etc. I have however found Wiki.js which seems to have a good kubernetes install-guide.</p> <p>Anyone know of any alternatives? (I&#39;m pretty sure MediaWiki supports it, I just don&#39;t like that wiki&#39;s look).</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Fudd79\"> /u/Fudd79 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yjj9/kubernetesfriendly_wiki/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yjj9/kubernetesfriendly_wiki/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
-      "title": "Weekly: Share your victories thread",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/",
-      "date": 1733482809,
-      "author": "/u/gctaylor",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>Got something working? Figure something out? Make progress that you are excited about? Share here!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gctaylor\"> /u/gctaylor </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h7yvj1/weekly_share_your_victories_thread/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
@@ -54,18 +30,6 @@
       "enclosureMime": ""
     },
     {
-      "title": "Anyone has experience with Commvault backups for k8s?",
-      "url": "https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/",
-      "date": 1733491705,
-      "author": "/u/Then-Treat1346",
-      "unread": true,
-      "desc": "",
-      "content": "<!-- SC_OFF --><div class=\"md\"><p>We are preparing for a POC with Commvault for our k8s backups. We have 17 ROSA clusters which we want to protect.</p> <p>Since I’ll be working with configuring the backups, I wanted to know if this solution works well with ROSA in particular.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Then-Treat1346\"> /u/Then-Treat1346 </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h81cco/anyone_has_experience_with_commvault_backups_for/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "What is the most cost effective place to use Kubernetes?",
       "url": "https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/",
       "date": 1733513151,
@@ -73,6 +37,42 @@
       "unread": true,
       "desc": "",
       "content": "<!-- SC_OFF --><div class=\"md\"><p>I&#39;ve been using k8s for a few years as a developer on my day job. I&#39;m now working on a personal project that is becoming serious, and have paying customers. I&#39;m looking for suggestions regards to where should I host this solution that I&#39;m working on for myself. Kubernetes was my first thought because this is what I&#39;ve been used for some time on m day job, but that&#39;s it, I&#39;ve been using it, I don&#39;t need to manage anything, nor I have deep pockets to spend on expensive offerings.</p> <p>I&#39;m wondering what is the best place I can setup a K8s cluster cost effective wise. I&#39;m open to other deployment options as well. Right now It&#39;s just a single backend, monolith, and a Postgres instance. My access pattern is not spiky, and I don&#39;t need to auto scale the service like, ever, given it&#39;s built in Go and the access is still very low.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/fenugurod\"> /u/fenugurod </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h89gnl/what_is_the_most_cost_effective_place_to_use/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Best way to learn about Kubernetes and auto scalability with AWS",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h8d6ou/best_way_to_learn_about_kubernetes_and_auto/",
+      "date": 1733522977,
+      "author": "/u/JVPEs",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hello guys! I&#39;m currently working on a new personal project which I&#39;m very excited for! Obviously I need to set it up online using Kubernetes with AWS, or other resources.</p> <p>For some of you that might&#39;ve cross the same path, what was the best way to learn these tools?</p> <p>Thank you so much for help!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/JVPEs\"> /u/JVPEs </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h8d6ou/best_way_to_learn_about_kubernetes_and_auto/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h8d6ou/best_way_to_learn_about_kubernetes_and_auto/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Kubernetes Operator for Tunnels: frp Operator 🚀",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h8do7q/kubernetes_operator_for_tunnels_frp_operator/",
+      "date": 1733524311,
+      "author": "/u/niekberenschot",
+      "unread": true,
+      "desc": "",
+      "content": "<!-- SC_OFF --><div class=\"md\"><p>Hey everyone! If you’re struggling with exposing services (external load balancer) securely in Kubernetes but don’t have a static IP or can’t change firewall configurations, the frp Kubernetes Operator might be the solution. This operator automates the deployment of frp (Fast Reverse Proxy) clients and tunnels, removing the need for complex ingress setups and firewall changes.</p> <p>With support for protocols like TCP, UDP, HTTP, and HTTPS, it’s ideal for use cases such as home labs, self-hosted apps, or secure remote access. It also provides flexible, cost-effective exit servers and offers built-in encryption and compression for optimized performance.</p> <p>GitHub: <a href=\"https://github.com/Aureum-Cloud/frp-Operator\">https://github.com/Aureum-Cloud/frp-Operator</a> Helm: <a href=\"https://frp-operator.aureum.cloud\">https://frp-operator.aureum.cloud</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/niekberenschot\"> /u/niekberenschot </a> <br/> <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h8do7q/kubernetes_operator_for_tunnels_frp_operator/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h8do7q/kubernetes_operator_for_tunnels_frp_operator/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Bringing Amazon EKS Hybrid Nodes to life with Palette",
+      "url": "https://www.reddit.com/r/kubernetes/comments/1h8f4vy/bringing_amazon_eks_hybrid_nodes_to_life_with/",
+      "date": 1733528454,
+      "author": "/u/wineandcode",
+      "unread": true,
+      "desc": "",
+      "content": "<table> <tr><td> <a href=\"https://www.reddit.com/r/kubernetes/comments/1h8f4vy/bringing_amazon_eks_hybrid_nodes_to_life_with/\"> <img src=\"https://external-preview.redd.it/noPP9JgOrNFAtpV7GaV9l9H8vU_ua-REiiI9976CEU0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cc8a3fb7ec763c208065e25e22c86c2792e3b5b5\" alt=\"Bringing Amazon EKS Hybrid Nodes to life with Palette\" title=\"Bringing Amazon EKS Hybrid Nodes to life with Palette\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/wineandcode\"> /u/wineandcode </a> <br/> <span><a href=\"https://itnext.io/bringing-amazon-eks-hybrid-nodes-to-life-with-palette-584734449503?source=friends_link&amp;sk=79b5957b0263c9f3cfdf799720c9f1a3\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/kubernetes/comments/1h8f4vy/bringing_amazon_eks_hybrid_nodes_to_life_with/\">[comments]</a></span> </td></tr></table>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""

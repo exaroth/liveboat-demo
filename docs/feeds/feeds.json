@@ -58,7 +58,7 @@
       "tags": [
         "podcast"
       ],
-      "num_items": 19
+      "num_items": 18
     },
     {
       "id": "368La1qZAv727wqsvC8sbLBZGryhH8SVwbTpqXaweRcuutW1gXksMDmNaCNQmszjC3ZZGEBhaSSEnnHmMXtmcZ71",
@@ -154,7 +154,7 @@
       "tags": [
         "podcast"
       ],
-      "num_items": 17
+      "num_items": 18
     },
     {
       "id": "6C2W1azD1rBrwqWWL9kQ1NofbtZZftJZnfQ3u9LZdNi3d1BmyU9HagS",
@@ -178,7 +178,7 @@
       "tags": [
         "dev"
       ],
-      "num_items": 29
+      "num_items": 30
     },
     {
       "id": "4W3i2hyrJTVfcLq85rWgduVQ3y3BMzrSD4pVUCMqPpFhmXWpqxQ",
@@ -190,7 +190,7 @@
       "tags": [
         "dev"
       ],
-      "num_items": 10
+      "num_items": 18
     },
     {
       "id": "82kPqomaPXmNomrHzpZWfbkQxiiNUBTAYKxHR5qZBEpf",
@@ -226,7 +226,7 @@
       "tags": [
         "dev"
       ],
-      "num_items": 4
+      "num_items": 3
     },
     {
       "id": "7DceLgR4szFxQ3UB53HWzbG45Ex5fdouH7krrJM2AKs6cssjdexHZCQGYMtghshA1XvfPN6ncGeVc5C7GNvnN",
@@ -477,18 +477,6 @@
       "hidden": false,
       "tags": [
         "news"
-      ],
-      "num_items": 15
-    },
-    {
-      "id": "B69zEhWZA8UEAMn3PhHgwARc5WGncWEYFkmfHhvUDpmmwCTb86SBbpJu5kTKr3v5o6YroQ4JppnDNnzjuHTVGvQxA4A449QTVdCFj9kz",
-      "title": "Daily Stoic",
-      "display_title": "Podcast - Daily Stoic",
-      "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkUaT0T03TJvafYkfATM2Ag",
-      "feedlink": "https://www.youtube.com/channel/UCkUaT0T03TJvafYkfATM2Ag",
-      "hidden": false,
-      "tags": [
-        "podcast"
       ],
       "num_items": 15
     },

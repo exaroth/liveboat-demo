@@ -6,18 +6,6 @@
   "feedLink": "https://www.reddit.com/r/linux/top/?sort=top&t=day&limit=6",
   "items": [
     {
-      "title": "Linux 6.12 confirmed as LTS kernel",
-      "url": "https://www.reddit.com/r/linux/comments/1h7ucho/linux_612_confirmed_as_lts_kernel/",
-      "date": 1733463482,
-      "author": "/u/gabriel_3",
-      "unread": true,
-      "desc": "",
-      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/gabriel_3\"> /u/gabriel_3 </a> <br/> <span><a href=\"https://www.kernel.org/category/releases.html\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h7ucho/linux_612_confirmed_as_lts_kernel/\">[comments]</a></span>",
-      "flags": null,
-      "enclosureUrl": "",
-      "enclosureMime": ""
-    },
-    {
       "title": "Y'all seen the 6.10 bsod.. but did y'all see a BLUE BACKGROUND KERNEL PANIC?",
       "url": "https://www.reddit.com/r/linux/comments/1h7ws5n/yall_seen_the_610_bsod_but_did_yall_see_a_blue/",
       "date": 1733473432,
@@ -73,6 +61,18 @@
       "unread": true,
       "desc": "",
       "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Zery12\"> /u/Zery12 </a> <br/> <span><a href=\"https://i.redd.it/10e9fqy4c85e1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h81a9d/paid_software_is_coming_to_flathub/\">[comments]</a></span>",
+      "flags": null,
+      "enclosureUrl": "",
+      "enclosureMime": ""
+    },
+    {
+      "title": "Kernel panic on a barrier",
+      "url": "https://www.reddit.com/r/linux/comments/1h8767l/kernel_panic_on_a_barrier/",
+      "date": 1733507363,
+      "author": "/u/c0let",
+      "unread": true,
+      "desc": "",
+      "content": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/c0let\"> /u/c0let </a> <br/> <span><a href=\"https://i.redd.it/kxs5hrqcn95e1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/linux/comments/1h8767l/kernel_panic_on_a_barrier/\">[comments]</a></span>",
       "flags": null,
       "enclosureUrl": "",
       "enclosureMime": ""
