@@ -30,7 +30,6 @@ jobs:
               git reset --soft HEAD~1
               git stash
           fi
-          rm -rfv docs
         shell: bash
       - name: Run newsboat
         run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
