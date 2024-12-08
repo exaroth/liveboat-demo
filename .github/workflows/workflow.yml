@@ -18,28 +18,48 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          ref: 'master'
           fetch-depth: 0
       - name: install deps
         run: sudo apt-get update && sudo apt-get install snapd sqlite3
       - name: install newsboat
         run: sudo snap install newsboat
+      - name: source options
+        uses: falti/dotenv-action@v1.1.4
+        with:
+          path: ./config/page_options
+          keys-case: bypass
+          export-variables: true
+      - name: set up gitconfig
+        run: |
+          git config --local user.email "liveboat-builder@github.com"
+          git config --local user.name "liveboat-feed-builder"
+        shell: bash
+      - name: debug
+        run:
+          echo ${{ steps.dotenv.outputs.newsboat_cache_retention_days }}
+          echo ${{ steps.dotenv.outputs.CHECK_FOR_UPDATES }}
+          echo ${{ steps.dotenv.outputs.persist_newsboat_cache }}
+          echo ${{ env.CHECK_FOR_UPDATES }}
+          echo ${{ env.check_for_updates }}
       - name: Cleanup last build
         run: |
           if echo $(git log --oneline -1) | grep -q "Feed rebuild @"; then
               git reset --soft HEAD~1
-              git stash
+              git stash push -m old_feeds ./docs 
           fi
         shell: bash
       - name: Run newsboat
         run: newsboat -u config/newsboat-urls -C config/newsboat-config -c cache.db -x reload
       - name: Run liveboat
         run: ./bin/liveboat --template-path templates/default --config-file config/liveboat-config.toml
+      - name: Truncate database
+        run: |
+          ./scripts/truncate_db ${{ env.NEWSBOAT_CACHE_RETENTION_DAYS }}
+          git add ./cache.db
+        if: env.PERSIST_NEWSBOAT_CACHE == '1'
       - name: Commit files
         id: commit
         run: |
-          git config --local user.email "liveboat-builder@github.com"
-          git config --local user.name "liveboat-feed-builder"
           git add ./docs
           let ts=$(date +"%s")
           git commit -m "Feed rebuild @ ${ts}" -a
@@ -48,5 +68,6 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
           force_with_lease: true
+          branch: master
+        if: github.ref_name == 'master'
