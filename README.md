@@ -31,7 +31,7 @@ __STEP 3__ Update configuration and urls file
 - Next update Newsboat url feeds in `./config/newsboat-urls` file - replacing existing config with contents of your local `urls` file (typically stored at `~/.newsboat/urls`)
 
 > [!NOTE]
-> Order of the urls does matter as it will reflect order of feeds in generated page.
+> Order of the URLs does matter as it will reflect order of feeds in generated page.
 
 __STEP 4__ After updating all the files commit them to the repository and push to remote
 ```sh
@@ -40,7 +40,7 @@ git push --set-upstream origin master
 
 __STEP 5__ Update settings for the repository
 
-1. Got to `Settings->Actions->General` page within the repo created in Step 1. In `Workflow Permissions` section set `Read and write permissions` and click `Save`.
+1. Go to `Settings->Actions->General` page within the repo created in Step 1. In `Workflow Permissions` section set `Read and write permissions` and click `Save`.
 ![screenshot1](./assets/screen1.png)
 2. Still in Project Settings go to `Pages` tab and under `Build and deployment`, set `Source` to `Deploy from branch`, set `Branch name` to `master` and select `/docs` as the folder to deploy Pages from. Click `Save`.
 ![screenshot2](./assets/screen2.png)
