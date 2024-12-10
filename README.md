@@ -12,19 +12,19 @@ Prerequisites:
 - Existing Newsboat configuration, in particular `urls` file. If that does not ring a bell see [Newsboat documentation](https://newsboat.org/releases/2.10.2/docs/newsboat.html) for setup instructions.
 - Github account
 
-#### __STEP 1__ Create new Github project 
+__STEP 1__ Create new Github project 
 
 > [!NOTE]
 > Repository can be private or public however note that hosting project pages from private repos is only available for Github Pro users.
 
-#### __STEP 2__ Clone `liveboat-demo` repository and update it's remote to that created in previous step
+__STEP 2__ Clone `liveboat-demo` repository and update it's remote to that created in previous step
 
 ``` sh
 git clone git@github.com:exaroth/liveboat-demo.git && cd liveboat-demo;
 git remote rm origin && git remote add origin remote add origin git@github.com:<your_username>/<repo_name>
 ```
 
-#### __STEP 3__ Update configuration and urls file
+__STEP 3__ Update configuration and urls file
 
 - First edit `./config/liveboat-config.toml` file, update `title` option and most importantly `site_path` - this option needs to be set `/<repo_name>/` where `repo_name` corresponds to repository name created in Step 1.
 
