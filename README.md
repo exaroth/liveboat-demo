@@ -5,7 +5,7 @@ Liveboat Github Runner
 </h2>
 
 
-### See it in [Action](https://konrad.website/liveboat-demo)
+### See it in [Action](https://konrad.website/liveboat-github-runner)
 
 <br/>
 This is template repository for [Liveboat](https://github.com/exaroth/liveboat) feed generator, use it to configure and deploy feed websites on Github Pages. Follow instructions below for more details.
@@ -21,10 +21,10 @@ __STEP 1__ Create new Github project
 > [!NOTE]
 > Repository can be private or public however note that hosting project pages from private repos is only available for Github Pro users.
 
-__STEP 2__ Clone `liveboat-demo` repository and update it's remote to that created in previous step
+__STEP 2__ Clone `liveboat-github-runner` repository and update it's remote to that created in previous step
 
 ``` sh
-git clone git@github.com:exaroth/liveboat-demo.git && cd liveboat-demo;
+git clone git@github.com:exaroth/liveboat-github-runner.git && cd liveboat-github-runner;
 git remote rm origin && git remote add origin remote add origin git@github.com:<your_username>/<repo_name>
 ```
 
