@@ -25,6 +25,7 @@ __STEP 2__ Clone `liveboat-github-runner` repository and update it's remote to t
 
 ``` sh
 git clone git@github.com:exaroth/liveboat-github-runner.git && cd liveboat-github-runner;
+
 git remote rm origin && git remote add origin git@github.com:<your_username>/<repo_name>
 ```
 
