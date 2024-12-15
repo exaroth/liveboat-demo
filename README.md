@@ -25,14 +25,14 @@ __STEP 2__ Clone `liveboat-github-runner` repository and update it's remote to t
 
 ``` sh
 git clone git@github.com:exaroth/liveboat-github-runner.git && cd liveboat-github-runner;
-git remote rm origin && git remote add origin remote add origin git@github.com:<your_username>/<repo_name>
+git remote rm origin && git remote add origin git@github.com:<your_username>/<repo_name>
 ```
 
 __STEP 3__ Update configuration and urls file
 
 - First edit `./config/liveboat-config.toml` file, update `title` option and most importantly `site_path` - this option needs to be set `/<repo_name>/` where `repo_name` corresponds to repository name created in Step 1.
 
-- Next update Newsboat url feeds in `./config/newsboat-urls` file - replacing existing config with contents of your local `urls` file (typically stored at `~/.newsboat/urls`)
+- Next replace feeds url in `./config/newsboat-urls` with those you want to follow - If you're existing Newsboat user simply copy contents of the `urls` file (typically stored at `~/.newsboat/urls`)
 
 > [!NOTE]
 > Order of the URLs does matter as it will reflect order of feeds in generated page.
