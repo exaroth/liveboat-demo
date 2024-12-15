@@ -57,9 +57,9 @@ git tag build && git push --tags
 To execute page rebuild job.
 
 > [!TIP]
-> Pushing any tag starting with `build` will execute page rebuild job
+> Pushing any tag starting with `build` will execute page rebuild.
 
-__DONE__ Wait until Github Actions finish execution, then navigate to the repo Github Page `https:;//<username>/github.io/<repo_name>` and verify everything is as expected.
+__DONE__ Wait until Github Action finishes execution, then navigate to the repo Github Page `https:;//<username>/github.io/<repo_name>` and verify everything is as expected.
 
 ## Changing page appearance
 Default template allows basic level of color customization, if you want to change color theme edit `./templates/default/config.toml` file and update color values to those that suit your needs
