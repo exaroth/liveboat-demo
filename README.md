@@ -8,7 +8,7 @@ Liveboat Github Runner
 ### See it in [Action](https://konrad.website/liveboat-github-runner)
 
 <br/>
-This is template repository for [Liveboat](https://github.com/exaroth/liveboat) feed generator, use it to configure and deploy feed websites on Github Pages. Follow instructions below for more details.
+This is template repository for <a href="https://github.com/exaroth/liveboat">Liveboat</a> feed generator, use it to configure and deploy feed websites on Github Pages. Follow instructions below for more details.
 
 ## Installation
 
