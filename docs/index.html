@@ -10,8 +10,6 @@
 
     <meta name="mobile-web-app-capable" content="yes">
 
-    <link rel="stylesheet" href="./assets/index.css">
-
     <link rel='icon' href='./assets/favicon.ico' type='image/x-icon'>
     <link rel="apple-touch-icon" href="./assets/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/favicon-16x16.png">
@@ -24,10 +22,20 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <meta name="apple-mobile-web-app-title" content="Liveboat Demo">
 
+    <link rel="stylesheet" href="./assets/index.css?tv=1.0.1">
+    <style>
+        :root {
+            --color-text: #c7cfcc;
+            --color-highlight: #73bed3;
+            --color-accent: #3c5e8b;
+            --color-background: #181818;
+        }
+    </style>
+
   </head>
   <body>
       <script>
-      window.buildTime = 1734721374;
+      window.buildTime = 1734735783;
       window.pageTitle = 'Liveboat Demo';
       window.sitePath = '/liveboat-demo/';
       window.feeds = [
@@ -385,7 +393,7 @@
       </script>
       <div id="app"></div>
 
-    <script type="module" src="./assets/index.js"></script>
+    <script type="module" src="./assets/index.js?tv=1.0.1"></script>
 
   </body>
 </html>
