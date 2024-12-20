@@ -136,7 +136,7 @@ By default feed page will be rebuilt every hour, if you want to change it edit `
 ```
 ## Template updates
 
-In order to manually update `Liveboat` binary and templates execute `make update` alternatively you can enable automatic updates by setting `CHECK_FOR_UPDATES` to `1` in `./config/page_options` file
+In order to manually update `Liveboat` binary and templates execute `make update` alternatively you can enable automatic updates by setting `ENABLE_AUTOMATIC_UPDATES` to `1` in `./config/page_options` file which will check for new version of liveboat during every page rebuild.
 
 ## License
 Liveboat is provided under MIT License, see `LICENSE` file for details
